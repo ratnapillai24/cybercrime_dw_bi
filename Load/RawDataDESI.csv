@@ -1,0 +1,726 @@
+"Year","Indicator","Country","Country Code","Weighted Score"
+2018," Connectivity","Denmark","DK",20
+2018," Connectivity","Sweden","SE",19
+2018," Connectivity","Finland","FI",17
+2018," Connectivity","Netherlands","NL",20
+2018," Connectivity","Luxembourg","LU",20
+2018," Connectivity","Ireland","IE",16
+2018," Connectivity","United Kingdom","UK",17
+2018," Connectivity","Belgium","BE",19
+2018," Connectivity","Estonia","EE",16
+2018," Connectivity","Spain","ES",16
+2018," Connectivity","Austria","AT",16
+2018," Connectivity","Malta","MT",18
+2018," Connectivity","Lithuania","LT",16
+2018," Connectivity","Germany","DE",16
+2018," Connectivity","European Union 28","EU28",16
+2018," Connectivity","Slovenia","SI",15
+2018," Connectivity","Portugal","PT",17
+2018," Connectivity","Czech Republic","CZ",16
+2018," Connectivity","France","FR",14
+2018," Connectivity","Latvia","LV",16
+2018," Connectivity","Slovakia","SK",14
+2018," Connectivity","Cyprus","CY",15
+2018," Connectivity","Croatia","HR",12
+2018," Connectivity","Hungary","HU",15
+2018," Connectivity","Poland","PL",15
+2018," Connectivity","Italy","IT",13
+2018," Connectivity","Bulgaria","BG",14
+2018," Connectivity","Greece","EL",11
+2018," Connectivity","Romania","RO",15
+2018," Human Capital","Denmark","DK",18
+2018," Human Capital","Sweden","SE",19
+2018," Human Capital","Finland","FI",20
+2018," Human Capital","Netherlands","NL",19
+2018," Human Capital","Luxembourg","LU",18
+2018," Human Capital","Ireland","IE",15
+2018," Human Capital","United Kingdom","UK",18
+2018," Human Capital","Belgium","BE",14
+2018," Human Capital","Estonia","EE",15
+2018," Human Capital","Spain","ES",14
+2018," Human Capital","Austria","AT",16
+2018," Human Capital","Malta","MT",13
+2018," Human Capital","Lithuania","LT",12
+2018," Human Capital","Germany","DE",16
+2018," Human Capital","European Union 28","EU28",14
+2018," Human Capital","Slovenia","SI",13
+2018," Human Capital","Portugal","PT",11
+2018," Human Capital","Czech Republic","CZ",14
+2018," Human Capital","France","FR",15
+2018," Human Capital","Latvia","LV",11
+2018," Human Capital","Slovakia","SK",13
+2018," Human Capital","Cyprus","CY",11
+2018," Human Capital","Croatia","HR",12
+2018," Human Capital","Hungary","HU",12
+2018," Human Capital","Poland","PL",12
+2018," Human Capital","Italy","IT",10
+2018," Human Capital","Bulgaria","BG",9
+2018," Human Capital","Greece","EL",10
+2018," Human Capital","Romania","RO",8
+2018," Use of Internet","Denmark","DK",11
+2018," Use of Internet","Sweden","SE",11
+2018," Use of Internet","Finland","FI",10
+2018," Use of Internet","Netherlands","NL",10
+2018," Use of Internet","Luxembourg","LU",10
+2018," Use of Internet","Ireland","IE",8
+2018," Use of Internet","United Kingdom","UK",9
+2018," Use of Internet","Belgium","BE",8
+2018," Use of Internet","Estonia","EE",9
+2018," Use of Internet","Spain","ES",7
+2018," Use of Internet","Austria","AT",7
+2018," Use of Internet","Malta","MT",9
+2018," Use of Internet","Lithuania","LT",9
+2018," Use of Internet","Germany","DE",8
+2018," Use of Internet","European Union 28","EU28",8
+2018," Use of Internet","Slovenia","SI",7
+2018," Use of Internet","Portugal","PT",7
+2018," Use of Internet","Czech Republic","CZ",7
+2018," Use of Internet","France","FR",6
+2018," Use of Internet","Latvia","LV",8
+2018," Use of Internet","Slovakia","SK",8
+2018," Use of Internet","Cyprus","CY",8
+2018," Use of Internet","Croatia","HR",8
+2018," Use of Internet","Hungary","HU",8
+2018," Use of Internet","Poland","PL",6
+2018," Use of Internet","Italy","IT",6
+2018," Use of Internet","Bulgaria","BG",6
+2018," Use of Internet","Greece","EL",7
+2018," Use of Internet","Romania","RO",5
+2018," Integration of Digital Technology","Denmark","DK",12
+2018," Integration of Digital Technology","Sweden","SE",11
+2018," Integration of Digital Technology","Finland","FI",12
+2018," Integration of Digital Technology","Netherlands","NL",10
+2018," Integration of Digital Technology","Luxembourg","LU",7
+2018," Integration of Digital Technology","Ireland","IE",12
+2018," Integration of Digital Technology","United Kingdom","UK",8
+2018," Integration of Digital Technology","Belgium","BE",11
+2018," Integration of Digital Technology","Estonia","EE",7
+2018," Integration of Digital Technology","Spain","ES",10
+2018," Integration of Digital Technology","Austria","AT",9
+2018," Integration of Digital Technology","Malta","MT",8
+2018," Integration of Digital Technology","Lithuania","LT",9
+2018," Integration of Digital Technology","Germany","DE",8
+2018," Integration of Digital Technology","European Union 28","EU28",8
+2018," Integration of Digital Technology","Slovenia","SI",10
+2018," Integration of Digital Technology","Portugal","PT",8
+2018," Integration of Digital Technology","Czech Republic","CZ",8
+2018," Integration of Digital Technology","France","FR",8
+2018," Integration of Digital Technology","Latvia","LV",5
+2018," Integration of Digital Technology","Slovakia","SK",7
+2018," Integration of Digital Technology","Cyprus","CY",8
+2018," Integration of Digital Technology","Croatia","HR",7
+2018," Integration of Digital Technology","Hungary","HU",5
+2018," Integration of Digital Technology","Poland","PL",5
+2018," Integration of Digital Technology","Italy","IT",7
+2018," Integration of Digital Technology","Bulgaria","BG",5
+2018," Integration of Digital Technology","Greece","EL",5
+2018," Integration of Digital Technology","Romania","RO",4
+2018," Digital Public Services","Denmark","DK",11
+2018," Digital Public Services","Sweden","SE",11
+2018," Digital Public Services","Finland","FI",12
+2018," Digital Public Services","Netherlands","NL",11
+2018," Digital Public Services","Luxembourg","LU",8
+2018," Digital Public Services","Ireland","IE",10
+2018," Digital Public Services","United Kingdom","UK",9
+2018," Digital Public Services","Belgium","BE",9
+2018," Digital Public Services","Estonia","EE",12
+2018," Digital Public Services","Spain","ES",11
+2018," Digital Public Services","Austria","AT",10
+2018," Digital Public Services","Malta","MT",9
+2018," Digital Public Services","Lithuania","LT",10
+2018," Digital Public Services","Germany","DE",8
+2018," Digital Public Services","European Union 28","EU28",9
+2018," Digital Public Services","Slovenia","SI",9
+2018," Digital Public Services","Portugal","PT",9
+2018," Digital Public Services","Czech Republic","CZ",8
+2018," Digital Public Services","France","FR",9
+2018," Digital Public Services","Latvia","LV",10
+2018," Digital Public Services","Slovakia","SK",8
+2018," Digital Public Services","Cyprus","CY",8
+2018," Digital Public Services","Croatia","HR",7
+2018," Digital Public Services","Hungary","HU",6
+2018," Digital Public Services","Poland","PL",7
+2018," Digital Public Services","Italy","IT",8
+2018," Digital Public Services","Bulgaria","BG",7
+2018," Digital Public Services","Greece","EL",6
+2018," Digital Public Services","Romania","RO",6
+2017," Connectivity","Denmark","DK",19
+2017," Connectivity","Finland","FI",16
+2017," Connectivity","Sweden","SE",18
+2017," Connectivity","Netherlands","NL",19
+2017," Connectivity","Luxembourg","LU",19
+2017," Connectivity","Belgium","BE",18
+2017," Connectivity","United Kingdom","UK",16
+2017," Connectivity","Estonia","EE",16
+2017," Connectivity","Ireland","IE",15
+2017," Connectivity","Malta","MT",17
+2017," Connectivity","Austria","AT",15
+2017," Connectivity","Spain","ES",15
+2017," Connectivity","Lithuania","LT",15
+2017," Connectivity","Germany","DE",16
+2017," Connectivity","European Union 28","EU28",15
+2017," Connectivity","Portugal","PT",16
+2017," Connectivity","Slovenia","SI",14
+2017," Connectivity","Czech Republic","CZ",15
+2017," Connectivity","France","FR",13
+2017," Connectivity","Latvia","LV",15
+2017," Connectivity","Slovakia","SK",13
+2017," Connectivity","Cyprus","CY",14
+2017," Connectivity","Hungary","HU",14
+2017," Connectivity","Croatia","HR",11
+2017," Connectivity","Poland","PL",13
+2017," Connectivity","Italy","IT",12
+2017," Connectivity","Bulgaria","BG",13
+2017," Connectivity","Greece","EL",10
+2017," Connectivity","Romania","RO",12
+2017," Human Capital","Denmark","DK",17
+2017," Human Capital","Finland","FI",19
+2017," Human Capital","Sweden","SE",17
+2017," Human Capital","Netherlands","NL",18
+2017," Human Capital","Luxembourg","LU",18
+2017," Human Capital","Belgium","BE",14
+2017," Human Capital","United Kingdom","UK",18
+2017," Human Capital","Estonia","EE",14
+2017," Human Capital","Ireland","IE",14
+2017," Human Capital","Malta","MT",13
+2017," Human Capital","Austria","AT",16
+2017," Human Capital","Spain","ES",13
+2017," Human Capital","Lithuania","LT",11
+2017," Human Capital","Germany","DE",15
+2017," Human Capital","European Union 28","EU28",14
+2017," Human Capital","Portugal","PT",11
+2017," Human Capital","Slovenia","SI",13
+2017," Human Capital","Czech Republic","CZ",13
+2017," Human Capital","France","FR",14
+2017," Human Capital","Latvia","LV",11
+2017," Human Capital","Slovakia","SK",13
+2017," Human Capital","Cyprus","CY",9
+2017," Human Capital","Hungary","HU",12
+2017," Human Capital","Croatia","HR",11
+2017," Human Capital","Poland","PL",11
+2017," Human Capital","Italy","IT",10
+2017," Human Capital","Bulgaria","BG",8
+2017," Human Capital","Greece","EL",9
+2017," Human Capital","Romania","RO",8
+2017," Use of Internet","Denmark","DK",11
+2017," Use of Internet","Finland","FI",9
+2017," Use of Internet","Sweden","SE",11
+2017," Use of Internet","Netherlands","NL",9
+2017," Use of Internet","Luxembourg","LU",10
+2017," Use of Internet","Belgium","BE",8
+2017," Use of Internet","United Kingdom","UK",9
+2017," Use of Internet","Estonia","EE",9
+2017," Use of Internet","Ireland","IE",7
+2017," Use of Internet","Malta","MT",9
+2017," Use of Internet","Austria","AT",7
+2017," Use of Internet","Spain","ES",7
+2017," Use of Internet","Lithuania","LT",8
+2017," Use of Internet","Germany","DE",7
+2017," Use of Internet","European Union 28","EU28",7
+2017," Use of Internet","Portugal","PT",7
+2017," Use of Internet","Slovenia","SI",6
+2017," Use of Internet","Czech Republic","CZ",6
+2017," Use of Internet","France","FR",6
+2017," Use of Internet","Latvia","LV",8
+2017," Use of Internet","Slovakia","SK",7
+2017," Use of Internet","Cyprus","CY",8
+2017," Use of Internet","Hungary","HU",8
+2017," Use of Internet","Croatia","HR",8
+2017," Use of Internet","Poland","PL",6
+2017," Use of Internet","Italy","IT",5
+2017," Use of Internet","Bulgaria","BG",6
+2017," Use of Internet","Greece","EL",6
+2017," Use of Internet","Romania","RO",4
+2017," Integration of Digital Technology","Denmark","DK",12
+2017," Integration of Digital Technology","Finland","FI",11
+2017," Integration of Digital Technology","Sweden","SE",11
+2017," Integration of Digital Technology","Netherlands","NL",10
+2017," Integration of Digital Technology","Luxembourg","LU",6
+2017," Integration of Digital Technology","Belgium","BE",10
+2017," Integration of Digital Technology","United Kingdom","UK",7
+2017," Integration of Digital Technology","Estonia","EE",6
+2017," Integration of Digital Technology","Ireland","IE",11
+2017," Integration of Digital Technology","Malta","MT",8
+2017," Integration of Digital Technology","Austria","AT",8
+2017," Integration of Digital Technology","Spain","ES",8
+2017," Integration of Digital Technology","Lithuania","LT",9
+2017," Integration of Digital Technology","Germany","DE",8
+2017," Integration of Digital Technology","European Union 28","EU28",7
+2017," Integration of Digital Technology","Portugal","PT",9
+2017," Integration of Digital Technology","Slovenia","SI",9
+2017," Integration of Digital Technology","Czech Republic","CZ",8
+2017," Integration of Digital Technology","France","FR",7
+2017," Integration of Digital Technology","Latvia","LV",5
+2017," Integration of Digital Technology","Slovakia","SK",6
+2017," Integration of Digital Technology","Cyprus","CY",7
+2017," Integration of Digital Technology","Hungary","HU",5
+2017," Integration of Digital Technology","Croatia","HR",7
+2017," Integration of Digital Technology","Poland","PL",4
+2017," Integration of Digital Technology","Italy","IT",7
+2017," Integration of Digital Technology","Bulgaria","BG",4
+2017," Integration of Digital Technology","Greece","EL",5
+2017," Integration of Digital Technology","Romania","RO",4
+2017," Digital Public Services","Denmark","DK",11
+2017," Digital Public Services","Finland","FI",11
+2017," Digital Public Services","Sweden","SE",10
+2017," Digital Public Services","Netherlands","NL",10
+2017," Digital Public Services","Luxembourg","LU",7
+2017," Digital Public Services","Belgium","BE",8
+2017," Digital Public Services","United Kingdom","UK",8
+2017," Digital Public Services","Estonia","EE",12
+2017," Digital Public Services","Ireland","IE",9
+2017," Digital Public Services","Malta","MT",9
+2017," Digital Public Services","Austria","AT",10
+2017," Digital Public Services","Spain","ES",10
+2017," Digital Public Services","Lithuania","LT",9
+2017," Digital Public Services","Germany","DE",7
+2017," Digital Public Services","European Union 28","EU28",8
+2017," Digital Public Services","Portugal","PT",9
+2017," Digital Public Services","Slovenia","SI",8
+2017," Digital Public Services","Czech Republic","CZ",7
+2017," Digital Public Services","France","FR",8
+2017," Digital Public Services","Latvia","LV",8
+2017," Digital Public Services","Slovakia","SK",7
+2017," Digital Public Services","Cyprus","CY",8
+2017," Digital Public Services","Hungary","HU",5
+2017," Digital Public Services","Croatia","HR",6
+2017," Digital Public Services","Poland","PL",7
+2017," Digital Public Services","Italy","IT",7
+2017," Digital Public Services","Bulgaria","BG",7
+2017," Digital Public Services","Greece","EL",5
+2017," Digital Public Services","Romania","RO",6
+2016," Connectivity","Denmark","DK",18
+2016," Connectivity","Finland","FI",15
+2016," Connectivity","Sweden","SE",17
+2016," Connectivity","Netherlands","NL",19
+2016," Connectivity","United Kingdom","UK",15
+2016," Connectivity","Luxembourg","LU",18
+2016," Connectivity","Belgium","BE",17
+2016," Connectivity","Estonia","EE",14
+2016," Connectivity","Ireland","IE",14
+2016," Connectivity","Austria","AT",14
+2016," Connectivity","Malta","MT",16
+2016," Connectivity","Lithuania","LT",14
+2016," Connectivity","Germany","DE",15
+2016," Connectivity","Spain","ES",13
+2016," Connectivity","Portugal","PT",15
+2016," Connectivity","European Union 28","EU28",13
+2016," Connectivity","Slovenia","SI",13
+2016," Connectivity","France","FR",12
+2016," Connectivity","Latvia","LV",15
+2016," Connectivity","Czech Republic","CZ",14
+2016," Connectivity","Cyprus","CY",12
+2016," Connectivity","Hungary","HU",13
+2016," Connectivity","Slovakia","SK",11
+2016," Connectivity","Croatia","HR",10
+2016," Connectivity","Poland","PL",11
+2016," Connectivity","Italy","IT",11
+2016," Connectivity","Bulgaria","BG",11
+2016," Connectivity","Greece","EL",9
+2016," Connectivity","Romania","RO",11
+2016," Human Capital","Denmark","DK",17
+2016," Human Capital","Finland","FI",19
+2016," Human Capital","Sweden","SE",17
+2016," Human Capital","Netherlands","NL",18
+2016," Human Capital","United Kingdom","UK",17
+2016," Human Capital","Luxembourg","LU",19
+2016," Human Capital","Belgium","BE",14
+2016," Human Capital","Estonia","EE",15
+2016," Human Capital","Ireland","IE",14
+2016," Human Capital","Austria","AT",15
+2016," Human Capital","Malta","MT",12
+2016," Human Capital","Lithuania","LT",11
+2016," Human Capital","Germany","DE",15
+2016," Human Capital","Spain","ES",13
+2016," Human Capital","Portugal","PT",11
+2016," Human Capital","European Union 28","EU28",13
+2016," Human Capital","Slovenia","SI",13
+2016," Human Capital","France","FR",14
+2016," Human Capital","Latvia","LV",11
+2016," Human Capital","Czech Republic","CZ",13
+2016," Human Capital","Cyprus","CY",9
+2016," Human Capital","Hungary","HU",11
+2016," Human Capital","Slovakia","SK",12
+2016," Human Capital","Croatia","HR",11
+2016," Human Capital","Poland","PL",11
+2016," Human Capital","Italy","IT",10
+2016," Human Capital","Bulgaria","BG",7
+2016," Human Capital","Greece","EL",9
+2016," Human Capital","Romania","RO",7
+2016," Use of Internet","Denmark","DK",10
+2016," Use of Internet","Finland","FI",9
+2016," Use of Internet","Sweden","SE",10
+2016," Use of Internet","Netherlands","NL",8
+2016," Use of Internet","United Kingdom","UK",9
+2016," Use of Internet","Luxembourg","LU",9
+2016," Use of Internet","Belgium","BE",7
+2016," Use of Internet","Estonia","EE",9
+2016," Use of Internet","Ireland","IE",6
+2016," Use of Internet","Austria","AT",6
+2016," Use of Internet","Malta","MT",9
+2016," Use of Internet","Lithuania","LT",8
+2016," Use of Internet","Germany","DE",7
+2016," Use of Internet","Spain","ES",7
+2016," Use of Internet","Portugal","PT",6
+2016," Use of Internet","European Union 28","EU28",7
+2016," Use of Internet","Slovenia","SI",6
+2016," Use of Internet","France","FR",6
+2016," Use of Internet","Latvia","LV",8
+2016," Use of Internet","Czech Republic","CZ",6
+2016," Use of Internet","Cyprus","CY",7
+2016," Use of Internet","Hungary","HU",8
+2016," Use of Internet","Slovakia","SK",7
+2016," Use of Internet","Croatia","HR",7
+2016," Use of Internet","Poland","PL",6
+2016," Use of Internet","Italy","IT",5
+2016," Use of Internet","Bulgaria","BG",6
+2016," Use of Internet","Greece","EL",6
+2016," Use of Internet","Romania","RO",4
+2016," Integration of Digital Technology","Denmark","DK",11
+2016," Integration of Digital Technology","Finland","FI",11
+2016," Integration of Digital Technology","Sweden","SE",10
+2016," Integration of Digital Technology","Netherlands","NL",9
+2016," Integration of Digital Technology","United Kingdom","UK",7
+2016," Integration of Digital Technology","Luxembourg","LU",5
+2016," Integration of Digital Technology","Belgium","BE",10
+2016," Integration of Digital Technology","Estonia","EE",5
+2016," Integration of Digital Technology","Ireland","IE",11
+2016," Integration of Digital Technology","Austria","AT",8
+2016," Integration of Digital Technology","Malta","MT",7
+2016," Integration of Digital Technology","Lithuania","LT",8
+2016," Integration of Digital Technology","Germany","DE",8
+2016," Integration of Digital Technology","Spain","ES",7
+2016," Integration of Digital Technology","Portugal","PT",8
+2016," Integration of Digital Technology","European Union 28","EU28",7
+2016," Integration of Digital Technology","Slovenia","SI",7
+2016," Integration of Digital Technology","France","FR",6
+2016," Integration of Digital Technology","Latvia","LV",4
+2016," Integration of Digital Technology","Czech Republic","CZ",7
+2016," Integration of Digital Technology","Cyprus","CY",7
+2016," Integration of Digital Technology","Hungary","HU",4
+2016," Integration of Digital Technology","Slovakia","SK",6
+2016," Integration of Digital Technology","Croatia","HR",7
+2016," Integration of Digital Technology","Poland","PL",4
+2016," Integration of Digital Technology","Italy","IT",6
+2016," Integration of Digital Technology","Bulgaria","BG",4
+2016," Integration of Digital Technology","Greece","EL",4
+2016," Integration of Digital Technology","Romania","RO",4
+2016," Digital Public Services","Denmark","DK",11
+2016," Digital Public Services","Finland","FI",11
+2016," Digital Public Services","Sweden","SE",10
+2016," Digital Public Services","Netherlands","NL",10
+2016," Digital Public Services","United Kingdom","UK",8
+2016," Digital Public Services","Luxembourg","LU",6
+2016," Digital Public Services","Belgium","BE",8
+2016," Digital Public Services","Estonia","EE",11
+2016," Digital Public Services","Ireland","IE",8
+2016," Digital Public Services","Austria","AT",9
+2016," Digital Public Services","Malta","MT",8
+2016," Digital Public Services","Lithuania","LT",9
+2016," Digital Public Services","Germany","DE",7
+2016," Digital Public Services","Spain","ES",10
+2016," Digital Public Services","Portugal","PT",9
+2016," Digital Public Services","European Union 28","EU28",7
+2016," Digital Public Services","Slovenia","SI",7
+2016," Digital Public Services","France","FR",8
+2016," Digital Public Services","Latvia","LV",7
+2016," Digital Public Services","Czech Republic","CZ",5
+2016," Digital Public Services","Cyprus","CY",7
+2016," Digital Public Services","Hungary","HU",5
+2016," Digital Public Services","Slovakia","SK",5
+2016," Digital Public Services","Croatia","HR",6
+2016," Digital Public Services","Poland","PL",7
+2016," Digital Public Services","Italy","IT",7
+2016," Digital Public Services","Bulgaria","BG",6
+2016," Digital Public Services","Greece","EL",4
+2016," Digital Public Services","Romania","RO",5
+2015," Connectivity","Denmark","DK",17
+2015," Connectivity","Finland","FI",15
+2015," Connectivity","Sweden","SE",17
+2015," Connectivity","Netherlands","NL",17
+2015," Connectivity","Luxembourg","LU",16
+2015," Connectivity","United Kingdom","UK",14
+2015," Connectivity","Belgium","BE",16
+2015," Connectivity","Estonia","EE",13
+2015," Connectivity","Malta","MT",15
+2015," Connectivity","Ireland","IE",13
+2015," Connectivity","Austria","AT",12
+2015," Connectivity","Germany","DE",14
+2015," Connectivity","Spain","ES",13
+2015," Connectivity","Lithuania","LT",12
+2015," Connectivity","Portugal","PT",13
+2015," Connectivity","European Union 28","EU28",12
+2015," Connectivity","Czech Republic","CZ",13
+2015," Connectivity","France","FR",11
+2015," Connectivity","Slovenia","SI",12
+2015," Connectivity","Latvia","LV",13
+2015," Connectivity","Slovakia","SK",10
+2015," Connectivity","Hungary","HU",12
+2015," Connectivity","Cyprus","CY",9
+2015," Connectivity","Poland","PL",9
+2015," Connectivity","Croatia","HR",8
+2015," Connectivity","Italy","IT",9
+2015," Connectivity","Bulgaria","BG",10
+2015," Connectivity","Greece","EL",8
+2015," Connectivity","Romania","RO",10
+2015," Human Capital","Denmark","DK",17
+2015," Human Capital","Finland","FI",19
+2015," Human Capital","Sweden","SE",17
+2015," Human Capital","Netherlands","NL",17
+2015," Human Capital","Luxembourg","LU",18
+2015," Human Capital","United Kingdom","UK",17
+2015," Human Capital","Belgium","BE",14
+2015," Human Capital","Estonia","EE",14
+2015," Human Capital","Malta","MT",12
+2015," Human Capital","Ireland","IE",13
+2015," Human Capital","Austria","AT",15
+2015," Human Capital","Germany","DE",14
+2015," Human Capital","Spain","ES",12
+2015," Human Capital","Lithuania","LT",11
+2015," Human Capital","Portugal","PT",10
+2015," Human Capital","European Union 28","EU28",13
+2015," Human Capital","Czech Republic","CZ",13
+2015," Human Capital","France","FR",14
+2015," Human Capital","Slovenia","SI",12
+2015," Human Capital","Latvia","LV",10
+2015," Human Capital","Slovakia","SK",12
+2015," Human Capital","Hungary","HU",11
+2015," Human Capital","Cyprus","CY",8
+2015," Human Capital","Poland","PL",10
+2015," Human Capital","Croatia","HR",10
+2015," Human Capital","Italy","IT",9
+2015," Human Capital","Bulgaria","BG",8
+2015," Human Capital","Greece","EL",9
+2015," Human Capital","Romania","RO",7
+2015," Use of Internet","Denmark","DK",10
+2015," Use of Internet","Finland","FI",9
+2015," Use of Internet","Sweden","SE",10
+2015," Use of Internet","Netherlands","NL",8
+2015," Use of Internet","Luxembourg","LU",9
+2015," Use of Internet","United Kingdom","UK",8
+2015," Use of Internet","Belgium","BE",7
+2015," Use of Internet","Estonia","EE",9
+2015," Use of Internet","Malta","MT",8
+2015," Use of Internet","Ireland","IE",6
+2015," Use of Internet","Austria","AT",6
+2015," Use of Internet","Germany","DE",6
+2015," Use of Internet","Spain","ES",7
+2015," Use of Internet","Lithuania","LT",8
+2015," Use of Internet","Portugal","PT",6
+2015," Use of Internet","European Union 28","EU28",6
+2015," Use of Internet","Czech Republic","CZ",6
+2015," Use of Internet","France","FR",5
+2015," Use of Internet","Slovenia","SI",6
+2015," Use of Internet","Latvia","LV",8
+2015," Use of Internet","Slovakia","SK",6
+2015," Use of Internet","Hungary","HU",7
+2015," Use of Internet","Cyprus","CY",7
+2015," Use of Internet","Poland","PL",5
+2015," Use of Internet","Croatia","HR",6
+2015," Use of Internet","Italy","IT",5
+2015," Use of Internet","Bulgaria","BG",6
+2015," Use of Internet","Greece","EL",6
+2015," Use of Internet","Romania","RO",4
+2015," Integration of Digital Technology","Denmark","DK",11
+2015," Integration of Digital Technology","Finland","FI",10
+2015," Integration of Digital Technology","Sweden","SE",9
+2015," Integration of Digital Technology","Netherlands","NL",8
+2015," Integration of Digital Technology","Luxembourg","LU",6
+2015," Integration of Digital Technology","United Kingdom","UK",6
+2015," Integration of Digital Technology","Belgium","BE",9
+2015," Integration of Digital Technology","Estonia","EE",5
+2015," Integration of Digital Technology","Malta","MT",7
+2015," Integration of Digital Technology","Ireland","IE",9
+2015," Integration of Digital Technology","Austria","AT",7
+2015," Integration of Digital Technology","Germany","DE",7
+2015," Integration of Digital Technology","Spain","ES",7
+2015," Integration of Digital Technology","Lithuania","LT",8
+2015," Integration of Digital Technology","Portugal","PT",7
+2015," Integration of Digital Technology","European Union 28","EU28",6
+2015," Integration of Digital Technology","Czech Republic","CZ",7
+2015," Integration of Digital Technology","France","FR",5
+2015," Integration of Digital Technology","Slovenia","SI",5
+2015," Integration of Digital Technology","Latvia","LV",4
+2015," Integration of Digital Technology","Slovakia","SK",6
+2015," Integration of Digital Technology","Hungary","HU",4
+2015," Integration of Digital Technology","Cyprus","CY",6
+2015," Integration of Digital Technology","Poland","PL",4
+2015," Integration of Digital Technology","Croatia","HR",7
+2015," Integration of Digital Technology","Italy","IT",5
+2015," Integration of Digital Technology","Bulgaria","BG",4
+2015," Integration of Digital Technology","Greece","EL",5
+2015," Integration of Digital Technology","Romania","RO",4
+2015," Digital Public Services","Denmark","DK",11
+2015," Digital Public Services","Finland","FI",11
+2015," Digital Public Services","Sweden","SE",9
+2015," Digital Public Services","Netherlands","NL",9
+2015," Digital Public Services","Luxembourg","LU",5
+2015," Digital Public Services","United Kingdom","UK",8
+2015," Digital Public Services","Belgium","BE",7
+2015," Digital Public Services","Estonia","EE",11
+2015," Digital Public Services","Malta","MT",8
+2015," Digital Public Services","Ireland","IE",8
+2015," Digital Public Services","Austria","AT",9
+2015," Digital Public Services","Germany","DE",6
+2015," Digital Public Services","Spain","ES",10
+2015," Digital Public Services","Lithuania","LT",8
+2015," Digital Public Services","Portugal","PT",9
+2015," Digital Public Services","European Union 28","EU28",7
+2015," Digital Public Services","Czech Republic","CZ",4
+2015," Digital Public Services","France","FR",7
+2015," Digital Public Services","Slovenia","SI",6
+2015," Digital Public Services","Latvia","LV",7
+2015," Digital Public Services","Slovakia","SK",5
+2015," Digital Public Services","Hungary","HU",4
+2015," Digital Public Services","Cyprus","CY",6
+2015," Digital Public Services","Poland","PL",7
+2015," Digital Public Services","Croatia","HR",4
+2015," Digital Public Services","Italy","IT",7
+2015," Digital Public Services","Bulgaria","BG",6
+2015," Digital Public Services","Greece","EL",4
+2015," Digital Public Services","Romania","RO",5
+2014," Connectivity","Denmark","DK",15
+2014," Connectivity","Sweden","SE",16
+2014," Connectivity","Finland","FI",14
+2014," Connectivity","Netherlands","NL",16
+2014," Connectivity","Luxembourg","LU",15
+2014," Connectivity","United Kingdom","UK",13
+2014," Connectivity","Belgium","BE",14
+2014," Connectivity","Estonia","EE",12
+2014," Connectivity","Malta","MT",12
+2014," Connectivity","Germany","DE",13
+2014," Connectivity","Austria","AT",11
+2014," Connectivity","Ireland","IE",10
+2014," Connectivity","Lithuania","LT",10
+2014," Connectivity","Spain","ES",10
+2014," Connectivity","Portugal","PT",13
+2014," Connectivity","European Union 28","EU28",11
+2014," Connectivity","France","FR",11
+2014," Connectivity","Slovenia","SI",11
+2014," Connectivity","Latvia","LV",11
+2014," Connectivity","Czech Republic","CZ",9
+2014," Connectivity","Slovakia","SK",8
+2014," Connectivity","Hungary","HU",10
+2014," Connectivity","Poland","PL",9
+2014," Connectivity","Croatia","HR",6
+2014," Connectivity","Cyprus","CY",9
+2014," Connectivity","Italy","IT",7
+2014," Connectivity","Greece","EL",7
+2014," Connectivity","Bulgaria","BG",8
+2014," Connectivity","Romania","RO",9
+2014," Human Capital","Denmark","DK",16
+2014," Human Capital","Sweden","SE",17
+2014," Human Capital","Finland","FI",18
+2014," Human Capital","Netherlands","NL",17
+2014," Human Capital","Luxembourg","LU",18
+2014," Human Capital","United Kingdom","UK",17
+2014," Human Capital","Belgium","BE",14
+2014," Human Capital","Estonia","EE",13
+2014," Human Capital","Malta","MT",11
+2014," Human Capital","Germany","DE",14
+2014," Human Capital","Austria","AT",14
+2014," Human Capital","Ireland","IE",13
+2014," Human Capital","Lithuania","LT",11
+2014," Human Capital","Spain","ES",11
+2014," Human Capital","Portugal","PT",9
+2014," Human Capital","European Union 28","EU28",12
+2014," Human Capital","France","FR",13
+2014," Human Capital","Slovenia","SI",12
+2014," Human Capital","Latvia","LV",10
+2014," Human Capital","Czech Republic","CZ",12
+2014," Human Capital","Slovakia","SK",12
+2014," Human Capital","Hungary","HU",11
+2014," Human Capital","Poland","PL",10
+2014," Human Capital","Croatia","HR",10
+2014," Human Capital","Cyprus","CY",8
+2014," Human Capital","Italy","IT",9
+2014," Human Capital","Greece","EL",8
+2014," Human Capital","Bulgaria","BG",7
+2014," Human Capital","Romania","RO",6
+2014," Use of Internet","Denmark","DK",9
+2014," Use of Internet","Sweden","SE",9
+2014," Use of Internet","Finland","FI",8
+2014," Use of Internet","Netherlands","NL",8
+2014," Use of Internet","Luxembourg","LU",8
+2014," Use of Internet","United Kingdom","UK",7
+2014," Use of Internet","Belgium","BE",6
+2014," Use of Internet","Estonia","EE",8
+2014," Use of Internet","Malta","MT",8
+2014," Use of Internet","Germany","DE",6
+2014," Use of Internet","Austria","AT",5
+2014," Use of Internet","Ireland","IE",6
+2014," Use of Internet","Lithuania","LT",8
+2014," Use of Internet","Spain","ES",6
+2014," Use of Internet","Portugal","PT",6
+2014," Use of Internet","European Union 28","EU28",6
+2014," Use of Internet","France","FR",5
+2014," Use of Internet","Slovenia","SI",6
+2014," Use of Internet","Latvia","LV",8
+2014," Use of Internet","Czech Republic","CZ",6
+2014," Use of Internet","Slovakia","SK",6
+2014," Use of Internet","Hungary","HU",6
+2014," Use of Internet","Poland","PL",5
+2014," Use of Internet","Croatia","HR",6
+2014," Use of Internet","Cyprus","CY",6
+2014," Use of Internet","Italy","IT",5
+2014," Use of Internet","Greece","EL",5
+2014," Use of Internet","Bulgaria","BG",5
+2014," Use of Internet","Romania","RO",3
+2014," Integration of Digital Technology","Denmark","DK",10
+2014," Integration of Digital Technology","Sweden","SE",9
+2014," Integration of Digital Technology","Finland","FI",9
+2014," Integration of Digital Technology","Netherlands","NL",7
+2014," Integration of Digital Technology","Luxembourg","LU",6
+2014," Integration of Digital Technology","United Kingdom","UK",6
+2014," Integration of Digital Technology","Belgium","BE",8
+2014," Integration of Digital Technology","Estonia","EE",4
+2014," Integration of Digital Technology","Malta","MT",6
+2014," Integration of Digital Technology","Germany","DE",6
+2014," Integration of Digital Technology","Austria","AT",6
+2014," Integration of Digital Technology","Ireland","IE",8
+2014," Integration of Digital Technology","Lithuania","LT",8
+2014," Integration of Digital Technology","Spain","ES",6
+2014," Integration of Digital Technology","Portugal","PT",6
+2014," Integration of Digital Technology","European Union 28","EU28",5
+2014," Integration of Digital Technology","France","FR",5
+2014," Integration of Digital Technology","Slovenia","SI",5
+2014," Integration of Digital Technology","Latvia","LV",4
+2014," Integration of Digital Technology","Czech Republic","CZ",7
+2014," Integration of Digital Technology","Slovakia","SK",6
+2014," Integration of Digital Technology","Hungary","HU",3
+2014," Integration of Digital Technology","Poland","PL",3
+2014," Integration of Digital Technology","Croatia","HR",7
+2014," Integration of Digital Technology","Cyprus","CY",4
+2014," Integration of Digital Technology","Italy","IT",4
+2014," Integration of Digital Technology","Greece","EL",4
+2014," Integration of Digital Technology","Bulgaria","BG",3
+2014," Integration of Digital Technology","Romania","RO",3
+2014," Digital Public Services","Denmark","DK",10
+2014," Digital Public Services","Sweden","SE",9
+2014," Digital Public Services","Finland","FI",11
+2014," Digital Public Services","Netherlands","NL",9
+2014," Digital Public Services","Luxembourg","LU",5
+2014," Digital Public Services","United Kingdom","UK",8
+2014," Digital Public Services","Belgium","BE",7
+2014," Digital Public Services","Estonia","EE",10
+2014," Digital Public Services","Malta","MT",8
+2014," Digital Public Services","Germany","DE",6
+2014," Digital Public Services","Austria","AT",8
+2014," Digital Public Services","Ireland","IE",7
+2014," Digital Public Services","Lithuania","LT",7
+2014," Digital Public Services","Spain","ES",10
+2014," Digital Public Services","Portugal","PT",9
+2014," Digital Public Services","European Union 28","EU28",7
+2014," Digital Public Services","France","FR",6
+2014," Digital Public Services","Slovenia","SI",6
+2014," Digital Public Services","Latvia","LV",6
+2014," Digital Public Services","Czech Republic","CZ",4
+2014," Digital Public Services","Slovakia","SK",5
+2014," Digital Public Services","Hungary","HU",5
+2014," Digital Public Services","Poland","PL",7
+2014," Digital Public Services","Croatia","HR",4
+2014," Digital Public Services","Cyprus","CY",6
+2014," Digital Public Services","Italy","IT",7
+2014," Digital Public Services","Greece","EL",4
+2014," Digital Public Services","Bulgaria","BG",6
+2014," Digital Public Services","Romania","RO",4

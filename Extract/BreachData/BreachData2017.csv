@@ -1,0 +1,1963 @@
+,Rank,Risk.Score,Industry,Records.Breached,Date.of.Breach,Type.of.Breach,Source.of.Breach,Location
+1,1,10,Financial,"14,79,00,000",07/15/17,Identity Theft,Malicious Outsider,United States
+2,2,9.8,Other,"1,34,00,00,000",03-06-2017,Nuisance,Accidental Loss,United States
+3,3,9.6,Government,"19,80,00,000",06/13/17,Identity Theft,Accidental Loss,United States
+4,4,9.4,Professional Services,"14,30,00,000",10-01-2017,Identity Theft,Malicious Outsider,United States
+5,5,9.4,Entertainment,"2,87,22,877",09-05-2017,Account Access,Malicious Outsider,Argentina
+6,6,9.4,Education,"2,00,00,000",03/22/17,Identity Theft,Malicious Insider,China
+7,7,9.4,Technology,"12,30,00,000",12/19/17,Identity Theft,Accidental Loss,United States
+8,8,9.2,Financial,"7,50,00,000",11-01-2017,Identity Theft,Accidental Loss,South Africa
+9,9,9.1,Social Media,"1,70,00,000",05-04-2017,Account Access,Malicious Outsider,Global
+10,10,9.1,Other,"97,00,000",01-04-2017,Identity Theft,Malicious Insider,United States
+11,11,9.1,Education,"75,00,000",03-03-2017,Identity Theft,Malicious Outsider,United States
+12,12,9,Healthcare,"2,60,00,000",03/17/17,Identity Theft,Accidental Loss,United Kingdom
+13,13,8.9,Government,"55,00,000",03-06-2017,Identity Theft,Malicious Outsider,United States
+14,14,8.9,Technology,"48,00,000",03/21/17,Identity Theft,Malicious Outsider,United States
+15,15,8.8,Retail,"50,00,000",09/16/17,Financial Access,Malicious Outsider,United States
+16,16,8.8,Government,"3,00,00,000",03-09-2017,Identity Theft,Accidental Loss,South Africa
+17,17,8.8,Government,"37,00,000",03/28/17,Identity Theft,Malicious Outsider,Hong Kong
+18,18,8.7,Technology,"60,00,000",08/30/17,Account Access,Malicious Outsider,United States
+19,19,8.7,Other,"60,00,000",06/15/17,Account Access,Malicious Outsider,United States
+20,20,8.6,Technology,"4,00,00,000",12-05-2017,Account Access,Accidental Loss,United States
+21,21,8.5,Technology,"20,00,000",08-09-2017,Identity Theft,Malicious Outsider,Czech Republic
+22,22,8.5,Retail,"7,40,00,000",10-01-2017,Identity Theft,Accidental Loss,United States
+23,23,8.5,Technology,"3,36,00,000",03/15/17,Account Access,Accidental Loss,United States
+24,24,8.4,Social Media,"2,10,00,000",12-01-2017,Financial Access,Malicious Outsider,United States
+25,25,8.4,Financial,"16,00,000",07-04-2017,Identity Theft,Malicious Outsider,United States
+26,26,8.4,Technology,"4,60,00,000",10/29/17,Nuisance,Accidental Loss,Malaysia
+27,27,8.3,Government,"1,92,00,000",12/15/17,Account Access,Accidental Loss,United States
+28,28,8.3,Retail,"11,30,000",12/21/17,Identity Theft,Malicious Outsider,Canada
+29,29,8.3,Other,"9,22,83,889",10/26/17,Account Access,Accidental Loss,United States
+30,30,8.3,Technology,"27,00,000",11/17/17,Account Access,Malicious Outsider,Canada
+31,31,8.3,Technology,"24,87,000",03/15/17,Account Access,Malicious Outsider,United States
+32,32,8.2,Retail,"20,00,000",08/29/17,Account Access,Malicious Outsider,United Kingdom
+33,33,8.2,Education,"20,00,000",05-11-2017,Account Access,Malicious Outsider,United States
+34,34,8.2,Retail,"3,70,00,000",08-01-2017,Identity Theft,Accidental Loss,United States
+35,35,8.2,Technology,"19,01,700",05-10-2017,Account Access,Malicious Outsider,Canada
+36,36,8.2,Hospitality,"9,90,000",03-08-2017,Identity Theft,Malicious Outsider,South Korea
+37,37,8.2,Government,"9,42,609",07/25/17,Identity Theft,Malicious Outsider,United Kingdom
+38,38,8.1,Technology,"1,40,00,000",06-08-2017,Account Access,Accidental Loss,United States
+39,39,8.1,Retail,"1,00,00,000",07-01-2017,Financial Access,Malicious Outsider,United Kingdom
+40,40,8,Healthcare,"6,97,800",03-01-2017,Identity Theft,Malicious Outsider,United States
+41,41,7.9,Entertainment,"10,00,000",09-02-2017,Account Access,Malicious Outsider,Canada
+42,42,7.9,Technology,"40,00,000",07-07-2017,Account Access,Accidental Loss,United States
+43,43,7.9,Healthcare,"5,00,000",04/18/17,Identity Theft,Malicious Outsider,United States
+44,44,7.9,Entertainment,"9,50,000",02/23/17,Account Access,Malicious Outsider,United States
+45,45,7.8,Entertainment,"30,00,000",07-04-2017,Identity Theft,Accidental Loss,United States
+46,46,7.8,Financial,"4,00,000",07-09-2017,Identity Theft,Malicious Outsider,Italy
+47,47,7.7,Technology,"6,96,464",05/22/17,Account Access,Malicious Outsider,United States
+48,48,7.7,Education,"2,80,000",11-08-2017,Identity Theft,Malicious Outsider,United States
+49,49,7.7,Healthcare,"3,00,000",01-01-2017,Identity Theft,Malicious Outsider,United States
+50,50,7.7,Healthcare,"2,79,663",02/27/17,Identity Theft,Malicious Outsider,United States
+51,51,7.6,Other,"2,44,000",09/25/17,Identity Theft,Malicious Outsider,United States
+52,52,7.6,Industrial,"3,70,000",12-04-2017,Financial Access,Malicious Outsider,United States
+53,53,7.6,Government,"10,00,000",11-01-2017,Nuisance,Malicious Outsider,Canada
+54,54,7.6,Government,"18,00,000",08/17/17,Identity Theft,Accidental Loss,United States
+55,55,7.6,Financial,"22,00,000",10-08-2017,Identity Theft,Accidental Loss,United States
+56,56,7.6,Government,"18,70,000",01/30/17,Identity Theft,Accidental Loss,United States
+57,57,7.6,Retail,"3,55,000",01/19/17,Financial Access,Malicious Outsider,United States
+58,58,7.5,Financial,"2,70,000",04-09-2017,Financial Access,Malicious Outsider,United Kingdom
+59,59,7.5,Technology,"8,19,977",02/28/17,Account Access,Malicious Outsider,United States
+60,60,7.5,Government,"2,46,000",04-09-2017,Identity Theft,Malicious Insider,United States
+61,61,7.5,Financial,"16,00,000",11-09-2017,Identity Theft,Accidental Loss,United States
+62,62,7.5,Government,"2,00,000",06/28/17,Identity Theft,Malicious Outsider,United States
+63,63,7.5,Social Media,"22,00,000",07/18/17,Financial Access,Accidental Loss,United States
+64,64,7.5,Government,"2,00,000",05/26/17,Identity Theft,Malicious Outsider,United States
+65,65,7.5,Entertainment,"4,00,000",01-09-2017,Account Access,Malicious Outsider,United States
+66,66,7.4,Retail,"1,43,000",02/17/17,Identity Theft,Malicious Outsider,United States
+67,67,7.4,Professional Services,"3,00,000",11/14/17,Account Access,Malicious Outsider,China
+68,68,7.4,Education,"13,00,000",04-12-2017,Identity Theft,Accidental Loss,United States
+69,69,7.4,Insurance,"1,17,000",04/22/17,Existential Data,Malicious Outsider,United Kingdom
+70,70,7.4,Education,"14,00,000",02/21/17,Identity Theft,Accidental Loss,United States
+71,71,7.4,Professional Services,"2,00,000",11-07-2017,Financial Access,Malicious Outsider,Hong Kong
+72,72,7.4,Healthcare,"1,60,000",03/19/17,Identity Theft,Malicious Outsider,United States
+73,73,7.3,Financial,"10,00,000",01-07-2017,Identity Theft,Accidental Loss,Israel
+74,74,7.3,Financial,"10,00,000",04/28/17,Identity Theft,Accidental Loss,United States
+75,75,7.3,Financial,"1,27,310",09-06-2017,Identity Theft,Malicious Outsider,United States
+76,76,7.3,Healthcare,"2,66,123",06/14/17,Identity Theft,Malicious Outsider,United States
+77,77,7.3,Industrial,"20,00,000",10/24/17,Account Access,Accidental Loss,Australia
+78,78,7.3,Healthcare,"1,30,000",04-12-2017,Identity Theft,Malicious Outsider,United States
+79,79,7.3,Healthcare,"9,18,000",04-10-2017,Identity Theft,Accidental Loss,United States
+80,80,7.2,Technology,"10,00,000",11-11-2017,Financial Access,Accidental Loss,United States
+81,81,7.2,Healthcare,"1,28,000",07/26/17,Financial Access,Malicious Outsider,United States
+82,82,7.2,Technology,"8,00,000",06-11-2017,Identity Theft,Accidental Loss,United Kingdom
+83,83,7.2,Healthcare,"93,323",03/17/17,Identity Theft,Malicious Outsider,United States
+84,84,7.2,Government,"2,00,000",06-07-2017,Account Access,Malicious Outsider,United States
+85,85,7.2,Healthcare,"7,08,000",04-12-2017,Identity Theft,Accidental Loss,United Kingdom
+86,86,7.2,Government,"4,00,000",12-01-2017,Nuisance,Malicious Outsider,United States
+87,87,7.2,Government,"1,00,000",04-06-2017,Identity Theft,Malicious Outsider,United States
+88,88,7.2,Retail,"95,000",03-07-2017,Identity Theft,Malicious Outsider,Canada
+89,89,7.2,Financial,"94,664",04/16/17,Identity Theft,Malicious Outsider,United Kingdom
+90,90,7.2,Financial,"7,19,830",03/19/17,Identity Theft,Accidental Loss,Japan
+91,91,7.1,Healthcare,"85,995",03-02-2017,Identity Theft,Malicious Outsider,United States
+92,92,7.1,Healthcare,"79,930",02/23/17,Identity Theft,Malicious Outsider,United States
+93,93,7.1,Healthcare,"75,000",01/23/17,Identity Theft,Malicious Outsider,United States
+94,94,7.1,Financial,"9,00,000",11/17/17,Financial Access,Accidental Loss,United Kingdom
+95,95,7.1,Healthcare,"1,08,000",06/22/17,Identity Theft,Malicious Insider,United Kingdom
+96,96,7.1,Healthcare,"7,00,000",11/29/17,Identity Theft,Accidental Loss,United Kingdom
+97,97,7.1,Government,"5,93,328",09/14/17,Identity Theft,Accidental Loss,United States
+98,98,7.1,Professional Services,"80,000",10-03-2017,Identity Theft,Malicious Outsider,United States
+99,99,7.1,Healthcare,"79,930",01-03-2017,Identity Theft,Malicious Outsider,United States
+100,100,7.1,Government,"80,000",05-04-2017,Identity Theft,Malicious Outsider,United States
+101,101,7.1,Retail,"8,80,000",10-01-2017,Identity Theft,Malicious Outsider,United States
+102,102,7.1,Education,"80,000",05-01-2017,Identity Theft,Malicious Outsider,Japan
+103,103,7.1,Technology,"1,50,000",10/26/17,Identity Theft,Malicious Outsider,Unknown
+104,104,7.1,Technology,"1,66,064",01-09-2017,Account Access,Malicious Outsider,United States
+105,105,7,Healthcare,"65,000",03-09-2017,Identity Theft,Malicious Outsider,United States
+106,106,7,Financial,"4,50,000",04-03-2017,Identity Theft,Accidental Loss,Netherlands
+107,107,7,Retail,"8,25,000",09/26/17,Financial Access,Malicious Outsider,United States
+108,108,7,Government,"55,000",04-12-2017,Existential Data,Malicious Outsider,United States
+109,109,7,Healthcare,"66,000",09/15/17,Identity Theft,Malicious Outsider,United States
+110,110,7,Retail,"20,00,000",02-09-2017,Nuisance,Accidental Loss,United States
+111,111,7,Healthcare,"1,34,000",05-09-2017,Identity Theft,Malicious Outsider,United States
+112,112,6.9,Retail,"6,09,064",12/22/17,Financial Access,Malicious Outsider,United States
+113,113,6.9,Government,"94,000",09/19/17,Account Access,Malicious Outsider,Canada
+114,114,6.9,Retail,"60,000",10-02-2017,Financial Access,Malicious Outsider,United States
+115,115,6.9,Healthcare,"53,000",11-01-2017,Identity Theft,Malicious Outsider,United States
+116,116,6.9,Healthcare,"46,632",04/19/17,Identity Theft,Malicious Outsider,United States
+117,117,6.9,Technology,"6,85,000",09-01-2017,Financial Access,Malicious Outsider,Singapore
+118,118,6.9,Retail,"67,000",01/30/17,Financial Access,Malicious Outsider,United States
+119,119,6.9,Healthcare,"47,000",12-05-2017,Identity Theft,Malicious Outsider,United States
+120,120,6.9,Retail,"8,21,296",01-07-2017,Account Access,Accidental Loss,United States
+121,121,6.8,Financial,"4,55,000",09-07-2017,Financial Access,Accidental Loss,Mexico
+122,122,6.8,Healthcare,"4,17,000",09-10-2017,Identity Theft,Malicious Outsider,United States
+123,123,6.8,Hospitality,"5,67,000",11-03-2017,Financial Access,Malicious Outsider,United States
+124,124,6.8,Healthcare,"43,000",11-01-2017,Identity Theft,Malicious Outsider,United States
+125,125,6.8,Technology,"43,000",02/27/17,Identity Theft,Malicious Outsider,United Kingdom
+126,126,6.8,Healthcare,"56,075",06/27/17,Identity Theft,Malicious Insider,United States
+127,127,6.8,Professional Services,"40,000",10-11-2017,Identity Theft,Malicious Outsider,United States
+128,128,6.8,Healthcare,"3,16,000",09/27/17,Identity Theft,Accidental Loss,United States
+129,129,6.8,Technology,"4,00,000",01/25/17,Financial Access,Accidental Loss,United States
+130,130,6.7,Education,"32,000",05/18/17,Identity Theft,Malicious Outsider,United States
+131,131,6.7,Professional Services,"5,40,000",09/20/17,Account Access,Accidental Loss,United States
+132,132,6.7,Education,"28,000",09-07-2017,Identity Theft,Malicious Outsider,United States
+133,133,6.7,Education,"30,000",09/20/17,Identity Theft,Malicious Outsider,Ireland
+134,134,6.7,Technology,"62,000",12/20/17,Account Access,Malicious Outsider,United States
+135,135,6.7,Government,"30,000",11/13/17,Identity Theft,Malicious Outsider,United States
+136,136,6.7,Healthcare,"29,579",12/28/17,Identity Theft,Malicious Outsider,United States
+137,137,6.7,Government,"30,000",11/19/17,Identity Theft,Malicious Outsider,United States
+138,138,6.7,Non-profit,"64,000",04-11-2017,Account Access,Malicious Outsider,United Kingdom
+139,139,6.7,Healthcare,"33,000",04-12-2017,Identity Theft,Malicious Outsider,United States
+140,140,6.7,Healthcare,"2,79,865",11-07-2017,Identity Theft,Malicious Outsider,United States
+141,141,6.7,Financial,"30,000",10/16/17,Identity Theft,Malicious Outsider,South Korea
+142,142,6.6,Entertainment,"1,80,000",01/25/17,Existential Data,Malicious Outsider,United Kingdom
+143,143,6.6,Government,"26,044",09/18/17,Identity Theft,Malicious Outsider,United States
+144,144,6.6,Healthcare,"24,809",01/27/17,Identity Theft,Malicious Outsider,United States
+145,145,6.6,Education,"27,000",01-07-2017,Identity Theft,Malicious Outsider,United States
+146,146,6.6,Healthcare,"25,000",04/18/17,Identity Theft,Malicious Outsider,Lithuania
+147,147,6.6,Financial,"2,26,881",03-01-2017,Identity Theft,Malicious Outsider,United States
+148,148,6.6,Government,"20,000",01-06-2017,Existential Data,Malicious Outsider,United States
+149,149,6.6,Healthcare,"25,848",06/20/17,Identity Theft,Malicious Outsider,United States
+150,150,6.6,Education,"22,750",04-07-2017,Identity Theft,Malicious Outsider,United States
+151,151,6.6,Technology,"26,000",09-05-2017,Identity Theft,Malicious Outsider,United States
+152,152,6.6,Healthcare,"24,000",12-08-2017,Identity Theft,Malicious Outsider,United States
+153,153,6.6,Entertainment,"2,00,000",01-01-2017,Identity Theft,Accidental Loss,United States
+154,154,6.5,Government,"19,000",03/14/17,Identity Theft,Malicious Outsider,United States
+155,155,6.5,Healthcare,"19,000",01-03-2017,Identity Theft,Malicious Outsider,United States
+156,156,6.5,Healthcare,"20,500",02/26/17,Identity Theft,Malicious Outsider,Canada
+157,157,6.5,Healthcare,"15,000",05/31/17,Existential Data,Malicious Outsider,United States
+158,158,6.5,Healthcare,"22,000",08-08-2017,Identity Theft,Malicious Outsider,United States
+159,159,6.5,Retail,"26,000",05-09-2017,Financial Access,Malicious Outsider,United Kingdom
+160,160,6.5,Healthcare,"29,000",10-02-2017,Identity Theft,Malicious Insider,United States
+161,161,6.5,Healthcare,"19,727",04-04-2017,Identity Theft,Malicious Outsider,United States
+162,162,6.5,Government,"28,434",12-04-2017,Identity Theft,Malicious Insider,United States
+163,163,6.5,Healthcare,"24,000",01/31/17,Identity Theft,Malicious Insider,United States
+164,164,6.5,Healthcare,"18,637",05/15/17,Identity Theft,Malicious Outsider,United States
+165,165,6.5,Financial,"1,87,788",09/13/17,Identity Theft,Malicious Outsider,United States
+166,166,6.5,Entertainment,"18,000",03/30/17,Identity Theft,Malicious Outsider,United States
+167,167,6.5,Healthcare,"20,431",02/25/17,Identity Theft,Malicious Outsider,United States
+168,168,6.5,Healthcare,"18,500",12-06-2017,Identity Theft,Malicious Outsider,United States
+169,169,6.5,Healthcare,"22,000",06/20/17,Identity Theft,Malicious Outsider,United States
+170,170,6.4,Healthcare,"15,400",02/13/17,Identity Theft,Malicious Outsider,United States
+171,171,6.4,Healthcare,"17,000",02/17/17,Identity Theft,Malicious Outsider,United States
+172,172,6.4,Healthcare,"16,562",08-02-2017,Identity Theft,Malicious Outsider,United States
+173,173,6.4,Healthcare,"15,000",05/17/17,Identity Theft,Malicious Outsider,United States
+174,174,6.4,Education,"33,000",05-04-2017,Account Access,Malicious Outsider,United States
+175,175,6.4,Financial,"31,800",06/30/17,Account Access,Malicious Outsider,South Korea
+176,176,6.4,Government,"16,659",05/23/17,Identity Theft,Malicious Outsider,United States
+177,177,6.4,Healthcare,"17,090",03/23/17,Identity Theft,Malicious Outsider,United States
+178,178,6.4,Healthcare,"16,428",09/13/17,Identity Theft,Malicious Outsider,United States
+179,179,6.4,Education,"14,000",04/20/17,Identity Theft,Malicious Outsider,United States
+180,180,6.4,Healthcare,"16,747",12-08-2017,Identity Theft,Malicious Outsider,United States
+181,181,6.4,Healthcare,"17,037",01/25/17,Identity Theft,Malicious Outsider,United States
+182,182,6.4,Healthcare,"34,100",05-09-2017,Identity Theft,Malicious Outsider,United States
+183,183,6.4,Healthcare,"15,212",09-01-2017,Identity Theft,Malicious Outsider,United States
+184,184,6.3,Government,"1,00,000",02-07-2017,Identity Theft,Accidental Loss,United States
+185,185,6.3,Hospitality,"1,00,000",08-07-2017,Identity Theft,Accidental Loss,Netherlands
+186,186,6.3,Healthcare,"11,707",02-09-2017,Identity Theft,Malicious Outsider,United States
+187,187,6.3,Healthcare,"13,861",03-06-2017,Identity Theft,Malicious Outsider,United States
+188,188,6.3,Healthcare,"17,634",03/17/17,Financial Access,Malicious Outsider,United States
+189,189,6.3,Healthcare,"11,798",09-07-2017,Identity Theft,Malicious Outsider,United States
+190,190,6.3,Healthcare,"51,232",09-08-2017,Nuisance,Malicious Outsider,United States
+191,191,6.3,Healthcare,"11,368",04-04-2017,Identity Theft,Malicious Outsider,United States
+192,192,6.3,Healthcare,"91,800",03/25/17,Identity Theft,Accidental Loss,United States
+193,193,6.3,Healthcare,"12,731",02/27/17,Identity Theft,Malicious Outsider,United States
+194,194,6.3,Healthcare,"13,402",04/24/17,Identity Theft,Malicious Outsider,United States
+195,195,6.3,Professional Services,"12,789",07/25/17,Identity Theft,Malicious Outsider,United States
+196,196,6.3,Government,"30,000",04/17/17,Identity Theft,Malicious Insider,United Kingdom
+197,197,6.3,Government,"90,000",08/17/17,Identity Theft,Accidental Loss,United Kingdom
+198,198,6.3,Healthcare,"11,350",10-02-2017,Identity Theft,Malicious Outsider,United States
+199,199,6.2,Healthcare,"10,164",01-11-2017,Identity Theft,Malicious Outsider,United States
+200,200,6.2,Healthcare,"9,305",12-04-2017,Identity Theft,Malicious Outsider,United States
+201,201,6.2,Healthcare,"9,129",04-12-2017,Identity Theft,Malicious Outsider,United States
+202,202,6.2,Healthcare,"9,000",05/24/17,Identity Theft,Malicious Outsider,United States
+203,203,6.2,Healthcare,"11,000",08-04-2017,Identity Theft,Malicious Outsider,United States
+204,204,6.2,Education,"9,500",07-09-2017,Identity Theft,Malicious Outsider,United States
+205,205,6.2,Government,"83,656",12-04-2017,Identity Theft,Accidental Loss,Sweden
+206,206,6.2,Education,"3,70,000",05-06-2017,Identity Theft,Accidental Loss,United States
+207,207,6.2,Education,"9,000",04-11-2017,Identity Theft,Malicious Outsider,Canada
+208,208,6.2,Healthcare,"9,092",03/17/17,Identity Theft,Malicious Outsider,United States
+209,209,6.2,Education,"3,25,000",08-04-2017,Nuisance,Accidental Loss,United States
+210,210,6.2,Professional Services,"9,129",04-12-2017,Identity Theft,Malicious Outsider,United States
+211,211,6.2,Technology,"20,000",04/19/17,Identity Theft,Hacktivist,United States
+212,212,6.2,Healthcare,"10,200",02-12-2017,Identity Theft,Malicious Outsider,United States
+213,213,6.2,Healthcare,"9,681",02-07-2017,Identity Theft,Malicious Outsider,United States
+214,214,6.2,Financial,"12,196",10/25/17,Financial Access,Malicious Outsider,United States
+215,215,6.2,Retail,"14,647",06-08-2017,Financial Access,Malicious Outsider,United States
+216,216,6.1,Healthcare,"7,253",09-02-2017,Identity Theft,Malicious Outsider,United States
+217,217,6.1,Healthcare,"7,221",12-07-2017,Identity Theft,Malicious Outsider,United States
+218,218,6.1,Education,"7,900",02-04-2017,Identity Theft,Malicious Outsider,United States
+219,219,6.1,Other,"70,000",05-10-2017,Identity Theft,Accidental Loss,Malta
+220,220,6.1,Healthcare,"8,436",05/14/17,Identity Theft,Malicious Outsider,United States
+221,221,6.1,Healthcare,"11,358",08-06-2017,Identity Theft,Malicious Insider,Canada
+222,222,6.1,Healthcare,"3,00,000",07-01-2017,Identity Theft,Accidental Loss,France
+223,223,6.1,Healthcare,"14,900",07-06-2017,Account Access,Malicious Outsider,United States
+224,224,6.1,Government,"9,400",07/25/17,Financial Access,Malicious Outsider,United States
+225,225,6.1,Healthcare,"8,256",12-05-2017,Identity Theft,Malicious Outsider,United States
+226,226,6.1,Healthcare,"7,976",09-04-2017,Identity Theft,Malicious Outsider,United States
+227,227,6.1,Healthcare,"7,492",07-07-2017,Identity Theft,Malicious Outsider,United States
+228,228,6,Government,"50,000",01-07-2017,Identity Theft,Accidental Loss,Canada
+229,229,6,Healthcare,"6,800",02-02-2017,Identity Theft,Malicious Outsider,United States
+230,230,6,Healthcare,"5,685",02-07-2017,Identity Theft,Malicious Outsider,United States
+231,231,6,Government,"8,500",11/22/17,Financial Access,Malicious Outsider,Australia
+232,232,6,Education,"25,000",11-08-2017,Nuisance,Malicious Outsider,Canada
+233,233,6,Education,"5,43,000",05-06-2017,Account Access,Accidental Loss,United States
+234,234,6,Healthcare,"7,445",01/17/17,Identity Theft,Malicious Insider,United States
+235,235,6,Financial,"47,000",11/30/17,Identity Theft,Accidental Loss,United States
+236,236,6,Government,"9,000",12-01-2017,Financial Access,Malicious Outsider,United States
+237,237,6,Healthcare,"15,000",05/31/17,Identity Theft,Malicious Insider,United States
+238,238,6,Healthcare,"18,580",07/24/17,Account Access,Malicious Insider,United States
+239,239,6,Healthcare,"6,932",06/28/17,Identity Theft,Malicious Outsider,United States
+240,240,6,Healthcare,"5,764",11/21/17,Identity Theft,Malicious Outsider,United States
+241,241,6,Healthcare,"61,701",10/15/17,Identity Theft,Malicious Outsider,United States
+242,242,6,Healthcare,"5,600",04/14/17,Identity Theft,Malicious Outsider,United States
+243,243,6,Education,"6,000",09-07-2017,Identity Theft,Malicious Outsider,United States
+244,244,6,Financial,"50,000",07-08-2017,Identity Theft,Accidental Loss,United States
+245,245,6,Healthcare,"5,806",10/13/17,Identity Theft,Malicious Outsider,United States
+246,246,6,Healthcare,"63,049",12-02-2017,Identity Theft,Malicious Outsider,United States
+247,247,6,Education,"13,782",08/28/17,Account Access,Malicious Outsider,Australia
+248,248,6,Financial,"5,688",07/18/17,Identity Theft,Malicious Outsider,United States
+249,249,5.9,Retail,"7,000",05-01-2017,Financial Access,Malicious Outsider,United States
+250,250,5.9,Education,"5,500",12/15/17,Identity Theft,Malicious Outsider,United States
+251,251,5.9,Healthcare,"5,155",04/19/17,Identity Theft,Malicious Outsider,United States
+252,252,5.9,Healthcare,"5,000",01/25/17,Identity Theft,Malicious Outsider,United States
+253,253,5.9,Education,"5,912",09-07-2017,Identity Theft,Malicious Insider,United States
+254,254,5.9,Financial,"4,630",07-09-2017,Identity Theft,Malicious Outsider,Sri Lanka
+255,255,5.9,Other,"5,000",11-11-2017,Identity Theft,Malicious Outsider,United Kingdom
+256,256,5.9,Healthcare,"5,000",11/20/17,Identity Theft,Malicious Outsider,United States
+257,257,5.9,Technology,"5,300",02-02-2017,Identity Theft,Malicious Outsider,United Kingdom
+258,258,5.9,Healthcare,"4,611",01/20/17,Identity Theft,Malicious Outsider,United States
+259,259,5.9,Industrial,"4,700",02-03-2017,Identity Theft,Malicious Outsider,United States
+260,260,5.9,Healthcare,"4,500",02-03-2017,Identity Theft,Malicious Outsider,United States
+261,261,5.9,Healthcare,"10,000",07-10-2017,Account Access,Malicious Outsider,United States
+262,262,5.9,Government,"41,140",07/27/17,Identity Theft,Accidental Loss,United States
+263,263,5.9,Retail,"66,000",10-03-2017,Financial Access,Malicious Outsider,United States
+264,264,5.9,Financial,"9,000",04-08-2017,Account Access,Malicious Outsider,Romania
+265,265,5.9,Healthcare,"53,173",11/14/17,Identity Theft,Malicious Outsider,United States
+266,266,5.9,Healthcare,"53,173",11/14/17,Identity Theft,Malicious Outsider,United States
+267,267,5.9,Technology,"45,000",11/20/17,Identity Theft,Malicious Outsider,United States
+268,268,5.9,Insurance,"5,400",09-04-2017,Identity Theft,Malicious Outsider,Singapore
+269,269,5.9,Healthcare,"55,447",02-06-2017,Identity Theft,Malicious Outsider,United States
+270,270,5.9,Healthcare,"5,000",07/19/17,Identity Theft,Malicious Outsider,United States
+271,271,5.8,Insurance,"4,220",07/19/17,Identity Theft,Malicious Outsider,United States
+272,272,5.8,Education,"29,000",05-08-2017,Identity Theft,Accidental Loss,United States
+273,273,5.8,Healthcare,"4,300",04/14/17,Identity Theft,Malicious Outsider,United States
+274,274,5.8,Healthcare,"4,229",04-05-2017,Identity Theft,Malicious Outsider,United States
+275,275,5.8,Industrial,"4,000",01/20/17,Identity Theft,Malicious Outsider,United States
+276,276,5.8,Healthcare,"3,831",04/18/17,Identity Theft,Malicious Outsider,United States
+277,277,5.8,Healthcare,"4,000",05-02-2017,Identity Theft,Malicious Outsider,United States
+278,278,5.8,Education,"29,000",06-08-2017,Identity Theft,Accidental Loss,United States
+279,279,5.8,Healthcare,"3,898",12/20/17,Identity Theft,Malicious Outsider,United States
+280,280,5.8,Hospitality,"4,000",01/31/17,Identity Theft,Malicious Outsider,United States
+281,281,5.8,Government,"1,64,000",09/22/17,Identity Theft,Accidental Loss,United States
+282,282,5.8,Healthcare,"4,721",06-02-2017,Identity Theft,Malicious Insider,United States
+283,283,5.7,Education,"11,200",11-10-2017,Identity Theft,Accidental Loss,United States
+284,284,5.7,Healthcare,"3,275",10/19/17,Identity Theft,Malicious Outsider,United States
+285,285,5.7,Healthcare,"13,004",09/20/17,Nuisance,Malicious Outsider,United States
+286,286,5.7,Education,"3,200",01/31/17,Identity Theft,Malicious Outsider,United States
+287,287,5.7,Government,"3,725",09/28/17,Existential Data,Malicious Insider,United Kingdom
+288,288,5.7,Healthcare,"3,400",06-01-2017,Identity Theft,Malicious Outsider,United States
+289,289,5.7,Healthcare,"3,000",07-05-2017,Identity Theft,Malicious Outsider,United States
+290,290,5.7,Education,"3,053",01/19/17,Identity Theft,Malicious Outsider,United States
+291,291,5.7,Education,"3,000",02-11-2017,Identity Theft,Malicious Outsider,United States
+292,292,5.7,Government,"24,000",03/18/17,Identity Theft,Accidental Loss,United States
+293,293,5.7,Government,"3,200",09/19/17,Identity Theft,Malicious Outsider,United States
+294,294,5.7,Education,"35,108",07-01-2017,Identity Theft,Malicious Outsider,United States
+295,295,5.7,Industrial,"2,858",02/24/17,Identity Theft,Malicious Outsider,United States
+296,296,5.7,Education,"3,250",01-04-2017,Identity Theft,Malicious Outsider,United States
+297,297,5.7,Healthcare,"3,300",10-03-2017,Identity Theft,Malicious Outsider,United States
+298,298,5.7,Healthcare,"5,600",05/26/17,Account Access,Malicious Outsider,United States
+299,299,5.7,Government,"3,000",05/16/17,Identity Theft,Malicious Outsider,United States
+300,300,5.7,Non-profit,"3,000",02-09-2017,Identity Theft,Malicious Outsider,Canada
+301,301,5.7,Education,"3,300",12-06-2017,Identity Theft,Malicious Outsider,United States
+302,302,5.7,Education,"3,300",01-08-2017,Identity Theft,Malicious Outsider,United States
+303,303,5.7,Government,"2,969",02/27/17,Identity Theft,Malicious Outsider,United States
+304,304,5.7,Retail,"50,000",02-01-2017,Account Access,Accidental Loss,United States
+305,305,5.7,Healthcare,"30,000",11/15/17,Identity Theft,Malicious Outsider,United States
+306,306,5.7,Healthcare,"2,898",10/25/17,Identity Theft,Malicious Outsider,United States
+307,307,5.7,Healthcare,"3,365",02-02-2017,Identity Theft,Malicious Outsider,United States
+308,308,5.7,Healthcare,"6,000",06-08-2017,Identity Theft,Malicious Outsider,United States
+309,309,5.7,Healthcare,"6,300",06-09-2017,Identity Theft,Malicious Outsider,United States
+310,310,5.7,Hospitality,"3,230",03/13/17,Identity Theft,Malicious Outsider,United States
+311,311,5.6,Industrial,"25,500",12/22/17,Identity Theft,Malicious Outsider,United States
+312,312,5.6,Healthcare,"2,789",05-04-2017,Identity Theft,Malicious Outsider,United States
+313,313,5.6,Social Media,"2,738",02/24/17,Identity Theft,Malicious Outsider,United States
+314,314,5.6,Technology,"5,118",03/20/17,Account Access,Malicious Outsider,Italy
+315,315,5.6,Industrial,"2,400",03-03-2017,Identity Theft,Malicious Outsider,United States
+316,316,5.6,Government,"50,000",04-01-2017,Identity Theft,Hacktivist,United States
+317,317,5.6,Education,"20,000",11/22/17,Identity Theft,Accidental Loss,Canada
+318,318,5.6,Healthcare,"3,400",01-03-2017,Identity Theft,Malicious Insider,United States
+319,319,5.6,Healthcare,"3,247",02/24/17,Identity Theft,Malicious Insider,United States
+320,320,5.6,Healthcare,"2,263",06/30/17,Identity Theft,Malicious Outsider,United States
+321,321,5.6,Healthcare,"4,800",01-10-2017,Account Access,Malicious Outsider,United States
+322,322,5.6,Healthcare,"26,598",09-01-2017,Identity Theft,Malicious Outsider,United States
+323,323,5.6,Other,"35,147",09-01-2017,Financial Access,Malicious Outsider,United States
+324,324,5.6,Financial,"20,000",03/31/17,Identity Theft,Accidental Loss,United States
+325,325,5.6,Healthcare,"3,494",05-09-2017,Identity Theft,Malicious Insider,United States
+326,326,5.6,Healthcare,"2,500",07/13/17,Identity Theft,Malicious Outsider,United States
+327,327,5.6,Healthcare,"5,524",06/30/17,Account Access,Malicious Outsider,United States
+328,328,5.6,Education,"2,618",12-08-2017,Identity Theft,Malicious Outsider,United States
+329,329,5.6,Healthcare,"2,000",06/22/17,Existential Data,Malicious Outsider,United States
+330,330,5.6,Healthcare,"2,718",06/23/17,Identity Theft,Malicious Outsider,United States
+331,331,5.6,Healthcare,"2,494",10-12-2017,Identity Theft,Malicious Outsider,United States
+332,332,5.6,Education,"18,600",08/18/17,Identity Theft,Accidental Loss,United States
+333,333,5.6,Healthcare,"3,500",05/16/17,Identity Theft,Malicious Insider,United States
+334,334,5.6,Healthcare,"22,000",11/21/17,Identity Theft,Accidental Loss,United States
+335,335,5.6,Education,"25,000",11/13/17,Identity Theft,Malicious Outsider,Canada
+336,336,5.6,Healthcare,"2,300",05/22/17,Identity Theft,Malicious Outsider,United States
+337,337,5.6,Healthcare,"24,000",11/27/17,Identity Theft,Malicious Outsider,United States
+338,338,5.6,Healthcare,"2,200",03-06-2017,Existential Data,Malicious Outsider,United States
+339,339,5.5,Healthcare,"1,900",12/20/17,Identity Theft,Malicious Outsider,United States
+340,340,5.5,Other,"2,400",06/29/17,Financial Access,Malicious Outsider,United States
+341,341,5.5,Healthcare,"2,000",07/25/17,Identity Theft,Malicious Outsider,United States
+342,342,5.5,Retail,"28,437",11-10-2017,Financial Access,Malicious Outsider,United States
+343,343,5.5,Entertainment,"1,900",06-03-2017,Identity Theft,Malicious Outsider,Canada
+344,344,5.5,Government,"21,000",11-10-2017,Financial Access,Accidental Loss,United States
+345,345,5.5,Healthcare,"1,843",12-01-2017,Identity Theft,Malicious Outsider,United States
+346,346,5.5,Education,"2,158",12/15/17,Identity Theft,Malicious Outsider,United States
+347,347,5.5,Education,"1,900",01-08-2017,Identity Theft,Malicious Outsider,United States
+348,348,5.5,Education,"44,000",08-03-2017,Account Access,Malicious Outsider,United States
+349,349,5.5,Industrial,"1,900",01/26/17,Identity Theft,Malicious Outsider,United States
+350,350,5.5,Technology,"17,618",09-01-2017,Identity Theft,Malicious Outsider,United States
+351,351,5.5,Education,"2,000",04/24/17,Identity Theft,Malicious Outsider,United States
+352,352,5.5,Healthcare,"1,850",11/13/17,Identity Theft,Malicious Outsider,United States
+353,353,5.5,Education,"2,000",05/31/17,Identity Theft,Malicious Outsider,United States
+354,354,5.5,Technology,"28,740",11-05-2017,Financial Access,Malicious Outsider,United States
+355,355,5.5,Education,"2,036",03/16/17,Identity Theft,Malicious Outsider,United States
+356,356,5.5,Professional Services,"76,299",11/22/17,Nuisance,Malicious Outsider,United States
+357,357,5.5,Financial,"14,616",01/27/17,Identity Theft,Accidental Loss,United States
+358,358,5.5,Other,"18,632",12-05-2017,Identity Theft,Malicious Outsider,United States
+359,359,5.5,Healthcare,"19,438",12-06-2017,Identity Theft,Malicious Outsider,United States
+360,360,5.5,Technology,"2,650",01-09-2017,Financial Access,Malicious Outsider,Netherlands
+361,361,5.5,Non-profit,"20,996",12/18/17,Identity Theft,Malicious Outsider,United States
+362,362,5.5,Healthcare,"1,969",08-09-2017,Identity Theft,Malicious Outsider,United States
+363,363,5.4,Healthcare,"1,458",09-01-2017,Identity Theft,Malicious Outsider,United States
+364,364,5.4,Healthcare,"2,000",05/30/17,Identity Theft,Malicious Insider,United States
+365,365,5.4,Healthcare,"2,000",06-05-2017,Identity Theft,Malicious Insider,United States
+366,366,5.4,Healthcare,"1,586",02-07-2017,Identity Theft,Malicious Outsider,United States
+367,367,5.4,Healthcare,"5,685",02-07-2017,Nuisance,Malicious Outsider,United States
+368,368,5.4,Healthcare,"1,741",04/13/17,Identity Theft,Malicious Outsider,United States
+369,369,5.4,Education,"1,581",09/28/17,Identity Theft,Malicious Outsider,United States
+370,370,5.4,Financial,"10,000",04-08-2017,Existential Data,Accidental Loss,United States
+371,371,5.4,Education,"1,700",02-02-2017,Identity Theft,Malicious Outsider,United States
+372,372,5.4,Retail,"22,182",04/29/17,Financial Access,Malicious Outsider,United States
+373,373,5.4,Financial,"2,000",03/25/17,Financial Access,Malicious Outsider,Philippines
+374,374,5.4,Healthcare,"12,000",08/24/17,Identity Theft,Accidental Loss,United States
+375,375,5.4,Insurance,"1,715",10-06-2017,Identity Theft,Malicious Outsider,United States
+376,376,5.4,Healthcare,"6,231",07/25/17,Nuisance,Malicious Outsider,United States
+377,377,5.4,Healthcare,"1,551",11/17/17,Identity Theft,Malicious Outsider,United States
+378,378,5.4,Healthcare,"4,391",07-11-2017,Account Access,Malicious Insider,United States
+379,379,5.4,Healthcare,"1,700",06/27/17,Identity Theft,Malicious Outsider,United States
+380,380,5.4,Healthcare,"1,900",07-03-2017,Identity Theft,Malicious Insider,United States
+381,381,5.4,Education,"14,283",09/24/17,Identity Theft,Malicious Outsider,United States
+382,382,5.4,Healthcare,"1,600",08-12-2017,Identity Theft,Malicious Outsider,United States
+383,383,5.4,Healthcare,"16,429",11-01-2017,Identity Theft,Malicious Outsider,United States
+384,384,5.4,Technology,"1,750",01/20/17,Identity Theft,Malicious Outsider,United States
+385,385,5.4,Healthcare,"8,450",07-05-2017,Nuisance,Malicious Insider,United States
+386,386,5.4,Education,"1,500",01/13/17,Identity Theft,Malicious Outsider,United States
+387,387,5.4,Healthcare,"1,506",10/23/17,Identity Theft,Malicious Outsider,United States
+388,388,5.4,Healthcare,"1,469",10/17/17,Identity Theft,Malicious Outsider,United States
+389,389,5.4,Education,"1,600",03-03-2017,Identity Theft,Malicious Outsider,United States
+390,390,5.4,Healthcare,"3,496",05-09-2017,Identity Theft,Malicious Outsider,United States
+391,391,5.4,Healthcare,"1,716",10/26/17,Identity Theft,Malicious Outsider,United States
+392,392,5.3,Healthcare,"1,200",02/22/17,Identity Theft,Malicious Outsider,United States
+393,393,5.3,Healthcare,"1,279",12-11-2017,Identity Theft,Malicious Outsider,United States
+394,394,5.3,Hospitality,"1,200",02-09-2017,Identity Theft,Malicious Outsider,United States
+395,395,5.3,Retail,"20,000",03/19/17,Account Access,Accidental Loss,United States
+396,396,5.3,Healthcare,960,03/23/17,Existential Data,Malicious Outsider,United States
+397,397,5.3,Education,"1,300",01/27/17,Identity Theft,Malicious Outsider,United States
+398,398,5.3,Healthcare,"1,132",03/31/17,Identity Theft,Malicious Outsider,United States
+399,399,5.3,Healthcare,"1,637",04-04-2017,Identity Theft,Malicious Insider,United States
+400,400,5.3,Healthcare,"1,243",05-05-2017,Identity Theft,Malicious Outsider,United States
+401,401,5.3,Healthcare,"1,291",03/13/17,Identity Theft,Malicious Outsider,United States
+402,402,5.3,Healthcare,"1,298",03/20/17,Identity Theft,Malicious Outsider,United States
+403,403,5.3,Healthcare,"1,529",07/13/17,Identity Theft,Malicious Insider,United States
+404,404,5.3,Healthcare,"12,331",01-01-2017,Identity Theft,Malicious Outsider,United States
+405,405,5.3,Healthcare,"1,200",09/21/17,Identity Theft,Malicious Outsider,United States
+406,406,5.3,Healthcare,"1,200",07/28/17,Identity Theft,Malicious Outsider,United States
+407,407,5.3,Industrial,"1,291",01/23/17,Identity Theft,Malicious Outsider,United States
+408,408,5.3,Education,"10,000",12/27/17,Identity Theft,Accidental Loss,United States
+409,409,5.3,Education,"1,250",11-09-2017,Identity Theft,Malicious Outsider,United States
+410,410,5.3,Healthcare,"1,320",03/17/17,Identity Theft,Malicious Outsider,United States
+411,411,5.3,Non-profit,"1,278",01-12-2017,Identity Theft,Malicious Outsider,United States
+412,412,5.3,Healthcare,"1,300",07/27/17,Identity Theft,Malicious Outsider,United States
+413,413,5.3,Healthcare,"1,700",06-07-2017,Identity Theft,Malicious Insider,United States
+414,414,5.3,Healthcare,"1,380",12/20/17,Identity Theft,Malicious Outsider,United States
+415,415,5.3,Healthcare,"1,551",10-10-2017,Financial Access,Malicious Outsider,United States
+416,416,5.3,Industrial,"1,200",10/27/17,Identity Theft,Malicious Outsider,United States
+417,417,5.3,Healthcare,"1,200",11/20/17,Identity Theft,Malicious Outsider,United States
+418,418,5.3,Education,"1,086",02/28/17,Existential Data,Malicious Outsider,United States
+419,419,5.3,Healthcare,"1,200",07-10-2017,Identity Theft,Malicious Outsider,United States
+420,420,5.3,Healthcare,"1,200",05/19/17,Identity Theft,Malicious Outsider,United States
+421,421,5.3,Healthcare,"11,521",10-03-2017,Identity Theft,Malicious Outsider,United States
+422,422,5.3,Healthcare,"1,134",02-10-2017,Identity Theft,Malicious Outsider,United States
+423,423,5.3,Retail,"18,133",10/26/17,Financial Access,Malicious Outsider,United States
+424,424,5.3,Financial,"1,200",03/16/17,Identity Theft,Malicious Outsider,United States
+425,425,5.3,Healthcare,"1,303",11/22/17,Identity Theft,Malicious Outsider,United States
+426,426,5.3,Other,"11,603",11/29/17,Identity Theft,Malicious Outsider,United States
+427,427,5.3,Education,"1,300",03-03-2017,Identity Theft,Malicious Outsider,United States
+428,428,5.2,Healthcare,"1,081",09/16/17,Identity Theft,Malicious Outsider,United States
+429,429,5.2,Education,"1,000",01/27/17,Identity Theft,Malicious Outsider,United States
+430,430,5.2,Entertainment,"8,709",01/16/17,Identity Theft,Accidental Loss,Australia
+431,431,5.2,Healthcare,"10,143",07-03-2017,Identity Theft,Malicious Outsider,United States
+432,432,5.2,Healthcare,955,01/31/17,Identity Theft,Malicious Outsider,United States
+433,433,5.2,Healthcare,955,01/31/17,Identity Theft,Malicious Outsider,United States
+434,434,5.2,Healthcare,951,04/14/17,Identity Theft,Malicious Outsider,United States
+435,435,5.2,Healthcare,"1,000",05/27/17,Identity Theft,Malicious Outsider,Canada
+436,436,5.2,Retail,"1,100",01/31/17,Identity Theft,Malicious Outsider,United States
+437,437,5.2,Education,900,03-01-2017,Identity Theft,Malicious Outsider,United States
+438,438,5.2,Healthcare,"1,000",06-01-2017,Identity Theft,Malicious Outsider,United States
+439,439,5.2,Healthcare,902,08-04-2017,Identity Theft,Malicious Outsider,United States
+440,440,5.2,Education,905,03/20/17,Identity Theft,Malicious Outsider,United States
+441,441,5.2,Healthcare,"1,000",11/30/17,Identity Theft,Malicious Outsider,United States
+442,442,5.2,Healthcare,"9,351",10-01-2017,Identity Theft,Malicious Outsider,United States
+443,443,5.2,Education,"1,000",02/27/17,Identity Theft,Malicious Outsider,United States
+444,444,5.2,Retail,"1,900",11/20/17,Financial Access,Malicious Insider,United States
+445,445,5.2,Healthcare,887,02/17/17,Identity Theft,Malicious Outsider,United States
+446,446,5.2,Healthcare,939,10/27/17,Identity Theft,Malicious Outsider,United States
+447,447,5.2,Healthcare,750,02-06-2017,Existential Data,Malicious Outsider,United States
+448,448,5.2,Government,"2,200",01-03-2017,Identity Theft,Malicious Outsider,United States
+449,449,5.2,Healthcare,836,05/23/17,Existential Data,Malicious Outsider,United States
+450,450,5.2,Healthcare,"1,000",09/22/17,Identity Theft,Malicious Outsider,United States
+451,451,5.2,Healthcare,"2,036",05/25/17,Account Access,Malicious Outsider,United States
+452,452,5.2,Government,"9,182",10-01-2017,Identity Theft,Malicious Outsider,United States
+453,453,5.2,Healthcare,"40,621",10/20/17,Identity Theft,Accidental Loss,United States
+454,454,5.2,Healthcare,"1,051",03/23/17,Identity Theft,Malicious Outsider,United States
+455,455,5.2,Healthcare,959,06/23/17,Identity Theft,Malicious Outsider,Canada
+456,456,5.2,Healthcare,"9,769",11/21/17,Identity Theft,Malicious Outsider,United States
+457,457,5.2,Healthcare,"1,090",01-12-2017,Identity Theft,Malicious Outsider,United States
+458,458,5.2,Non-profit,"10,981",12-11-2017,Identity Theft,Malicious Outsider,United States
+459,459,5.2,Healthcare,967,03/20/17,Identity Theft,Malicious Outsider,United States
+460,460,5.1,Industrial,957,09/21/17,Identity Theft,Malicious Insider,United Kingdom
+461,461,5.1,Healthcare,957,09-07-2017,Identity Theft,Malicious Insider,United States
+462,462,5.1,Government,727,03-07-2017,Identity Theft,Malicious Outsider,United States
+463,463,5.1,Healthcare,808,01-03-2017,Identity Theft,Malicious Outsider,United States
+464,464,5.1,Technology,751,07/17/17,Identity Theft,Malicious Outsider,United States
+465,465,5.1,Financial,"6,000",05-09-2017,Identity Theft,Accidental Loss,United States
+466,466,5.1,Healthcare,732,03/23/17,Identity Theft,Malicious Outsider,United States
+467,467,5.1,Healthcare,842,04/26/17,Identity Theft,Malicious Outsider,United States
+468,468,5.1,Healthcare,703,02/17/17,Identity Theft,Malicious Outsider,United States
+469,469,5.1,Healthcare,754,02/28/17,Identity Theft,Malicious Outsider,United States
+470,470,5.1,Healthcare,724,03-01-2017,Identity Theft,Malicious Outsider,United States
+471,471,5.1,Healthcare,600,04/28/17,Existential Data,Malicious Outsider,United States
+472,472,5.1,Other,"1,033",05/15/17,Financial Access,Malicious Outsider,United States
+473,473,5.1,Healthcare,742,05-05-2017,Identity Theft,Malicious Outsider,United States
+474,474,5.1,Healthcare,710,01/27/17,Identity Theft,Malicious Outsider,United States
+475,475,5.1,Healthcare,725,05-05-2017,Identity Theft,Malicious Outsider,United States
+476,476,5.1,Healthcare,703,02-07-2017,Identity Theft,Malicious Outsider,United States
+477,477,5.1,Healthcare,"6,000",09/19/17,Identity Theft,Accidental Loss,Finland
+478,478,5.1,Education,"1,581",09/28/17,Account Access,Malicious Outsider,United States
+479,479,5.1,Financial,800,01/23/17,Identity Theft,Malicious Outsider,United States
+480,480,5.1,Healthcare,750,08/14/17,Identity Theft,Malicious Outsider,United States
+481,481,5.1,Healthcare,724,02/27/17,Identity Theft,Malicious Outsider,United States
+482,482,5.1,Financial,"1,000",03-07-2017,Financial Access,Malicious Outsider,Malta
+483,483,5.1,Healthcare,"33,420",05-09-2017,Identity Theft,Accidental Loss,United States
+484,484,5.1,Healthcare,836,10/13/17,Identity Theft,Malicious Outsider,United States
+485,485,5.1,Technology,"1,971",02-02-2017,Financial Access,Malicious Outsider,United States
+486,486,5.1,Government,"2,000",01-11-2017,Financial Access,Malicious Outsider,Taiwan
+487,487,5.1,Healthcare,"7,000",04-03-2017,Identity Theft,Accidental Loss,United States
+488,488,5.1,Healthcare,880,10-02-2017,Identity Theft,Malicious Outsider,United States
+489,489,5.1,Healthcare,"5,734",09-01-2017,Identity Theft,Accidental Loss,United States
+490,490,5.1,Education,"1,500",05-03-2017,Account Access,Malicious Outsider,United States
+491,491,5.1,Healthcare,"1,176",07/21/17,Identity Theft,Malicious Insider,United States
+492,492,5.1,Government,780,02/21/17,Identity Theft,Malicious Outsider,United States
+493,493,5.1,Healthcare,822,01-05-2017,Identity Theft,Malicious Outsider,United States
+494,494,5.1,Healthcare,"6,000",04/24/17,Identity Theft,Accidental Loss,United States
+495,495,5.1,Healthcare,836,06-09-2017,Identity Theft,Malicious Outsider,United States
+496,496,5.1,Government,850,02-08-2017,Identity Theft,Malicious Outsider,Singapore
+497,497,5.1,Government,"13,972",03/17/17,Account Access,Accidental Loss,United Kingdom
+498,498,5.1,Education,850,04-04-2017,Identity Theft,Malicious Outsider,United States
+499,499,5.1,Government,800,02/22/17,Identity Theft,Malicious Outsider,United States
+500,500,5.1,Healthcare,724,03-08-2017,Identity Theft,Malicious Outsider,United States
+501,501,5.1,Financial,"1,000",02/25/17,Financial Access,Malicious Outsider,United States
+502,502,5.1,Healthcare,"3,400",07-11-2017,Nuisance,Malicious Outsider,United States
+503,503,5.1,Financial,860,05-04-2017,Identity Theft,Malicious Outsider,United States
+504,504,5.1,Healthcare,719,10/20/17,Identity Theft,Malicious Outsider,United States
+505,505,5.1,Healthcare,720,10/20/17,Identity Theft,Malicious Outsider,United States
+506,506,5.1,Non-profit,"6,100",05/22/17,Identity Theft,Accidental Loss,United States
+507,507,5.1,Healthcare,800,06/30/17,Identity Theft,Malicious Outsider,United States
+508,508,5,Healthcare,687,03-01-2017,Identity Theft,Malicious Outsider,United States
+509,509,5,Healthcare,652,11/27/17,Identity Theft,Malicious Outsider,United States
+510,510,5,Government,"28,000",02-09-2017,Identity Theft,Accidental Loss,Canada
+511,511,5,Retail,590,02/22/17,Identity Theft,Malicious Outsider,United States
+512,512,5,Insurance,"5,600",04/22/17,Identity Theft,Accidental Loss,United States
+513,513,5,Retail,600,01/24/17,Identity Theft,Malicious Outsider,United States
+514,514,5,Education,600,02/21/17,Identity Theft,Malicious Outsider,United States
+515,515,5,Healthcare,685,04-03-2017,Identity Theft,Malicious Outsider,United States
+516,516,5,Healthcare,677,03/20/17,Identity Theft,Malicious Outsider,United States
+517,517,5,Healthcare,643,03/19/17,Identity Theft,Malicious Outsider,United States
+518,518,5,Healthcare,"5,511",03/23/17,Identity Theft,Accidental Loss,United States
+519,519,5,Healthcare,680,07/14/17,Identity Theft,Malicious Outsider,United States
+520,520,5,Education,600,02-05-2017,Identity Theft,Malicious Outsider,United States
+521,521,5,Industrial,"4,487",03/24/17,Existential Data,Malicious Outsider,United States
+522,522,5,Healthcare,849,05/14/17,Identity Theft,Malicious Insider,United States
+523,523,5,Education,836,06/24/17,Financial Access,Malicious Outsider,United States
+524,524,5,Healthcare,"5,562",02-09-2017,Identity Theft,Accidental Loss,United Kingdom
+525,525,5,Healthcare,917,11/17/17,Identity Theft,Malicious Insider,United States
+526,526,5,Healthcare,623,02/13/17,Identity Theft,Malicious Outsider,United States
+527,527,5,Healthcare,600,01/16/17,Identity Theft,Malicious Outsider,United States
+528,528,5,Education,700,10/27/17,Identity Theft,Malicious Outsider,United States
+529,529,5,Education,"4,800",03-08-2017,Identity Theft,Accidental Loss,United States
+530,530,5,Healthcare,"6,550",09-01-2017,Identity Theft,Malicious Outsider,United States
+531,531,5,Healthcare,822,06/30/17,Identity Theft,Malicious Insider,United States
+532,532,5,Industrial,"7,967",09-01-2017,Identity Theft,Malicious Insider,United States
+533,533,5,Healthcare,769,12-05-2017,Identity Theft,Malicious Insider,United States
+534,534,5,Healthcare,596,06/26/17,Identity Theft,Malicious Outsider,United States
+535,535,5,Healthcare,647,06/21/17,Identity Theft,Malicious Outsider,United States
+536,536,5,Entertainment,605,06/13/17,Identity Theft,Malicious Outsider,United States
+537,537,5,Healthcare,"6,781",10-03-2017,Identity Theft,Malicious Outsider,United States
+538,538,5,Healthcare,"55,947",10/13/17,Account Access,Accidental Loss,United States
+539,539,5,Other,"6,020",10/31/17,Identity Theft,Malicious Outsider,United States
+540,540,5,Hospitality,700,07/28/17,Identity Theft,Malicious Outsider,Canada
+541,541,5,Technology,652,03-06-2017,Identity Theft,Malicious Outsider,United States
+542,542,5,Insurance,700,08/25/17,Existential Data,Malicious Insider,United Kingdom
+543,543,5,Professional Services,"5,576",11/29/17,Identity Theft,Malicious Outsider,United States
+544,544,5,Healthcare,689,10/21/17,Identity Theft,Malicious Outsider,United States
+545,545,5,Healthcare,"1,722",03/14/17,Identity Theft,Malicious Insider,United States
+546,546,5,Other,"4,600",08/30/17,Identity Theft,Accidental Loss,United States
+547,547,5,Government,"21,000",05-08-2017,Nuisance,Accidental Loss,Australia
+548,548,5,Healthcare,"5,220",04-07-2017,Identity Theft,Accidental Loss,United States
+549,549,5,Healthcare,"5,600",05-11-2017,Identity Theft,Accidental Loss,Canada
+550,550,5,Healthcare,683,08/25/17,Identity Theft,Malicious Outsider,United States
+551,551,5,Healthcare,"1,200",06-01-2017,Identity Theft,Malicious Outsider,United States
+552,552,4.9,Other,"1,784",11-12-2017,Identity Theft,Hacktivist,Syria
+553,553,4.9,Healthcare,"1,800",09/18/17,Nuisance,Malicious Outsider,United States
+554,554,4.9,Healthcare,521,04/26/17,Identity Theft,Malicious Outsider,United States
+555,555,4.9,Education,500,01/20/17,Identity Theft,Malicious Outsider,United States
+556,556,4.9,Government,"3,700",08-06-2017,Identity Theft,Accidental Loss,United States
+557,557,4.9,Healthcare,500,01-09-2017,Identity Theft,Malicious Outsider,United States
+558,558,4.9,Healthcare,500,05/15/17,Identity Theft,Malicious Outsider,United States
+559,559,4.9,Healthcare,500,09/29/17,Identity Theft,Malicious Outsider,United Kingdom
+560,560,4.9,Professional Services,540,11-09-2017,Identity Theft,Malicious Outsider,Australia
+561,561,4.9,Healthcare,554,10/24/17,Identity Theft,Malicious Outsider,United States
+562,562,4.9,Healthcare,500,08/14/17,Identity Theft,Malicious Outsider,United States
+563,563,4.9,Retail,"7,028",08-01-2017,Financial Access,Malicious Outsider,United States
+564,564,4.9,Education,"2,000",02-09-2017,Identity Theft,Accidental Loss,United States
+565,565,4.9,Government,"4,000",03/13/17,Identity Theft,Accidental Loss,United States
+566,566,4.9,Government,517,09-07-2017,Identity Theft,Malicious Outsider,United States
+567,567,4.9,Technology,506,01/20/17,Identity Theft,Malicious Outsider,United States
+568,568,4.9,Healthcare,548,06/14/17,Identity Theft,Malicious Outsider,United States
+569,569,4.9,Education,470,03/13/17,Identity Theft,Malicious Outsider,United States
+570,570,4.9,Healthcare,550,01/31/17,Identity Theft,Malicious Outsider,United States
+571,571,4.9,Healthcare,530,07-09-2017,Identity Theft,Malicious Outsider,United States
+572,572,4.9,Healthcare,"4,000",08/30/17,Identity Theft,Accidental Loss,United States
+573,573,4.9,Government,"20,000",05/20/17,Identity Theft,Accidental Loss,United States
+574,574,4.9,Retail,"8,000",04/27/17,Account Access,Accidental Loss,United States
+575,575,4.9,Government,"3,700",08-02-2017,Identity Theft,Accidental Loss,United States
+576,576,4.9,Education,470,03/13/17,Identity Theft,Malicious Outsider,United States
+577,577,4.9,Healthcare,500,11/17/17,Identity Theft,Malicious Outsider,United States
+578,578,4.9,Healthcare,550,10-09-2017,Identity Theft,Malicious Outsider,United States
+579,579,4.9,Healthcare,500,02-09-2017,Identity Theft,Malicious Outsider,United States
+580,580,4.9,Education,515,04/20/17,Identity Theft,Malicious Outsider,United States
+581,581,4.9,Healthcare,500,03-04-2017,Identity Theft,Malicious Outsider,United States
+582,582,4.9,Healthcare,702,02/19/17,Identity Theft,Malicious Insider,United States
+583,583,4.9,Government,500,02/23/17,Identity Theft,Malicious Outsider,United States
+584,584,4.9,Healthcare,500,09-07-2017,Identity Theft,Malicious Outsider,Canada
+585,585,4.9,Education,"4,949",11/26/17,Identity Theft,Malicious Outsider,United States
+586,586,4.9,Healthcare,"19,000",12-01-2017,Identity Theft,Accidental Loss,United States
+587,587,4.9,Education,900,10-09-2017,Account Access,Malicious Outsider,United Kingdom
+588,588,4.9,Healthcare,500,08/28/17,Identity Theft,Malicious Outsider,United States
+589,589,4.8,Technology,"3,085",12/29/17,Existential Data,Malicious Outsider,United States
+590,590,4.8,Healthcare,"1,679",09-01-2017,Nuisance,Malicious Outsider,United States
+591,591,4.8,Healthcare,742,04/24/17,Account Access,Malicious Outsider,United States
+592,592,4.8,Financial,400,09/22/17,Identity Theft,Malicious Outsider,Canada
+593,593,4.8,Healthcare,"2,953",02-02-2017,Identity Theft,Accidental Loss,United States
+594,594,4.8,Healthcare,"3,467",04/28/17,Existential Data,Malicious Outsider,United States
+595,595,4.8,Government,"2,693",04-05-2017,Existential Data,Accidental Loss,Australia
+596,596,4.8,Healthcare,"2,859",04-09-2017,Identity Theft,Accidental Loss,United States
+597,597,4.8,Professional Services,"3,000",09/26/17,Identity Theft,Accidental Loss,United States
+598,598,4.8,Professional Services,433,08-04-2017,Identity Theft,Malicious Outsider,United States
+599,599,4.8,Healthcare,"3,775",12/16/17,Identity Theft,Malicious Outsider,United States
+600,600,4.8,Financial,529,12-01-2017,Financial Access,Malicious Outsider,Pakistan
+601,601,4.8,Government,"3,000",03/20/17,Identity Theft,Accidental Loss,United Kingdom
+602,602,4.8,Government,"16,500",08-07-2017,Identity Theft,Accidental Loss,United States
+603,603,4.8,Healthcare,859,07-09-2017,Account Access,Malicious Outsider,United States
+604,604,4.8,Government,"1,659",08-02-2017,Identity Theft,Accidental Loss,United Kingdom
+605,605,4.8,Healthcare,"4,000",10-01-2017,Identity Theft,Malicious Outsider,United States
+606,606,4.8,Education,408,10-10-2017,Identity Theft,Malicious Outsider,United States
+607,607,4.8,Healthcare,"3,808",10-01-2017,Identity Theft,Malicious Outsider,United States
+608,608,4.8,Other,360,02-03-2017,Identity Theft,Malicious Outsider,United States
+609,609,4.8,Government,820,10/20/17,Account Access,Malicious Outsider,United States
+610,610,4.8,Professional Services,"3,882",11-01-2017,Identity Theft,Malicious Outsider,United States
+611,611,4.8,Financial,500,03/29/17,Financial Access,Malicious Outsider,United States
+612,612,4.8,Healthcare,"1,100",04-01-2017,Identity Theft,Malicious Insider,United States
+613,613,4.8,Retail,360,02/13/17,Identity Theft,Malicious Outsider,United States
+614,614,4.8,Healthcare,"3,677",11/30/17,Identity Theft,Malicious Outsider,United States
+615,615,4.8,Retail,424,02-02-2017,Identity Theft,Malicious Outsider,United States
+616,616,4.8,Financial,"3,553",12/20/17,Identity Theft,Malicious Outsider,United States
+617,617,4.7,Government,400,08/25/17,Financial Access,Malicious Outsider,United States
+618,618,4.7,Healthcare,"1,140",09/22/17,Nuisance,Malicious Outsider,United States
+619,619,4.7,Government,"2,743",07/18/17,Identity Theft,Accidental Loss,United Kingdom
+620,620,4.7,Entertainment,"1,133",09/26/17,Account Access,Malicious Outsider,Germany
+621,621,4.7,Healthcare,"2,500",05/26/17,Identity Theft,Accidental Loss,United States
+622,622,4.7,Technology,300,07/27/17,Identity Theft,Malicious Outsider,Canada
+623,623,4.7,Technology,"2,900",07-06-2017,Identity Theft,Malicious Outsider,United States
+624,624,4.7,Healthcare,571,07/21/17,Account Access,Malicious Outsider,United States
+625,625,4.7,Industrial,300,02-02-2017,Identity Theft,Malicious Outsider,United States
+626,626,4.7,Professional Services,"3,348",09/29/17,Identity Theft,Malicious Outsider,United States
+627,627,4.7,Technology,350,02-01-2017,Identity Theft,Malicious Outsider,United States
+628,628,4.7,Professional Services,350,10-10-2017,Identity Theft,Malicious Outsider,United States
+629,629,4.7,Retail,"4,141",10/31/17,Financial Access,Malicious Outsider,United States
+630,630,4.7,Government,"2,452",05-10-2017,Identity Theft,Accidental Loss,United States
+631,631,4.7,Government,"2,743",07/18/17,Identity Theft,Accidental Loss,United Kingdom
+632,632,4.7,Professional Services,"2,921",11-01-2017,Identity Theft,Malicious Outsider,United States
+633,633,4.7,Healthcare,419,04/15/17,Identity Theft,Malicious Insider,United States
+634,634,4.7,Financial,"2,816",11/17/17,Identity Theft,Malicious Outsider,United States
+635,635,4.7,Retail,351,02-02-2017,Identity Theft,Malicious Outsider,United States
+636,636,4.7,Government,"4,559",12-11-2017,Financial Access,Malicious Outsider,United States
+637,637,4.6,Healthcare,"2,000",10-09-2017,Identity Theft,Accidental Loss,United States
+638,638,4.6,Healthcare,"9,854",12/26/17,Identity Theft,Accidental Loss,United States
+639,639,4.6,Entertainment,230,02-01-2017,Identity Theft,Malicious Outsider,United States
+640,640,4.6,Healthcare,939,09/18/17,Nuisance,Malicious Outsider,United States
+641,641,4.6,Entertainment,262,02-07-2017,Identity Theft,Malicious Outsider,United States
+642,642,4.6,Technology,"2,100",09-06-2017,Identity Theft,Accidental Loss,United States
+643,643,4.6,Financial,"10,000",03-05-2017,Identity Theft,Accidental Loss,United States
+644,644,4.6,Healthcare,247,04-02-2017,Identity Theft,Malicious Outsider,United Kingdom
+645,645,4.6,Technology,"2,000",04-11-2017,Identity Theft,Accidental Loss,United Kingdom
+646,646,4.6,Government,"1,842",06/16/17,Identity Theft,Accidental Loss,United States
+647,647,4.6,Non-profit,300,04-01-2017,Identity Theft,Malicious Insider,United States
+648,648,4.6,Entertainment,250,02/14/17,Identity Theft,Malicious Outsider,United States
+649,649,4.6,Healthcare,"2,600",05-08-2017,Identity Theft,Malicious Outsider,United States
+650,650,4.6,Healthcare,353,10/18/17,Identity Theft,Malicious Insider,United States
+651,651,4.6,Government,"1,800",05-01-2017,Identity Theft,Accidental Loss,United States
+652,652,4.6,Government,"1,800",05-08-2017,Identity Theft,Accidental Loss,United States
+653,653,4.6,Healthcare,"10,000",06-01-2017,Identity Theft,Accidental Loss,United States
+654,654,4.6,Education,"2,500",02-03-2017,Identity Theft,Malicious Outsider,United States
+655,655,4.6,Government,"2,000",03-07-2017,Identity Theft,Accidental Loss,United States
+656,656,4.6,Healthcare,"2,000",04-05-2017,Identity Theft,Accidental Loss,United States
+657,657,4.6,Healthcare,253,02-07-2017,Identity Theft,Malicious Outsider,United States
+658,658,4.6,Healthcare,"2,146",11/28/17,Identity Theft,Accidental Loss,United States
+659,659,4.6,Healthcare,337,01-09-2017,Identity Theft,Malicious Insider,Canada
+660,660,4.6,Education,"2,598",11-01-2017,Identity Theft,Malicious Outsider,United States
+661,661,4.6,Healthcare,"2,100",07-05-2017,Identity Theft,Accidental Loss,United States
+662,662,4.6,Professional Services,"2,677",12-02-2017,Identity Theft,Malicious Outsider,United States
+663,663,4.6,Education,250,01/19/17,Identity Theft,Malicious Outsider,United States
+664,664,4.6,Other,"2,000",01/19/17,Identity Theft,Accidental Loss,United States
+665,665,4.6,Technology,"2,657",12/17/17,Identity Theft,Malicious Outsider,United States
+666,666,4.5,Healthcare,836,12-08-2017,Nuisance,Malicious Outsider,United States
+667,667,4.5,Technology,180,03-06-2017,Identity Theft,Malicious Outsider,United States
+668,668,4.5,Healthcare,200,01/30/17,Identity Theft,Malicious Outsider,United States
+669,669,4.5,Government,"2,651",07-01-2017,Financial Access,Malicious Outsider,United States
+670,670,4.5,Healthcare,186,02-01-2017,Identity Theft,Malicious Outsider,United States
+671,671,4.5,Healthcare,"1,868",12/20/17,Identity Theft,Malicious Outsider,United States
+672,672,4.5,Education,"1,700",02/18/17,Existential Data,Malicious Outsider,United States
+673,673,4.5,Professional Services,"1,500",09/20/17,Identity Theft,Accidental Loss,United States
+674,674,4.5,Healthcare,"1,600",06-12-2017,Identity Theft,Accidental Loss,United States
+675,675,4.5,Industrial,"2,181",07-01-2017,Identity Theft,Malicious Outsider,United States
+676,676,4.5,Retail,"6,300",01-12-2017,Existential Data,Accidental Loss,United States
+677,677,4.5,Healthcare,"6,500",01-12-2017,Nuisance,Accidental Loss,United States
+678,678,4.5,Financial,"8,000",08-01-2017,Nuisance,Malicious Outsider,Brazil
+679,679,4.5,Healthcare,"2,700",01-10-2017,Identity Theft,Malicious Insider,United States
+680,680,4.5,Education,"1,700",11-08-2017,Identity Theft,Accidental Loss,United States
+681,681,4.5,Healthcare,"2,500",01/16/17,Identity Theft,Malicious Insider,United States
+682,682,4.5,Hospitality,"1,992",09-09-2017,Identity Theft,Malicious Outsider,United States
+683,683,4.5,Retail,429,07-08-2017,Identity Theft,Malicious Outsider,United States
+684,684,4.5,Industrial,200,02/20/17,Identity Theft,Malicious Outsider,United States
+685,685,4.5,Technology,320,11/15/17,Financial Access,Malicious Insider,United States
+686,686,4.5,Government,"1,500",01-01-2017,Identity Theft,Accidental Loss,United States
+687,687,4.5,Financial,"1,810",12-12-2017,Identity Theft,Malicious Outsider,United States
+688,688,4.4,Healthcare,"1,200",03/28/17,Identity Theft,Accidental Loss,United States
+689,689,4.4,Other,150,02/15/17,Identity Theft,Malicious Outsider,United States
+690,690,4.4,Healthcare,653,09/26/17,Nuisance,Malicious Outsider,United States
+691,691,4.4,Technology,207,11/15/17,Identity Theft,Malicious Insider,Cyprus
+692,692,4.4,Healthcare,"1,900",07-01-2017,Identity Theft,Malicious Insider,United States
+693,693,4.4,Healthcare,670,01/26/17,Identity Theft,Accidental Loss,United States
+694,694,4.4,Healthcare,"1,300",03/20/17,Identity Theft,Accidental Loss,United States
+695,695,4.4,Healthcare,576,01/24/17,Identity Theft,Accidental Loss,United States
+696,696,4.4,Government,"1,200",03-02-2017,Identity Theft,Accidental Loss,United States
+697,697,4.4,Healthcare,"1,223",07/20/17,Identity Theft,Accidental Loss,United States
+698,698,4.4,Retail,"1,530",07/28/17,Identity Theft,Malicious Outsider,United States
+699,699,4.4,Healthcare,"1,711",09-01-2017,Identity Theft,Malicious Outsider,United States
+700,700,4.4,Other,145,02/23/17,Identity Theft,Malicious Outsider,United States
+701,701,4.4,Financial,"1,500",09/21/17,Identity Theft,Malicious Outsider,United States
+702,702,4.4,Healthcare,"1,399",11-03-2017,Identity Theft,Accidental Loss,United States
+703,703,4.4,Other,"1,595",10-02-2017,Identity Theft,Malicious Outsider,United States
+704,704,4.4,Technology,"1,584",10/16/17,Identity Theft,Malicious Outsider,United States
+705,705,4.4,Financial,158,03/16/17,Identity Theft,Malicious Outsider,United States
+706,706,4.4,Healthcare,"1,670",11-01-2017,Identity Theft,Malicious Outsider,United States
+707,707,4.4,Professional Services,"1,670",11-01-2017,Identity Theft,Malicious Outsider,United States
+708,708,4.4,Healthcare,"1,500",11-01-2017,Identity Theft,Malicious Outsider,United States
+709,709,4.4,Healthcare,"1,692",11-11-2017,Identity Theft,Malicious Outsider,United States
+710,710,4.4,Government,223,02-09-2017,Identity Theft,Malicious Insider,United States
+711,711,4.4,Healthcare,"1,618",11/16/17,Identity Theft,Malicious Outsider,United States
+712,712,4.4,Healthcare,600,03/13/17,Nuisance,Malicious Outsider,United States
+713,713,4.4,Healthcare,"1,399",09/23/17,Identity Theft,Accidental Loss,United States
+714,714,4.4,Government,"2,300",12-11-2017,Financial Access,Malicious Outsider,United States
+715,715,4.3,Retail,"1,000",09/22/17,Identity Theft,Accidental Loss,Australia
+716,716,4.3,Non-profit,"1,000",08-11-2017,Identity Theft,Accidental Loss,Canada
+717,717,4.3,Healthcare,"1,000",08-06-2017,Identity Theft,Accidental Loss,New Zealand
+718,718,4.3,Healthcare,150,05/16/17,Identity Theft,Malicious Insider,United States
+719,719,4.3,Education,945,05/20/17,Existential Data,Malicious Outsider,United States
+720,720,4.3,Healthcare,130,11-09-2017,Identity Theft,Malicious Outsider,Australia
+721,721,4.3,Education,257,01/24/17,Account Access,Malicious Outsider,United States
+722,722,4.3,Healthcare,150,11/24/17,Identity Theft,Malicious Insider,United Kingdom
+723,723,4.3,Government,"1,000",11-07-2017,Identity Theft,Accidental Loss,Ireland
+724,724,4.3,Industrial,119,08/23/17,Identity Theft,Malicious Outsider,United States
+725,725,4.3,Healthcare,"1,345",08/15/17,Identity Theft,Malicious Outsider,United States
+726,726,4.3,Technology,"1,000",12-05-2017,Account Access,Accidental Loss,United States
+727,727,4.3,Healthcare,"1,166",09/28/17,Identity Theft,Malicious Outsider,United States
+728,728,4.3,Financial,150,03/14/17,Financial Access,Malicious Outsider,United States
+729,729,4.3,Financial,"1,260",11-08-2017,Identity Theft,Malicious Outsider,United States
+730,730,4.3,Healthcare,"1,000",02/21/17,Identity Theft,Accidental Loss,United States
+731,731,4.3,Government,"1,100",03-06-2017,Identity Theft,Accidental Loss,United States
+732,732,4.3,Healthcare,"1,806",02-03-2017,Account Access,Accidental Loss,United States
+733,733,4.3,Government,175,10-02-2017,Financial Access,Malicious Outsider,United States
+734,734,4.3,Healthcare,900,07/24/17,Identity Theft,Accidental Loss,United States
+735,735,4.3,Retail,"2,385",12/18/17,Account Access,Malicious Outsider,United States
+736,736,4.2,Healthcare,822,07/17/17,Identity Theft,Accidental Loss,United States
+737,737,4.2,Healthcare,"1,200",03/30/17,Identity Theft,Malicious Insider,United States
+738,738,4.2,Education,439,02/23/17,Identity Theft,Accidental Loss,United States
+739,739,4.2,Entertainment,866,08-06-2017,Identity Theft,Accidental Loss,United States
+740,740,4.2,Government,90,06/25/17,Identity Theft,Malicious Outsider,United Kingdom
+741,741,4.2,Government,"16,500",08-07-2017,Nuisance,Accidental Loss,United States
+742,742,4.2,Healthcare,"1,126",01-12-2017,Financial Access,Accidental Loss,United States
+743,743,4.2,Healthcare,283,02-01-2017,Identity Theft,Malicious Insider,Canada
+744,744,4.2,Healthcare,776,01/20/17,Identity Theft,Accidental Loss,United States
+745,745,4.2,Financial,"1,253",09-01-2017,Financial Access,Malicious Outsider,United States
+746,746,4.2,Healthcare,776,02/20/17,Identity Theft,Accidental Loss,United States
+747,747,4.2,Education,800,07/14/17,Identity Theft,Accidental Loss,Canada
+748,748,4.2,Financial,143,04-07-2017,Financial Access,Malicious Outsider,United States
+749,749,4.2,Healthcare,917,11/14/17,Identity Theft,Malicious Outsider,United States
+750,750,4.2,Healthcare,925,12-05-2017,Identity Theft,Malicious Outsider,United States
+751,751,4.2,Government,103,10-09-2017,Identity Theft,Malicious Outsider,United States
+752,752,4.2,Healthcare,"1,416",03-09-2017,Account Access,Accidental Loss,United States
+753,753,4.1,Technology,788,11-07-2017,Financial Access,Accidental Loss,United States
+754,754,4.1,Technology,81,02-07-2017,Identity Theft,Malicious Outsider,United Kingdom
+755,755,4.1,Industrial,"1,031",12/23/17,Financial Access,Malicious Outsider,United States
+756,756,4.1,Healthcare,588,06-08-2017,Identity Theft,Accidental Loss,United States
+757,757,4.1,Government,"1,300",07/14/17,Account Access,Accidental Loss,United States
+758,758,4.1,Education,299,09/24/17,Identity Theft,Accidental Loss,United States
+759,759,4.1,Professional Services,100,11/13/17,Identity Theft,Malicious Insider,United States
+760,760,4.1,Healthcare,80,03/20/17,Identity Theft,Malicious Outsider,United States
+761,761,4.1,Other,84,02/13/17,Identity Theft,Malicious Outsider,United States
+762,762,4.1,Healthcare,"1,070",01-12-2017,Identity Theft,Malicious Insider,United States
+763,763,4.1,Healthcare,652,10/25/17,Identity Theft,Accidental Loss,United States
+764,764,4.1,Education,599,03-06-2017,Identity Theft,Accidental Loss,United States
+765,765,4.1,Healthcare,644,01-09-2017,Identity Theft,Accidental Loss,United States
+766,766,4.1,Retail,979,11-01-2017,Financial Access,Malicious Outsider,United States
+767,767,4.1,Healthcare,800,11-11-2017,Identity Theft,Malicious Outsider,United States
+768,768,4.1,Government,113,03-09-2017,Identity Theft,Malicious Insider,United States
+769,769,4.1,Other,781,11/16/17,Identity Theft,Malicious Outsider,United States
+770,770,4.1,Government,"1,300",08/23/17,Account Access,Accidental Loss,United States
+771,771,4.1,Education,600,04/27/17,Identity Theft,Accidental Loss,United States
+772,772,4.1,Other,"1,099",12-12-2017,Financial Access,Malicious Outsider,United States
+773,773,4.1,Non-profit,843,12/14/17,Identity Theft,Malicious Outsider,United States
+774,774,4.1,Healthcare,871,12/20/17,Identity Theft,Malicious Outsider,United States
+775,775,4,Retail,100,02-09-2017,Financial Access,Malicious Insider,United States
+776,776,4,Healthcare,66,09/13/17,Identity Theft,Malicious Outsider,United States
+777,777,4,Government,500,07-05-2017,Identity Theft,Accidental Loss,United States
+778,778,4,Healthcare,515,09/20/17,Identity Theft,Accidental Loss,United States
+779,779,4,Healthcare,"1,000",03/16/17,Account Access,Accidental Loss,United Kingdom
+780,780,4,Retail,500,05-08-2017,Identity Theft,Accidental Loss,Australia
+781,781,4,Healthcare,623,01/19/17,Identity Theft,Malicious Outsider,United States
+782,782,4,Insurance,522,06/23/17,Identity Theft,Accidental Loss,United States
+783,783,4,Other,589,02/14/17,Identity Theft,Malicious Outsider,United States
+784,784,4,Government,515,09-08-2017,Identity Theft,Accidental Loss,United States
+785,785,4,Entertainment,80,03/24/17,Financial Access,Malicious Outsider,United States
+786,786,4,Financial,"2,434",11/30/17,Identity Theft,Accidental Loss,United States
+787,787,4,Healthcare,895,12-09-2017,Identity Theft,Malicious Insider,United States
+788,788,4,Healthcare,660,12/19/17,Identity Theft,Malicious Outsider,United States
+789,789,3.9,Professional Services,500,12/31/17,Identity Theft,Malicious Outsider,United States
+790,790,3.9,Education,439,02/23/17,Identity Theft,Accidental Loss,United States
+791,791,3.9,Education,53,07-07-2017,Identity Theft,Malicious Outsider,United States
+792,792,3.9,Healthcare,"2,078",01-01-2017,Identity Theft,Accidental Loss,United States
+793,793,3.9,Healthcare,542,05-12-2017,Identity Theft,Malicious Outsider,United States
+794,794,3.9,Education,53,07-07-2017,Identity Theft,Malicious Outsider,United States
+795,795,3.9,Financial,500,10/23/17,Identity Theft,Malicious Outsider,United States
+796,796,3.9,Healthcare,500,11-11-2017,Identity Theft,Malicious Outsider,United States
+797,797,3.9,Non-profit,44,01-09-2017,Existential Data,Malicious Outsider,United States
+798,798,3.9,Healthcare,"1,823",12-08-2017,Identity Theft,Accidental Loss,United States
+799,799,3.9,Healthcare,"1,922",12/21/17,Identity Theft,Accidental Loss,United States
+800,800,3.8,Government,500,12/22/17,Identity Theft,Malicious Insider,United States
+801,801,3.8,Retail,500,12/29/17,Financial Access,Malicious Outsider,United States
+802,802,3.8,Education,115,05-10-2017,Financial Access,Malicious Outsider,Australia
+803,803,3.8,Healthcare,700,05-11-2017,Account Access,Accidental Loss,United States
+804,804,3.8,Financial,54,06-10-2017,Identity Theft,Malicious Insider,United States
+805,805,3.8,Healthcare,500,05/15/17,Financial Access,Malicious Outsider,United States
+806,806,3.8,Healthcare,40,07-01-2017,Identity Theft,Malicious Outsider,United States
+807,807,3.8,Industrial,36,03-03-2017,Identity Theft,Malicious Outsider,United States
+808,808,3.8,Other,44,02-01-2017,Identity Theft,Malicious Outsider,United States
+809,809,3.8,Education,298,10/13/17,Identity Theft,Accidental Loss,United Kingdom
+810,810,3.8,Education,40,01/29/17,Identity Theft,Malicious Outsider,United States
+811,811,3.8,Healthcare,570,03-08-2017,Identity Theft,Malicious Insider,United States
+812,812,3.8,Government,300,02-07-2017,Identity Theft,Accidental Loss,United States
+813,813,3.8,Government,56,04-08-2017,Identity Theft,Malicious Insider,United States
+814,814,3.8,Government,700,09-07-2017,Account Access,Accidental Loss,Australia
+815,815,3.7,Education,30,03/21/17,Identity Theft,Malicious Outsider,United States
+816,816,3.7,Healthcare,234,07-07-2017,Identity Theft,Accidental Loss,Australia
+817,817,3.7,Healthcare,30,06-01-2017,Identity Theft,Malicious Outsider,United Kingdom
+818,818,3.7,Healthcare,"1,203",09/25/17,Identity Theft,Accidental Loss,United States
+819,819,3.7,Healthcare,32,01/30/17,Identity Theft,Malicious Outsider,United States
+820,820,3.7,Healthcare,"1,176",12/21/17,Identity Theft,Accidental Loss,United States
+821,821,3.6,Healthcare,"1,015",12/21/17,Identity Theft,Accidental Loss,United States
+822,822,3.6,Retail,181,12-02-2017,Identity Theft,Accidental Loss,United States
+823,823,3.6,Education,200,11/17/17,Identity Theft,Accidental Loss,United States
+824,824,3.6,Insurance,200,06/15/17,Identity Theft,Accidental Loss,United States
+825,825,3.6,Government,24,10-07-2017,Identity Theft,Malicious Outsider,United States
+826,826,3.6,Healthcare,200,02/17/17,Existential Data,Malicious Outsider,United States
+827,827,3.6,Professional Services,200,11/27/17,Identity Theft,Accidental Loss,United States
+828,828,3.6,Government,60,05-12-2017,Identity Theft,Malicious Insider,United States
+829,829,3.6,Professional Services,237,09/26/17,Identity Theft,Malicious Outsider,United States
+830,830,3.6,Technology,239,12-05-2017,Identity Theft,Malicious Outsider,United States
+831,831,3.6,Healthcare,994,12/21/17,Identity Theft,Accidental Loss,United States
+832,832,3.5,Education,160,05/28/17,Identity Theft,Accidental Loss,United States
+833,833,3.5,Government,200,03/15/17,Financial Access,Accidental Loss,United States
+834,834,3.5,Government,25,08/13/17,Financial Access,Malicious Outsider,United States
+835,835,3.5,Insurance,179,10/13/17,Identity Theft,Malicious Outsider,United States
+836,836,3.5,Technology,40,03/27/17,Account Access,Malicious Outsider,United States
+837,837,3.5,Healthcare,19,11/21/17,Identity Theft,Malicious Outsider,Canada
+838,838,3.5,Financial,158,01-06-2017,Identity Theft,Accidental Loss,United States
+839,839,3.5,Hospitality,182,12-08-2017,Identity Theft,Malicious Outsider,United States
+840,840,3.5,Financial,210,12/15/17,Identity Theft,Malicious Outsider,United States
+841,841,3.5,Healthcare,24,02/21/17,Identity Theft,Malicious Insider,United States
+842,842,3.5,Retail,239,12/19/17,Financial Access,Malicious Outsider,United States
+843,843,3.4,Technology,158,12/25/17,Identity Theft,Malicious Outsider,United States
+844,844,3.4,Healthcare,557,12-08-2017,Nuisance,Accidental Loss,United States
+845,845,3.4,Financial,500,03-09-2017,Nuisance,Accidental Loss,Ireland
+846,846,3.4,Government,15,03/23/17,Existential Data,Malicious Insider,United States
+847,847,3.4,Government,16,05/16/17,Identity Theft,Malicious Outsider,United States
+848,848,3.4,Education,115,04-11-2017,Identity Theft,Accidental Loss,Australia
+849,849,3.4,Government,16,03-07-2017,Identity Theft,Malicious Outsider,United States
+850,850,3.4,Education,631,07-11-2017,Identity Theft,Accidental Loss,United States
+851,851,3.4,Healthcare,638,09/21/17,Identity Theft,Accidental Loss,United States
+852,852,3.4,Non-profit,570,11-07-2017,Identity Theft,Accidental Loss,United States
+853,853,3.4,Healthcare,190,02-05-2017,Identity Theft,Malicious Insider,New Zealand
+854,854,3.4,Healthcare,122,01/30/17,Identity Theft,Accidental Loss,Canada
+855,855,3.4,Healthcare,14,06/14/17,Identity Theft,Malicious Outsider,Canada
+856,856,3.4,Financial,500,09-12-2017,Nuisance,Accidental Loss,Ireland
+857,857,3.4,Government,175,04/19/17,Identity Theft,Malicious Outsider,United States
+858,858,3.4,Retail,20,08-09-2017,Financial Access,Malicious Outsider,United States
+859,859,3.3,Technology,132,12/26/17,Identity Theft,Malicious Outsider,United States
+860,860,3.3,Government,93,03-10-2017,Identity Theft,Accidental Loss,New Zealand
+861,861,3.3,Healthcare,531,06/30/17,Identity Theft,Accidental Loss,United States
+862,862,3.3,Healthcare,100,03-04-2017,Identity Theft,Accidental Loss,United Kingdom
+863,863,3.3,Healthcare,112,09-01-2017,Identity Theft,Malicious Outsider,United States
+864,864,3.3,Insurance,500,11-01-2017,Identity Theft,Accidental Loss,United States
+865,865,3.3,Hospitality,76,10/28/17,Existential Data,Accidental Loss,United States
+866,866,3.3,Retail,500,11/19/17,Nuisance,Malicious Outsider,United States
+867,867,3.3,Other,123,11/30/17,Identity Theft,Malicious Outsider,United States
+868,868,3.3,Other,455,12-01-2017,Nuisance,Malicious Outsider,United States
+869,869,3.2,Healthcare,19,03/28/17,Financial Access,Malicious Insider,United States
+870,870,3.2,Education,143,04-02-2017,Account Access,Accidental Loss,Singapore
+871,871,3.2,Professional Services,77,11/24/17,Identity Theft,Accidental Loss,United Kingdom
+872,872,3.2,Government,124,11-08-2017,Identity Theft,Malicious Insider,Canada
+873,873,3.2,Government,77,04-09-2017,Identity Theft,Accidental Loss,United States
+874,874,3.2,Education,12,11-06-2017,Financial Access,Malicious Outsider,United States
+875,875,3.1,Healthcare,10,06-02-2017,Identity Theft,Malicious Insider,United States
+876,876,3.1,Education,143,07/17/17,Account Access,Malicious Outsider,United States
+877,877,3.1,Government,68,03-09-2017,Identity Theft,Accidental Loss,United States
+878,878,3.1,Government,144,11/14/17,Account Access,Malicious Outsider,United States
+879,879,3.1,Healthcare,11,07/29/17,Identity Theft,Malicious Insider,United States
+880,880,3.1,Healthcare,10,06-01-2017,Identity Theft,Malicious Insider,United States
+881,881,3.1,Financial,348,11/24/17,Identity Theft,Accidental Loss,United States
+882,882,3.1,Education,29,11-02-2017,Nuisance,Malicious Outsider,Canada
+883,883,3.1,Financial,75,12-01-2017,Identity Theft,Malicious Outsider,United States
+884,884,3.1,Technology,70,08/31/17,Identity Theft,Accidental Loss,United States
+885,885,3.1,Retail,250,03-02-2017,Nuisance,Accidental Loss,Canada
+886,886,3,Government,8,04-04-2017,Identity Theft,Malicious Insider,United States
+887,887,3,Financial,7,02/17/17,Identity Theft,Malicious Outsider,United States
+888,888,3,Retail,7,01-11-2017,Identity Theft,Malicious Outsider,United States
+889,889,3,Healthcare,56,12-05-2017,Identity Theft,Accidental Loss,United Kingdom
+890,890,3,Healthcare,31,07-02-2017,Account Access,Malicious Insider,United Kingdom
+891,891,2.9,Education,52,12/31/17,Identity Theft,Malicious Outsider,United States
+892,892,2.9,Education,42,06/16/17,Identity Theft,Accidental Loss,United Kingdom
+893,893,2.9,Entertainment,8,05-09-2017,Financial Access,Malicious Insider,United States
+894,894,2.8,Other,144,01/25/17,Identity Theft,Accidental Loss,United States
+895,895,2.8,Financial,51,08/21/17,Financial Access,Malicious Outsider,United States
+896,896,2.8,Government,30,01/24/17,Identity Theft,Accidental Loss,Australia
+897,897,2.8,Healthcare,31,03/26/17,Identity Theft,Accidental Loss,Australia
+898,898,2.7,Healthcare,24,02-10-2017,Identity Theft,Accidental Loss,Australia
+899,899,2.7,Healthcare,7,03-06-2017,Identity Theft,Malicious Outsider,Canada
+900,900,2.7,Education,28,09/28/17,Identity Theft,Accidental Loss,United States
+901,901,2.7,Other,500,12-05-2017,Nuisance,Accidental Loss,United States
+902,902,2.7,Government,12,01/18/17,Account Access,Malicious Outsider,United States
+903,903,2.5,Government,75,12/27/17,Identity Theft,Accidental Loss,United States
+904,904,2.5,Financial,60,01-09-2017,Nuisance,Accidental Loss,United States
+905,905,2.5,Education,107,04-01-2017,Financial Access,Accidental Loss,United States
+906,906,2.5,Healthcare,100,06-01-2017,Nuisance,Malicious Insider,United States
+907,907,2.5,Healthcare,16,05/22/17,Identity Theft,Accidental Loss,Australia
+908,908,2.5,Insurance,2,01/27/17,Identity Theft,Malicious Outsider,United States
+909,909,2.4,Entertainment,27,05-04-2017,Account Access,Accidental Loss,United States
+910,910,2.4,Financial,12,08/17/17,Identity Theft,Accidental Loss,Singapore
+911,911,2.4,Financial,32,08/21/17,Account Access,Malicious Outsider,United States
+912,912,2.3,Retail,,02-03-2017,Existential Data,Malicious Outsider,United States
+913,913,2.3,Government,,11-08-2017,Existential Data,Malicious Outsider,Cambodia
+914,914,2.3,Technology,,01-12-2017,Existential Data,Malicious Outsider,Israel
+915,915,2.3,Government,,03/14/17,Existential Data,Malicious Outsider,Malaysia
+916,916,2.3,Healthcare,9,11/17/17,Identity Theft,Accidental Loss,United Kingdom
+917,917,2.3,Technology,,06-01-2017,Existential Data,Malicious Outsider,United States
+918,918,2.3,Industrial,,01-07-2017,Existential Data,Malicious Outsider,United States
+919,919,2.3,Other,,03-01-2017,Existential Data,Malicious Outsider,United States
+920,920,2.3,Hospitality,,02/26/17,Existential Data,Malicious Outsider,United States
+921,921,2.3,Government,,10/17/17,Existential Data,Malicious Outsider,United States
+922,922,2.3,Healthcare,,04/18/17,Existential Data,Malicious Outsider,United States
+923,923,2.3,Government,17,05-12-2017,Identity Theft,Malicious Insider,Canada
+924,924,2.3,Entertainment,,01/23/17,Existential Data,Malicious Outsider,United States
+925,925,2.3,Government,,06-07-2017,Existential Data,Malicious Outsider,Other
+926,926,2.3,Industrial,,03-06-2017,Existential Data,Malicious Outsider,United States
+927,927,2.3,Government,,02-11-2017,Existential Data,Malicious Outsider,United Kingdom
+928,928,2.3,Hospitality,18,11-01-2017,Financial Access,Malicious Outsider,Germany
+929,929,2.3,Professional Services,,05-08-2017,Existential Data,Malicious Outsider,United States
+930,930,2.3,Technology,,06-08-2017,Existential Data,Malicious Outsider,South Korea
+931,931,2.3,Healthcare,41,10-05-2017,Nuisance,Accidental Loss,Canada
+932,932,2.3,Other,,05-04-2017,Existential Data,Malicious Outsider,United States
+933,933,2.3,Government,,10-12-2017,Existential Data,Malicious Outsider,Australia
+934,934,2.3,Government,,10-11-2017,Existential Data,Malicious Outsider,Australia
+935,935,2.3,Professional Services,,07-09-2017,Existential Data,Malicious Outsider,United Kingdom
+936,936,2.3,Technology,,09/15/17,Existential Data,Malicious Outsider,United States
+937,937,2.2,Industrial,,03-01-2017,Identity Theft,Malicious Outsider,United States
+938,938,2.2,Industrial,,05-03-2017,Identity Theft,Malicious Outsider,United States
+939,939,2.2,Non-profit,,01/23/17,Identity Theft,Malicious Outsider,United States
+940,940,2.2,Industrial,,04-10-2017,Identity Theft,Malicious Outsider,United States
+941,941,2.2,Healthcare,,07-05-2017,Identity Theft,Malicious Outsider,United States
+942,942,2.2,Government,,12/15/17,Identity Theft,Malicious Outsider,United States
+943,943,2.2,Financial,,02-04-2017,Identity Theft,Malicious Outsider,United States
+944,944,2.2,Healthcare,,01/31/17,Identity Theft,Malicious Outsider,United States
+945,945,2.2,Retail,,01/23/17,Identity Theft,Malicious Outsider,United States
+946,946,2.2,Other,,02-10-2017,Identity Theft,Malicious Outsider,United States
+947,947,2.2,Insurance,,01-06-2017,Existential Data,Malicious Insider,United States
+948,948,2.2,Healthcare,,01/28/17,Identity Theft,Malicious Outsider,United States
+949,949,2.2,Industrial,,04/19/17,Identity Theft,Malicious Outsider,United States
+950,950,2.2,Education,,04/27/17,Identity Theft,Malicious Outsider,United States
+951,951,2.2,Healthcare,,11-06-2017,Identity Theft,Malicious Outsider,United States
+952,952,2.2,Professional Services,,05/25/17,Identity Theft,Malicious Outsider,United States
+953,953,2.2,Other,,02/27/17,Identity Theft,Malicious Outsider,United States
+954,954,2.2,Professional Services,,07/29/17,Identity Theft,Malicious Outsider,United States
+955,955,2.2,Financial,,10-05-2017,Identity Theft,Malicious Outsider,United States
+956,956,2.2,Technology,,02-10-2017,Identity Theft,Malicious Outsider,United States
+957,957,2.2,Financial,,06-09-2017,Identity Theft,Malicious Outsider,United States
+958,958,2.2,Government,,12-01-2017,Identity Theft,Malicious Outsider,United States
+959,959,2.2,Other,,02-01-2017,Existential Data,Malicious Insider,United States
+960,960,2.2,Other,,02-03-2017,Identity Theft,Malicious Outsider,United States
+961,961,2.2,Industrial,,09-07-2017,Identity Theft,Malicious Outsider,United States
+962,962,2.2,Technology,,03-03-2017,Identity Theft,Malicious Outsider,United States
+963,963,2.2,Technology,,03-07-2017,Identity Theft,Malicious Outsider,United States
+964,964,2.2,Financial,,05-03-2017,Identity Theft,Malicious Outsider,United States
+965,965,2.2,Education,,03-01-2017,Identity Theft,Malicious Outsider,United States
+966,966,2.2,Retail,,02-08-2017,Existential Data,Malicious Insider,United States
+967,967,2.2,Industrial,,03/24/17,Identity Theft,Malicious Outsider,United States
+968,968,2.2,Industrial,,02-10-2017,Identity Theft,Malicious Outsider,United States
+969,969,2.2,Retail,,01/17/17,Identity Theft,Malicious Outsider,United States
+970,970,2.2,Social Media,,03/19/17,Identity Theft,Malicious Outsider,United States
+971,971,2.2,Professional Services,,08-04-2017,Identity Theft,Malicious Outsider,United States
+972,972,2.2,Healthcare,,09/19/17,Identity Theft,Malicious Outsider,United States
+973,973,2.2,Healthcare,,03/28/17,Identity Theft,Malicious Outsider,United States
+974,974,2.2,Retail,,02-01-2017,Identity Theft,Malicious Outsider,United States
+975,975,2.2,Insurance,,03/29/17,Identity Theft,Malicious Outsider,United States
+976,976,2.2,Education,,07/16/17,Identity Theft,Malicious Outsider,United States
+977,977,2.2,Non-profit,,06/20/17,Identity Theft,Malicious Outsider,United States
+978,978,2.2,Retail,,02/27/17,Identity Theft,Malicious Outsider,United States
+979,979,2.2,Healthcare,,03-09-2017,Identity Theft,Malicious Outsider,United States
+980,980,2.2,Professional Services,,12-06-2017,Identity Theft,Malicious Outsider,United States
+981,981,2.2,Financial,,10-02-2017,Identity Theft,Malicious Outsider,United States
+982,982,2.2,Technology,,03/23/17,Identity Theft,Malicious Outsider,United States
+983,983,2.2,Government,,09/13/17,Identity Theft,Malicious Outsider,United States
+984,984,2.2,Financial,,12-08-2017,Identity Theft,Malicious Outsider,United States
+985,985,2.2,Government,,12-08-2017,Identity Theft,Malicious Outsider,United States
+986,986,2.2,Education,,06-01-2017,Identity Theft,Malicious Outsider,United States
+987,987,2.2,Professional Services,,07/13/17,Identity Theft,Malicious Outsider,Australia
+988,988,2.2,Financial,,04/25/17,Identity Theft,Malicious Outsider,United States
+989,989,2.2,Education,,01/25/17,Identity Theft,Malicious Outsider,United States
+990,990,2.2,Technology,,01/25/17,Identity Theft,Malicious Outsider,United States
+991,991,2.2,Financial,,03/30/17,Identity Theft,Malicious Outsider,United States
+992,992,2.2,Healthcare,,01/18/17,Identity Theft,Malicious Outsider,Canada
+993,993,2.2,Industrial,,02-01-2017,Identity Theft,Malicious Outsider,United States
+994,994,2.2,Education,,01/13/17,Identity Theft,Malicious Outsider,United States
+995,995,2.2,Financial,,01/18/17,Identity Theft,Malicious Outsider,United States
+996,996,2.2,Healthcare,,10/31/17,Identity Theft,Malicious Outsider,United States
+997,997,2.2,Retail,,03/17/17,Identity Theft,Malicious Outsider,United States
+998,998,2.2,Government,,06/15/17,Identity Theft,Malicious Outsider,United States
+999,999,2.2,Professional Services,,07/26/17,Identity Theft,Malicious Outsider,United States
+1000,1000,2.2,Technology,,01/26/17,Identity Theft,Malicious Outsider,United States
+1001,1001,2.2,Hospitality,,04/16/17,Identity Theft,Malicious Outsider,United States
+1002,1002,2.2,Professional Services,,05/23/17,Identity Theft,Malicious Outsider,United States
+1003,1003,2.2,Education,,01/31/17,Identity Theft,Malicious Outsider,United States
+1004,1004,2.2,Healthcare,,02-12-2017,Identity Theft,Malicious Outsider,United States
+1005,1005,2.2,Financial,,03/30/17,Identity Theft,Malicious Outsider,United States
+1006,1006,2.2,Professional Services,,06-12-2017,Identity Theft,Malicious Outsider,United States
+1007,1007,2.2,Financial,,09/19/17,Identity Theft,Malicious Outsider,United States
+1008,1008,2.2,Financial,,02-10-2017,Identity Theft,Malicious Outsider,United States
+1009,1009,2.2,Other,,03-02-2017,Identity Theft,Malicious Outsider,United States
+1010,1010,2.2,Professional Services,,07/18/17,Identity Theft,Malicious Outsider,United States
+1011,1011,2.2,Financial,,01/20/17,Identity Theft,Malicious Outsider,United States
+1012,1012,2.2,Financial,,03/23/17,Identity Theft,Malicious Outsider,United States
+1013,1013,2.2,Government,,03-09-2017,Identity Theft,Malicious Outsider,South Africa
+1014,1014,2.2,Professional Services,,07/18/17,Identity Theft,Malicious Outsider,United States
+1015,1015,2.2,Healthcare,,02-03-2017,Identity Theft,Malicious Outsider,United States
+1016,1016,2.2,Financial,,01-10-2017,Identity Theft,Malicious Outsider,United States
+1017,1017,2.2,Technology,,09/29/17,Existential Data,Malicious Insider,United States
+1018,1018,2.2,Financial,,05/26/17,Identity Theft,Malicious Outsider,United States
+1019,1019,2.2,Financial,,06-01-2017,Identity Theft,Malicious Outsider,United States
+1020,1020,2.2,Financial,,05/19/17,Identity Theft,Malicious Outsider,United States
+1021,1021,2.2,Healthcare,,08/15/17,Identity Theft,Malicious Outsider,United States
+1022,1022,2.2,Healthcare,,01/31/17,Identity Theft,Malicious Outsider,United States
+1023,1023,2.2,Insurance,,11-09-2017,Identity Theft,Malicious Outsider,United States
+1024,1024,2.2,Entertainment,,04/30/17,Identity Theft,Malicious Outsider,United States
+1025,1025,2.2,Healthcare,,06-04-2017,Identity Theft,Malicious Outsider,United States
+1026,1026,2.2,Education,,02/13/17,Identity Theft,Malicious Outsider,United States
+1027,1027,2.2,Government,,07/27/17,Existential Data,Malicious Insider,Singapore
+1028,1028,2.2,Education,,02-07-2017,Identity Theft,Malicious Outsider,United States
+1029,1029,2.2,Retail,,01/17/17,Identity Theft,Malicious Outsider,United States
+1030,1030,2.2,Government,,02-08-2017,Existential Data,Malicious Insider,United States
+1031,1031,2.2,Technology,,03-02-2017,Identity Theft,Malicious Outsider,United States
+1032,1032,2.2,Healthcare,,05-08-2017,Identity Theft,Malicious Outsider,United States
+1033,1033,2.2,Healthcare,,10/30/17,Identity Theft,Malicious Outsider,United States
+1034,1034,2.2,Technology,,04-08-2017,Existential Data,Malicious Insider,China
+1035,1035,2.2,Financial,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1036,1036,2.2,Industrial,,01-03-2017,Existential Data,Malicious Insider,Other
+1037,1037,2.2,Professional Services,,09/26/17,Identity Theft,Malicious Outsider,United States
+1038,1038,2.2,Financial,,02-06-2017,Identity Theft,Malicious Outsider,United States
+1039,1039,2.2,Healthcare,,03/17/17,Identity Theft,Malicious Outsider,United States
+1040,1040,2.2,Technology,,02/13/17,Identity Theft,Malicious Outsider,United States
+1041,1041,2.2,Technology,,01/21/17,Identity Theft,Malicious Outsider,United States
+1042,1042,2.2,Retail,,04-07-2017,Identity Theft,Malicious Outsider,United States
+1043,1043,2.2,Retail,,01/17/17,Identity Theft,Malicious Outsider,United States
+1044,1044,2.2,Technology,,02-09-2017,Identity Theft,Malicious Outsider,United States
+1045,1045,2.2,Financial,,05/31/17,Identity Theft,Malicious Outsider,United States
+1046,1046,2.2,Professional Services,,11/27/17,Identity Theft,Malicious Outsider,United States
+1047,1047,2.2,Other,,03/27/17,Identity Theft,Malicious Outsider,United States
+1048,1048,2.2,Financial,,01-03-2017,Identity Theft,Malicious Outsider,United States
+1049,1049,2.2,Retail,,09/30/17,Identity Theft,Malicious Outsider,United States
+1050,1050,2.2,Education,,07-09-2017,Identity Theft,Malicious Outsider,United States
+1051,1051,2.2,Entertainment,,01-04-2017,Existential Data,Malicious Insider,United Kingdom
+1052,1052,2.2,Retail,,02/22/17,Identity Theft,Malicious Outsider,United States
+1053,1053,2.2,Hospitality,,03/21/17,Identity Theft,Malicious Outsider,Australia
+1054,1054,2.2,Industrial,,01/19/17,Identity Theft,Malicious Outsider,United States
+1055,1055,2.2,Retail,,11/22/17,Identity Theft,Malicious Outsider,United Kingdom
+1056,1056,2.2,Other,,07/28/17,Identity Theft,Malicious Outsider,United States
+1057,1057,2.2,Healthcare,,11-05-2017,Identity Theft,Malicious Outsider,United States
+1058,1058,2.2,Hospitality,,03/20/17,Identity Theft,Malicious Outsider,United States
+1059,1059,2.2,Retail,,04-08-2017,Identity Theft,Malicious Outsider,United States
+1060,1060,2.2,Retail,,02-07-2017,Identity Theft,Malicious Outsider,United Kingdom
+1061,1061,2.2,Financial,,02-03-2017,Identity Theft,Malicious Outsider,United States
+1062,1062,2.2,Education,,01-07-2017,Identity Theft,Malicious Outsider,United States
+1063,1063,2.2,Retail,,01/25/17,Identity Theft,Malicious Outsider,United States
+1064,1064,2.2,Healthcare,,02/24/17,Identity Theft,Malicious Outsider,United States
+1065,1065,2.2,Industrial,,04/27/17,Identity Theft,Malicious Outsider,United States
+1066,1066,2.2,Education,,06-01-2017,Identity Theft,Malicious Outsider,United States
+1067,1067,2.2,Professional Services,,08-08-2017,Identity Theft,Malicious Outsider,United States
+1068,1068,2.2,Education,,10/21/17,Identity Theft,Malicious Outsider,United States
+1069,1069,2.2,Retail,,02-01-2017,Identity Theft,Malicious Outsider,United States
+1070,1070,2.2,Healthcare,,09/17/17,Identity Theft,Malicious Outsider,United States
+1071,1071,2.2,Industrial,,02-04-2017,Identity Theft,Malicious Outsider,United States
+1072,1072,2.2,Industrial,,01/26/17,Identity Theft,Malicious Outsider,United States
+1073,1073,2.2,Financial,,03-02-2017,Identity Theft,Malicious Outsider,United States
+1074,1074,2.2,Technology,,05-08-2017,Existential Data,Malicious Insider,United States
+1075,1075,2.2,Education,1,10-12-2017,Identity Theft,Malicious Outsider,United States
+1076,1076,2.2,Professional Services,,09/19/17,Identity Theft,Malicious Outsider,United States
+1077,1077,2.2,Retail,,01/21/17,Identity Theft,Malicious Outsider,United States
+1078,1078,2.2,Financial,,03-07-2017,Identity Theft,Malicious Outsider,United States
+1079,1079,2.2,Education,,02/13/17,Identity Theft,Malicious Outsider,Other
+1080,1080,2.2,Professional Services,,08/28/17,Identity Theft,Malicious Outsider,United States
+1081,1081,2.2,Healthcare,,10/24/17,Identity Theft,Malicious Outsider,United States
+1082,1082,2.2,Professional Services,,11-09-2017,Identity Theft,Malicious Outsider,Hong Kong
+1083,1083,2.2,Education,,02-01-2017,Identity Theft,Malicious Outsider,United States
+1084,1084,2.2,Retail,,04-04-2017,Identity Theft,Malicious Outsider,United States
+1085,1085,2.2,Professional Services,,08/24/17,Identity Theft,Malicious Outsider,United States
+1086,1086,2.2,Financial,,10-10-2017,Identity Theft,Malicious Outsider,United States
+1087,1087,2.2,Professional Services,,11/27/17,Existential Data,Malicious Insider,United States
+1088,1088,2.2,Education,,02-03-2017,Identity Theft,Malicious Outsider,United States
+1089,1089,2.2,Education,,06/16/17,Identity Theft,Malicious Outsider,United Kingdom
+1090,1090,2.2,Education,,08/15/17,Identity Theft,Malicious Outsider,United States
+1091,1091,2.2,Financial,,01/30/17,Identity Theft,Malicious Outsider,United States
+1092,1092,2.2,Professional Services,,09-03-2017,Identity Theft,Malicious Outsider,United States
+1093,1093,2.2,Healthcare,,01/25/17,Identity Theft,Malicious Outsider,United States
+1094,1094,2.2,Education,,01/20/17,Identity Theft,Malicious Outsider,United States
+1095,1095,2.2,Education,,11-07-2017,Identity Theft,Malicious Outsider,United States
+1096,1096,2.2,Insurance,,01/27/17,Identity Theft,Malicious Outsider,United States
+1097,1097,2.2,Industrial,,01/27/17,Identity Theft,Malicious Outsider,United States
+1098,1098,2.2,Retail,,02/23/17,Identity Theft,Malicious Outsider,United States
+1099,1099,2.2,Healthcare,,02/27/17,Identity Theft,Malicious Outsider,United States
+1100,1100,2.2,Financial,,02-08-2017,Identity Theft,Malicious Outsider,United States
+1101,1101,2.2,Technology,,03/21/17,Identity Theft,Malicious Outsider,United States
+1102,1102,2.2,Education,,01/14/17,Identity Theft,Malicious Outsider,United States
+1103,1103,2.2,Other,,03/29/17,Identity Theft,Malicious Outsider,Canada
+1104,1104,2.2,Government,,05/14/17,Existential Data,Malicious Insider,United States
+1105,1105,2.2,Technology,,08/23/17,Identity Theft,Malicious Outsider,United States
+1106,1106,2.2,Education,,01-11-2017,Identity Theft,Malicious Outsider,United States
+1107,1107,2.2,Retail,,08/30/17,Identity Theft,Malicious Outsider,United States
+1108,1108,2.2,Financial,,10/13/17,Identity Theft,Malicious Outsider,United States
+1109,1109,2.2,Financial,,01-11-2017,Identity Theft,Malicious Outsider,United States
+1110,1110,2.2,Financial,,08/31/17,Identity Theft,Malicious Outsider,United States
+1111,1111,2.2,Technology,,01/27/17,Identity Theft,Malicious Outsider,United States
+1112,1112,2.2,Healthcare,,10/27/17,Identity Theft,Malicious Outsider,United States
+1113,1113,2.2,Retail,,07/21/17,Identity Theft,Malicious Outsider,United States
+1114,1114,2.2,Financial,,02-01-2017,Identity Theft,Malicious Outsider,United States
+1115,1115,2.2,Financial,,02/23/17,Identity Theft,Malicious Outsider,United States
+1116,1116,2.2,Retail,,01/24/17,Identity Theft,Malicious Outsider,United States
+1117,1117,2.2,Healthcare,,02/21/17,Identity Theft,Malicious Outsider,United States
+1118,1118,2.2,Education,,02-07-2017,Identity Theft,Malicious Outsider,United States
+1119,1119,2.2,Retail,,01/18/17,Identity Theft,Malicious Outsider,United States
+1120,1120,2.2,Other,,01/16/17,Identity Theft,Malicious Outsider,United States
+1121,1121,2.2,Healthcare,,01/17/17,Identity Theft,Malicious Outsider,United States
+1122,1122,2.2,Healthcare,,04-06-2017,Identity Theft,Malicious Outsider,United States
+1123,1123,2.2,Education,,06/23/17,Identity Theft,Malicious Outsider,United States
+1124,1124,2.2,Financial,,02-02-2017,Identity Theft,Malicious Outsider,United States
+1125,1125,2.2,Retail,,01-07-2017,Identity Theft,Malicious Outsider,United States
+1126,1126,2.2,Other,,07/28/17,Identity Theft,Malicious Outsider,Ireland
+1127,1127,2.2,Other,,02-04-2017,Identity Theft,Malicious Outsider,United States
+1128,1128,2.2,Government,,05/22/17,Identity Theft,Malicious Outsider,Czech Republic
+1129,1129,2.2,Education,,03/20/17,Identity Theft,Malicious Outsider,United States
+1130,1130,2.2,Financial,,03/25/17,Existential Data,Malicious Insider,United States
+1131,1131,2.2,Industrial,,06-07-2017,Identity Theft,Malicious Outsider,United States
+1132,1132,2.2,Healthcare,,09/26/17,Identity Theft,Malicious Outsider,United States
+1133,1133,2.2,Professional Services,,08/21/17,Identity Theft,Malicious Outsider,United States
+1134,1134,2.2,Professional Services,,06/30/17,Identity Theft,Malicious Outsider,United States
+1135,1135,2.2,Other,,07/31/17,Identity Theft,Malicious Outsider,United States
+1136,1136,2.2,Technology,,02/28/17,Identity Theft,Malicious Outsider,United States
+1137,1137,2.2,Government,,04-05-2017,Existential Data,Malicious Insider,Mexico
+1138,1138,2.2,Professional Services,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1139,1139,2.2,Education,,02-11-2017,Identity Theft,Malicious Outsider,United States
+1140,1140,2.2,Industrial,,03/30/17,Identity Theft,Malicious Outsider,United States
+1141,1141,2.2,Government,,05/26/17,Existential Data,Malicious Insider,United Kingdom
+1142,1142,2.2,Retail,,05/29/17,Identity Theft,Malicious Outsider,United States
+1143,1143,2.2,Technology,,10/24/17,Identity Theft,Malicious Outsider,United States
+1144,1144,2.2,Technology,,03-01-2017,Identity Theft,Malicious Outsider,Kenya
+1145,1145,2.2,Financial,,09/30/17,Identity Theft,Malicious Outsider,United States
+1146,1146,2.2,Technology,,02/16/17,Identity Theft,Malicious Outsider,United States
+1147,1147,2.2,Technology,,01/26/17,Identity Theft,Malicious Outsider,United States
+1148,1148,2.2,Healthcare,,07/28/17,Identity Theft,Malicious Outsider,United States
+1149,1149,2.2,Industrial,,11/29/17,Identity Theft,Malicious Outsider,United Kingdom
+1150,1150,2.2,Professional Services,,09/17/17,Identity Theft,Malicious Outsider,United States
+1151,1151,2.2,Financial,,01-10-2017,Identity Theft,Malicious Outsider,United States
+1152,1152,2.2,Financial,,03-08-2017,Identity Theft,Malicious Outsider,United States
+1153,1153,2.2,Healthcare,,05/30/17,Existential Data,Malicious Insider,Australia
+1154,1154,2.2,Professional Services,,08/30/17,Identity Theft,Malicious Outsider,United States
+1155,1155,2.2,Healthcare,,01/20/17,Identity Theft,Malicious Outsider,United States
+1156,1156,2.2,Industrial,,03-01-2017,Identity Theft,Malicious Outsider,United States
+1157,1157,2.2,Insurance,,07/28/17,Identity Theft,Malicious Outsider,United States
+1158,1158,2.2,Technology,,02-07-2017,Identity Theft,Malicious Outsider,United States
+1159,1159,2.2,Financial,,02/22/17,Identity Theft,Malicious Outsider,United States
+1160,1160,2.2,Healthcare,,06/21/17,Identity Theft,Malicious Outsider,United States
+1161,1161,2.2,Other,,06-05-2017,Identity Theft,Malicious Outsider,United States
+1162,1162,2.2,Government,,03/13/17,Identity Theft,Malicious Outsider,United Kingdom
+1163,1163,2.2,Healthcare,,01-06-2017,Identity Theft,Malicious Outsider,United States
+1164,1164,2.2,Financial,,03-05-2017,Identity Theft,Malicious Outsider,United States
+1165,1165,2.2,Non-profit,,06-10-2017,Identity Theft,Malicious Outsider,United States
+1166,1166,2.2,Education,,03-08-2017,Existential Data,Malicious Insider,Israel
+1167,1167,2.2,Technology,,04/20/17,Identity Theft,Malicious Outsider,United States
+1168,1168,2.2,Healthcare,,05/19/17,Identity Theft,Malicious Outsider,United States
+1169,1169,2.2,Financial,,05-07-2017,Identity Theft,Malicious Outsider,United States
+1170,1170,2.2,Technology,,01/23/17,Identity Theft,Malicious Outsider,United States
+1171,1171,2.2,Financial,,02/15/17,Identity Theft,Malicious Outsider,United States
+1172,1172,2.2,Healthcare,,05/19/17,Identity Theft,Malicious Outsider,United States
+1173,1173,2.2,Industrial,,07/28/17,Identity Theft,Malicious Outsider,United States
+1174,1174,2.2,Healthcare,,08/28/17,Identity Theft,Malicious Outsider,United States
+1175,1175,2.2,Government,,02-10-2017,Identity Theft,Malicious Outsider,United States
+1176,1176,2.2,Financial,,03/16/17,Identity Theft,Malicious Outsider,United States
+1177,1177,2.2,Industrial,,05/23/17,Identity Theft,Malicious Outsider,United States
+1178,1178,2.2,Government,,02-09-2017,Identity Theft,Malicious Outsider,Singapore
+1179,1179,2.2,Retail,,04/28/17,Identity Theft,Malicious Outsider,United States
+1180,1180,2.2,Education,,01/23/17,Identity Theft,Malicious Outsider,United States
+1181,1181,2.2,Education,,01/23/17,Identity Theft,Malicious Outsider,United States
+1182,1182,2.2,Education,1,10-08-2017,Identity Theft,Malicious Outsider,United States
+1183,1183,2.2,Education,,01/23/17,Identity Theft,Malicious Outsider,United States
+1184,1184,2.2,Healthcare,,01/30/17,Identity Theft,Malicious Outsider,United States
+1185,1185,2.2,Government,,11/29/17,Identity Theft,Malicious Outsider,United States
+1186,1186,2.2,Financial,,02/26/17,Identity Theft,Malicious Outsider,United States
+1187,1187,2.2,Financial,,03/28/17,Identity Theft,Malicious Outsider,United States
+1188,1188,2.2,Insurance,,08-06-2017,Identity Theft,Malicious Outsider,United States
+1189,1189,2.2,Technology,,01-10-2017,Identity Theft,Malicious Outsider,United States
+1190,1190,2.2,Education,,03-01-2017,Identity Theft,Malicious Outsider,United States
+1191,1191,2.2,Technology,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1192,1192,2.2,Retail,,02/20/17,Identity Theft,Malicious Outsider,United States
+1193,1193,2.2,Industrial,,11/14/17,Identity Theft,Malicious Outsider,United States
+1194,1194,2.2,Healthcare,,08/22/17,Identity Theft,Malicious Outsider,United States
+1195,1195,2.2,Industrial,,03/16/17,Identity Theft,Malicious Outsider,United States
+1196,1196,2.2,Healthcare,,02-03-2017,Identity Theft,Malicious Outsider,United States
+1197,1197,2.2,Healthcare,,06/23/17,Identity Theft,Malicious Outsider,United States
+1198,1198,2.2,Financial,,03/14/17,Identity Theft,Malicious Outsider,United States
+1199,1199,2.2,Other,,03/16/17,Identity Theft,Malicious Outsider,United States
+1200,1200,2.2,Healthcare,,07-05-2017,Identity Theft,Malicious Outsider,United States
+1201,1201,2.2,Professional Services,,03/23/17,Existential Data,Malicious Insider,United States
+1202,1202,2.2,Professional Services,,07/17/17,Identity Theft,Malicious Outsider,United States
+1203,1203,2.2,Technology,,07/28/17,Identity Theft,Malicious Outsider,United States
+1204,1204,2.2,Other,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1205,1205,2.2,Professional Services,,05/19/17,Identity Theft,Malicious Outsider,United States
+1206,1206,2.2,Financial,,01/24/17,Identity Theft,Malicious Outsider,United States
+1207,1207,2.2,Industrial,,02-08-2017,Existential Data,Malicious Insider,United States
+1208,1208,2.2,Education,,02/22/17,Identity Theft,Malicious Outsider,United States
+1209,1209,2.2,Other,,02/21/17,Identity Theft,Malicious Outsider,United States
+1210,1210,2.2,Financial,,01-12-2017,Identity Theft,Malicious Outsider,United States
+1211,1211,2.2,Industrial,,07/28/17,Identity Theft,Malicious Outsider,United States
+1212,1212,2.2,Technology,,01/17/17,Identity Theft,Malicious Outsider,United States
+1213,1213,2.2,Government,,08-02-2017,Identity Theft,Malicious Outsider,United States
+1214,1214,2.2,Non-profit,,03/13/17,Identity Theft,Malicious Outsider,United States
+1215,1215,2.2,Financial,,02/16/17,Identity Theft,Malicious Outsider,United States
+1216,1216,2.2,Other,,08/17/17,Identity Theft,Malicious Outsider,United States
+1217,1217,2.2,Government,,12-06-2017,Identity Theft,Malicious Outsider,United States
+1218,1218,2.2,Healthcare,,05-09-2017,Identity Theft,Malicious Outsider,United States
+1219,1219,2.2,Technology,,05/20/17,Identity Theft,Malicious Outsider,United States
+1220,1220,2.2,Professional Services,,08-09-2017,Identity Theft,Malicious Outsider,United States
+1221,1221,2.2,Retail,,01-11-2017,Identity Theft,Malicious Outsider,United States
+1222,1222,2.2,Professional Services,,07/21/17,Existential Data,Malicious Insider,United States
+1223,1223,2.2,Technology,,12-06-2017,Identity Theft,Malicious Outsider,United States
+1224,1224,2.2,Healthcare,,07-05-2017,Identity Theft,Malicious Outsider,United States
+1225,1225,2.2,Technology,,02/13/17,Identity Theft,Malicious Outsider,United States
+1226,1226,2.2,Healthcare,,02-10-2017,Identity Theft,Malicious Outsider,United States
+1227,1227,2.2,Hospitality,,01-05-2017,Identity Theft,Malicious Outsider,Canada
+1228,1228,2.2,Professional Services,,08-04-2017,Identity Theft,Malicious Outsider,United States
+1229,1229,2.2,Financial,,01/27/17,Identity Theft,Malicious Outsider,United States
+1230,1230,2.2,Healthcare,,02/22/17,Identity Theft,Malicious Outsider,United States
+1231,1231,2.2,Retail,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1232,1232,2.2,Financial,,07/22/17,Identity Theft,Malicious Outsider,United States
+1233,1233,2.2,Financial,,02-01-2017,Identity Theft,Malicious Outsider,United States
+1234,1234,2.2,Professional Services,,08-01-2017,Identity Theft,Malicious Outsider,United States
+1235,1235,2.2,Technology,,02-03-2017,Identity Theft,Malicious Outsider,United States
+1236,1236,2.2,Other,,01/17/17,Identity Theft,Malicious Outsider,United States
+1237,1237,2.2,Financial,,05/19/17,Identity Theft,Malicious Outsider,United States
+1238,1238,2.2,Professional Services,,07/27/17,Identity Theft,Malicious Outsider,United States
+1239,1239,2.2,Retail,,02/22/17,Identity Theft,Malicious Outsider,United States
+1240,1240,2.2,Other,,01/28/17,Identity Theft,Malicious Outsider,United States
+1241,1241,2.2,Education,,04-01-2017,Identity Theft,Malicious Outsider,United States
+1242,1242,2.2,Financial,,03/17/17,Identity Theft,Malicious Outsider,United States
+1243,1243,2.2,Technology,,08-06-2017,Identity Theft,Malicious Outsider,United States
+1244,1244,2.2,Non-profit,,02-09-2017,Identity Theft,Malicious Outsider,United States
+1245,1245,2.2,Technology,,02/13/17,Identity Theft,Malicious Outsider,United States
+1246,1246,2.2,Entertainment,,01/31/17,Identity Theft,Malicious Outsider,United States
+1247,1247,2.2,Financial,,02-07-2017,Identity Theft,Malicious Outsider,United States
+1248,1248,2.2,Industrial,,08/26/17,Existential Data,Malicious Insider,United States
+1249,1249,2.2,Non-profit,,02-02-2017,Identity Theft,Malicious Outsider,United States
+1250,1250,2.2,Financial,,02-09-2017,Identity Theft,Malicious Outsider,United States
+1251,1251,2.2,Industrial,,06-07-2017,Existential Data,Malicious Insider,United States
+1252,1252,2.2,Education,,02-03-2017,Identity Theft,Malicious Outsider,United States
+1253,1253,2.2,Entertainment,,02/13/17,Identity Theft,Malicious Outsider,United States
+1254,1254,2.2,Technology,,02-02-2017,Identity Theft,Malicious Outsider,United States
+1255,1255,2.2,Non-profit,,03-01-2017,Identity Theft,Malicious Outsider,United States
+1256,1256,2.2,Education,,09/25/17,Identity Theft,Malicious Outsider,Canada
+1257,1257,2.2,Healthcare,,03/16/17,Identity Theft,Malicious Outsider,United States
+1258,1258,2.2,Education,,01-06-2017,Identity Theft,Malicious Outsider,United States
+1259,1259,2.2,Education,,02/15/17,Identity Theft,Malicious Outsider,United States
+1260,1260,2.2,Other,,03/29/17,Identity Theft,Malicious Outsider,United States
+1261,1261,2.2,Industrial,,03-09-2017,Identity Theft,Malicious Outsider,United States
+1262,1262,2.2,Financial,,03/25/17,Identity Theft,Malicious Outsider,United States
+1263,1263,2.2,Healthcare,,04-07-2017,Identity Theft,Malicious Outsider,United States
+1264,1264,2.2,Healthcare,,02-09-2017,Identity Theft,Malicious Outsider,United States
+1265,1265,2.2,Other,,02/27/17,Identity Theft,Malicious Outsider,United States
+1266,1266,2.2,Healthcare,,09/29/17,Identity Theft,Malicious Outsider,United States
+1267,1267,2.2,Education,,02-03-2017,Identity Theft,Malicious Outsider,United States
+1268,1268,2.2,Industrial,,07-08-2017,Identity Theft,Malicious Outsider,United States
+1269,1269,2.2,Education,,02/13/17,Identity Theft,Malicious Outsider,United States
+1270,1270,2.2,Professional Services,,07/14/17,Identity Theft,Malicious Outsider,United States
+1271,1271,2.2,Technology,,02/23/17,Identity Theft,Malicious Outsider,United States
+1272,1272,2.2,Financial,,02/22/17,Identity Theft,Malicious Outsider,United States
+1273,1273,2.2,Hospitality,8,04-04-2017,Identity Theft,Accidental Loss,Australia
+1274,1274,2.2,Professional Services,,03-08-2017,Identity Theft,Malicious Outsider,United States
+1275,1275,2.2,Education,,01/23/17,Identity Theft,Malicious Outsider,United States
+1276,1276,2.2,Financial,,03/20/17,Identity Theft,Malicious Outsider,United States
+1277,1277,2.2,Insurance,,08/25/17,Identity Theft,Malicious Outsider,United States
+1278,1278,2.2,Insurance,,03-06-2017,Identity Theft,Malicious Outsider,United States
+1279,1279,2.2,Professional Services,,08/21/17,Identity Theft,Malicious Outsider,United States
+1280,1280,2.2,Professional Services,,08-10-2017,Identity Theft,Malicious Outsider,United States
+1281,1281,2.2,Government,,02/17/17,Identity Theft,Malicious Outsider,United States
+1282,1282,2.2,Retail,,02/13/17,Identity Theft,Malicious Outsider,United States
+1283,1283,2.2,Education,,07/26/17,Identity Theft,Malicious Outsider,United States
+1284,1284,2.2,Technology,,10/20/17,Identity Theft,Malicious Outsider,United States
+1285,1285,2.2,Hospitality,,07-07-2017,Identity Theft,Malicious Outsider,United States
+1286,1286,2.2,Other,,02-08-2017,Identity Theft,Malicious Outsider,United States
+1287,1287,2.2,Financial,,02-04-2017,Identity Theft,Malicious Outsider,United States
+1288,1288,2.2,Industrial,,07-10-2017,Identity Theft,Malicious Outsider,United States
+1289,1289,2.2,Financial,,02-02-2017,Identity Theft,Malicious Outsider,United States
+1290,1290,2.2,Retail,,03/24/17,Identity Theft,Malicious Outsider,United States
+1291,1291,2.2,Professional Services,,08-11-2017,Identity Theft,Malicious Outsider,United States
+1292,1292,2.2,Education,,01/18/17,Identity Theft,Malicious Outsider,United States
+1293,1293,2.2,Hospitality,,05-04-2017,Identity Theft,Malicious Outsider,Global
+1294,1294,2.2,Financial,,04-09-2017,Existential Data,Malicious Insider,United States
+1295,1295,2.2,Financial,,08-08-2017,Identity Theft,Malicious Outsider,United States
+1296,1296,2.2,Financial,,01-07-2017,Identity Theft,Malicious Outsider,United States
+1297,1297,2.2,Professional Services,,08-09-2017,Identity Theft,Malicious Outsider,United States
+1298,1298,2.2,Other,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1299,1299,2.2,Government,,12-08-2017,Identity Theft,Malicious Outsider,United States
+1300,1300,2.2,Healthcare,,03-08-2017,Identity Theft,Malicious Outsider,United States
+1301,1301,2.2,Government,,03-01-2017,Identity Theft,Malicious Outsider,United States
+1302,1302,2.2,Education,,09-08-2017,Identity Theft,Malicious Outsider,United States
+1303,1303,2.2,Financial,,02-09-2017,Identity Theft,Malicious Outsider,United States
+1304,1304,2.2,Other,,02/21/17,Identity Theft,Malicious Outsider,United States
+1305,1305,2.2,Professional Services,,12-09-2017,Existential Data,Malicious Insider,Canada
+1306,1306,2.2,Retail,,02/21/17,Identity Theft,Malicious Outsider,United States
+1307,1307,2.2,Education,,08-10-2017,Identity Theft,Malicious Outsider,South Korea
+1308,1308,2.2,Financial,,02/14/17,Identity Theft,Malicious Outsider,United States
+1309,1309,2.2,Education,,10-06-2017,Identity Theft,Malicious Outsider,Canada
+1310,1310,2.2,Financial,,01/29/17,Identity Theft,Malicious Outsider,United States
+1311,1311,2.2,Other,,03/30/17,Identity Theft,Malicious Outsider,United States
+1312,1312,2.2,Technology,,01/30/17,Identity Theft,Malicious Outsider,United States
+1313,1313,2.2,Financial,,01/24/17,Identity Theft,Malicious Outsider,United States
+1314,1314,2.2,Other,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1315,1315,2.2,Technology,,01/19/17,Identity Theft,Malicious Outsider,United States
+1316,1316,2.2,Healthcare,,10-12-2017,Identity Theft,Malicious Outsider,United States
+1317,1317,2.2,Healthcare,,02/24/17,Identity Theft,Malicious Outsider,United States
+1318,1318,2.2,Technology,,02-01-2017,Identity Theft,Malicious Outsider,United States
+1319,1319,2.2,Financial,,02-09-2017,Identity Theft,Malicious Outsider,United States
+1320,1320,2.2,Education,,12/13/17,Identity Theft,Malicious Outsider,United States
+1321,1321,2.2,Education,,02/16/17,Identity Theft,Malicious Outsider,United States
+1322,1322,2.2,Education,,04/24/17,Identity Theft,Malicious Outsider,United States
+1323,1323,2.2,Education,,10/25/17,Identity Theft,Malicious Outsider,United States
+1324,1324,2.2,Entertainment,,02/23/17,Identity Theft,Malicious Outsider,United States
+1325,1325,2.2,Financial,,03-08-2017,Identity Theft,Malicious Outsider,United States
+1326,1326,2.2,Education,,02-08-2017,Identity Theft,Malicious Outsider,United States
+1327,1327,2.2,Other,,02-02-2017,Identity Theft,Malicious Outsider,United States
+1328,1328,2.2,Education,,03-05-2017,Identity Theft,Malicious Outsider,United States
+1329,1329,2.2,Professional Services,,08-10-2017,Identity Theft,Malicious Outsider,United States
+1330,1330,2.2,Technology,,01/30/17,Identity Theft,Malicious Outsider,United States
+1331,1331,2.2,Financial,,01/14/17,Identity Theft,Malicious Outsider,United States
+1332,1332,2.2,Professional Services,,07-06-2017,Identity Theft,Malicious Outsider,United States
+1333,1333,2.2,Education,,02/25/17,Identity Theft,Malicious Outsider,United States
+1334,1334,2.2,Other,,05-06-2017,Identity Theft,Malicious Outsider,United States
+1335,1335,2.2,Government,,11/22/17,Identity Theft,Malicious Outsider,United States
+1336,1336,2.2,Non-profit,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1337,1337,2.2,Financial,,03/29/17,Identity Theft,Malicious Outsider,United States
+1338,1338,2.2,Financial,,02-07-2017,Identity Theft,Malicious Outsider,United States
+1339,1339,2.2,Healthcare,,09/26/17,Identity Theft,Malicious Outsider,United States
+1340,1340,2.2,Industrial,,04/21/17,Identity Theft,Malicious Outsider,United States
+1341,1341,2.2,Financial,,07/17/17,Identity Theft,Malicious Outsider,United States
+1342,1342,2.2,Professional Services,,07/19/17,Identity Theft,Malicious Outsider,United States
+1343,1343,2.2,Other,,02-09-2017,Identity Theft,Malicious Outsider,United States
+1344,1344,2.2,Retail,,02-08-2017,Identity Theft,Malicious Outsider,United States
+1345,1345,2.2,Technology,,02-10-2017,Identity Theft,Malicious Outsider,United States
+1346,1346,2.2,Education,,03/27/17,Identity Theft,Malicious Outsider,United States
+1347,1347,2.2,Financial,,03-02-2017,Identity Theft,Malicious Outsider,United States
+1348,1348,2.2,Government,,07/20/17,Identity Theft,Malicious Outsider,United States
+1349,1349,2.2,Technology,,03/16/17,Identity Theft,Malicious Outsider,United States
+1350,1350,2.2,Healthcare,,01/24/17,Identity Theft,Malicious Outsider,United States
+1351,1351,2.2,Education,,06-08-2017,Identity Theft,Malicious Outsider,Ireland
+1352,1352,2.2,Financial,,03/28/17,Identity Theft,Malicious Outsider,United States
+1353,1353,2.2,Healthcare,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1354,1354,2.2,Healthcare,,06/19/17,Identity Theft,Malicious Outsider,United States
+1355,1355,2.2,Retail,,02-02-2017,Identity Theft,Malicious Outsider,United States
+1356,1356,2.2,Healthcare,,02/28/17,Identity Theft,Malicious Outsider,United States
+1357,1357,2.2,Financial,,10/19/17,Identity Theft,Malicious Outsider,United States
+1358,1358,2.2,Industrial,,02-01-2017,Identity Theft,Malicious Outsider,United States
+1359,1359,2.2,Retail,,01/25/17,Identity Theft,Malicious Outsider,United States
+1360,1360,2.2,Education,,02/17/17,Identity Theft,Malicious Outsider,United States
+1361,1361,2.2,Hospitality,,07/20/17,Identity Theft,Malicious Outsider,United States
+1362,1362,2.2,Government,,10/19/17,Identity Theft,Malicious Outsider,United States
+1363,1363,2.2,Healthcare,,12/15/17,Identity Theft,Malicious Outsider,United States
+1364,1364,2.2,Financial,,03/29/17,Identity Theft,Malicious Outsider,United States
+1365,1365,2.2,Financial,,07-01-2017,Identity Theft,Malicious Outsider,United States
+1366,1366,2.2,Industrial,,02/23/17,Identity Theft,Malicious Outsider,United States
+1367,1367,2.2,Education,,02-06-2017,Identity Theft,Malicious Outsider,United States
+1368,1368,2.2,Insurance,,07/22/17,Identity Theft,Malicious Outsider,United States
+1369,1369,2.2,Financial,,09/20/17,Identity Theft,Malicious Outsider,United States
+1370,1370,2.2,Technology,,01/21/17,Identity Theft,Malicious Outsider,United States
+1371,1371,2.2,Financial,,04-11-2017,Identity Theft,Malicious Outsider,United States
+1372,1372,2.2,Financial,,09-09-2017,Identity Theft,Malicious Outsider,United States
+1373,1373,2.2,Retail,,12-11-2017,Identity Theft,Malicious Outsider,United States
+1374,1374,2.2,Professional Services,,07-06-2017,Identity Theft,Malicious Outsider,United States
+1375,1375,2.2,Financial,,03-03-2017,Identity Theft,Malicious Outsider,United States
+1376,1376,2.2,Entertainment,,07-09-2017,Identity Theft,Malicious Outsider,United States
+1377,1377,2.2,Professional Services,,08-04-2017,Identity Theft,Malicious Outsider,United States
+1378,1378,2.2,Retail,,04-10-2017,Identity Theft,Malicious Outsider,United States
+1379,1379,2.2,Professional Services,,09-11-2017,Identity Theft,Malicious Outsider,United States
+1380,1380,2.2,Professional Services,,07/21/17,Identity Theft,Malicious Outsider,United States
+1381,1381,2.2,Financial,,01/30/17,Identity Theft,Malicious Outsider,United States
+1382,1382,2.2,Financial,,01-04-2017,Identity Theft,Malicious Outsider,United States
+1383,1383,2.2,Healthcare,,08-09-2017,Identity Theft,Malicious Outsider,United States
+1384,1384,2.2,Hospitality,,02-10-2017,Identity Theft,Malicious Outsider,United States
+1385,1385,2.2,Financial,,02/15/17,Identity Theft,Malicious Outsider,United States
+1386,1386,2.2,Other,,04/18/17,Identity Theft,Malicious Outsider,United States
+1387,1387,2.2,Professional Services,,06/27/17,Identity Theft,Malicious Outsider,United States
+1388,1388,2.2,Education,,07-10-2017,Identity Theft,Malicious Outsider,United States
+1389,1389,2.2,Financial,,01/16/17,Identity Theft,Malicious Outsider,United States
+1390,1390,2.2,Healthcare,,05/20/17,Identity Theft,Malicious Outsider,United States
+1391,1391,2.2,Professional Services,,09/27/17,Identity Theft,Malicious Outsider,United States
+1392,1392,2.2,Healthcare,,02-01-2017,Identity Theft,Malicious Outsider,United States
+1393,1393,2.2,Financial,,06-08-2017,Identity Theft,Malicious Outsider,United States
+1394,1394,2.2,Education,,02/17/17,Identity Theft,Malicious Outsider,United States
+1395,1395,2.2,Industrial,,01/25/17,Identity Theft,Malicious Outsider,United States
+1396,1396,2.2,Financial,,05/13/17,Existential Data,Malicious Insider,United States
+1397,1397,2.2,Professional Services,,07-05-2017,Identity Theft,Malicious Outsider,United States
+1398,1398,2.2,Technology,,01/25/17,Identity Theft,Malicious Outsider,United States
+1399,1399,2.2,Education,,09/14/17,Identity Theft,Malicious Outsider,Australia
+1400,1400,2.2,Healthcare,,09-06-2017,Identity Theft,Malicious Outsider,Canada
+1401,1401,2.2,Entertainment,1,02-03-2017,Identity Theft,Malicious Outsider,United Kingdom
+1402,1402,2.2,Entertainment,,07/31/17,Identity Theft,Malicious Outsider,United States
+1403,1403,2.2,Financial,,02/16/17,Identity Theft,Malicious Outsider,United States
+1404,1404,2.2,Education,,01/16/17,Identity Theft,Malicious Outsider,United States
+1405,1405,2.2,Healthcare,,07/13/17,Identity Theft,Malicious Outsider,United States
+1406,1406,2.2,Insurance,,08/20/17,Identity Theft,Malicious Outsider,United States
+1407,1407,2.2,Industrial,,01/20/17,Identity Theft,Malicious Outsider,United States
+1408,1408,2.2,Government,,09/14/17,Identity Theft,Malicious Outsider,United States
+1409,1409,2.2,Financial,,08/30/17,Existential Data,Malicious Insider,Kenya
+1410,1410,2.2,Healthcare,,02/17/17,Identity Theft,Malicious Outsider,United States
+1411,1411,2.2,Education,,11-04-2017,Identity Theft,Malicious Outsider,United Kingdom
+1412,1412,2.2,Hospitality,,02/22/17,Identity Theft,Malicious Outsider,United States
+1413,1413,2.2,Industrial,,08/25/17,Identity Theft,Malicious Outsider,United States
+1414,1414,2.2,Technology,,03/31/17,Identity Theft,Malicious Outsider,United States
+1415,1415,2.2,Retail,,08/14/17,Identity Theft,Malicious Outsider,United States
+1416,1416,2.2,Other,,03/28/17,Identity Theft,Malicious Outsider,United States
+1417,1417,2.2,Industrial,,05/25/17,Identity Theft,Malicious Outsider,United States
+1418,1418,2.2,Education,,02/27/17,Identity Theft,Malicious Outsider,United States
+1419,1419,2.2,Professional Services,,05/26/17,Identity Theft,Malicious Outsider,United States
+1420,1420,2.2,Technology,,02/23/17,Identity Theft,Malicious Outsider,United States
+1421,1421,2.2,Insurance,,08/21/17,Identity Theft,Malicious Outsider,United States
+1422,1422,2.2,Professional Services,,10/20/17,Identity Theft,Malicious Outsider,United States
+1423,1423,2.2,Insurance,,01-12-2017,Identity Theft,Malicious Outsider,United States
+1424,1424,2.2,Professional Services,,07/30/17,Identity Theft,Malicious Outsider,United States
+1425,1425,2.2,Hospitality,,02-03-2017,Identity Theft,Malicious Outsider,United States
+1426,1426,2.2,Financial,,02/21/17,Identity Theft,Malicious Outsider,United States
+1427,1427,2.2,Other,,01-06-2017,Identity Theft,Malicious Outsider,United States
+1428,1428,2.2,Professional Services,,08/24/17,Identity Theft,Malicious Outsider,United States
+1429,1429,2.2,Government,,09-08-2017,Identity Theft,Malicious Outsider,United States
+1430,1430,2.2,Retail,,02/16/17,Identity Theft,Malicious Outsider,United States
+1431,1431,2.2,Financial,,07/21/17,Identity Theft,Malicious Outsider,United States
+1432,1432,2.2,Government,,03/13/17,Identity Theft,Malicious Outsider,United States
+1433,1433,2.2,Financial,,01/24/17,Identity Theft,Malicious Outsider,United States
+1434,1434,2.2,Government,,02-07-2017,Identity Theft,Malicious Outsider,United States
+1435,1435,2.2,Government,,02/21/17,Identity Theft,Malicious Outsider,United States
+1436,1436,2.2,Retail,,02/14/17,Identity Theft,Malicious Outsider,United States
+1437,1437,2.2,Technology,,09/19/17,Existential Data,Malicious Insider,United States
+1438,1438,2.2,Education,,05-08-2017,Identity Theft,Malicious Outsider,United States
+1439,1439,2.2,Other,,01/27/17,Identity Theft,Malicious Outsider,United States
+1440,1440,2.2,Technology,,09-01-2017,Existential Data,Malicious Insider,United States
+1441,1441,2.1,Retail,,01-02-2017,Financial Access,Malicious Outsider,United States
+1442,1442,2.1,Industrial,,09-01-2017,Identity Theft,Malicious Insider,Finland
+1443,1443,2.1,Other,,03-09-2017,Financial Access,Malicious Outsider,United States
+1444,1444,2.1,Retail,,02-10-2017,Financial Access,Malicious Outsider,United States
+1445,1445,2.1,Industrial,,06-01-2017,Financial Access,Malicious Outsider,United States
+1446,1446,2.1,Healthcare,,10/15/17,Identity Theft,Malicious Insider,United States
+1447,1447,2.1,Industrial,,06/20/17,Financial Access,Malicious Outsider,United States
+1448,1448,2.1,Retail,,01-09-2017,Financial Access,Malicious Outsider,United States
+1449,1449,2.1,Healthcare,,02-04-2017,Financial Access,Malicious Outsider,United States
+1450,1450,2.1,Retail,,04/27/17,Financial Access,Malicious Outsider,United States
+1451,1451,2.1,Retail,,05-12-2017,Financial Access,Malicious Outsider,United States
+1452,1452,2.1,Professional Services,,07-11-2017,Financial Access,Malicious Outsider,United States
+1453,1453,2.1,Retail,,01/30/17,Financial Access,Malicious Outsider,United States
+1454,1454,2.1,Retail,,01-05-2017,Financial Access,Malicious Outsider,United States
+1455,1455,2.1,Hospitality,,06/16/17,Financial Access,Malicious Outsider,United States
+1456,1456,2.1,Government,1,03-01-2017,Identity Theft,Malicious Insider,Australia
+1457,1457,2.1,Retail,,04-08-2017,Financial Access,Malicious Outsider,United States
+1458,1458,2.1,Financial,,01-02-2017,Financial Access,Malicious Outsider,United States
+1459,1459,2.1,Retail,,05/26/17,Financial Access,Malicious Outsider,United States
+1460,1460,2.1,Financial,,07-05-2017,Financial Access,Malicious Outsider,United States
+1461,1461,2.1,Financial,,03-03-2017,Identity Theft,Malicious Insider,United States
+1462,1462,2.1,Education,,04-09-2017,Financial Access,Malicious Outsider,United Kingdom
+1463,1463,2.1,Professional Services,,08/15/17,Financial Access,Malicious Outsider,United States
+1464,1464,2.1,Retail,,02-12-2017,Financial Access,Malicious Outsider,United States
+1465,1465,2.1,Entertainment,,04-07-2017,Financial Access,Malicious Outsider,United States
+1466,1466,2.1,Hospitality,,07/20/17,Financial Access,Malicious Outsider,Canada
+1467,1467,2.1,Retail,,08/18/17,Financial Access,Malicious Outsider,United States
+1468,1468,2.1,Financial,,01/23/17,Financial Access,Malicious Outsider,United States
+1469,1469,2.1,Financial,,06-01-2017,Financial Access,Malicious Outsider,United States
+1470,1470,2.1,Retail,,07/17/17,Financial Access,Malicious Outsider,United States
+1471,1471,2.1,Entertainment,,04/20/17,Financial Access,Malicious Outsider,United States
+1472,1472,2.1,Professional Services,,07/17/17,Financial Access,Malicious Outsider,United States
+1473,1473,2.1,Financial,,08-05-2017,Financial Access,Malicious Outsider,Netherlands
+1474,1474,2.1,Healthcare,,01/25/17,Identity Theft,Malicious Insider,United States
+1475,1475,2.1,Financial,,05-11-2017,Financial Access,Malicious Outsider,United States
+1476,1476,2.1,Hospitality,,06/13/17,Financial Access,Malicious Outsider,United States
+1477,1477,2.1,Retail,,02-06-2017,Financial Access,Malicious Outsider,United States
+1478,1478,2.1,Healthcare,,09/19/17,Identity Theft,Malicious Insider,United States
+1479,1479,2.1,Retail,,09/29/17,Financial Access,Malicious Outsider,United States
+1480,1480,2.1,Education,,01-08-2017,Financial Access,Malicious Outsider,United States
+1481,1481,2.1,Technology,,07/17/17,Financial Access,Malicious Outsider,Israel
+1482,1482,2.1,Entertainment,,02-02-2017,Financial Access,Malicious Outsider,United States
+1483,1483,2.1,Financial,,07/19/17,Financial Access,Malicious Outsider,United Kingdom
+1484,1484,2.1,Retail,,04/26/17,Financial Access,Malicious Outsider,United States
+1485,1485,2.1,Financial,,09-07-2017,Financial Access,Malicious Outsider,United States
+1486,1486,2.1,Healthcare,,06/30/17,Identity Theft,Malicious Insider,United States
+1487,1487,2.1,Retail,,11/14/17,Financial Access,Malicious Outsider,United States
+1488,1488,2.1,Retail,,09/28/17,Financial Access,Malicious Outsider,United States
+1489,1489,2.1,Healthcare,,01-08-2017,Identity Theft,Malicious Insider,United States
+1490,1490,2.1,Entertainment,,06/15/17,Financial Access,Malicious Outsider,United States
+1491,1491,2.1,Technology,,06-08-2017,Identity Theft,Malicious Insider,China
+1492,1492,2.1,Retail,,06/17/17,Financial Access,Malicious Outsider,United States
+1493,1493,2.1,Industrial,,09/15/17,Financial Access,Malicious Outsider,Canada
+1494,1494,2.1,Financial,,12/22/17,Financial Access,Malicious Outsider,United States
+1495,1495,2.1,Retail,,05/15/17,Financial Access,Malicious Outsider,United States
+1496,1496,2.1,Retail,,12/22/17,Financial Access,Malicious Outsider,United States
+1497,1497,2.1,Financial,,12/21/17,Financial Access,Malicious Outsider,United States
+1498,1498,2.1,Retail,,01/14/17,Financial Access,Malicious Outsider,United States
+1499,1499,2.1,Financial,,07/25/17,Financial Access,Malicious Outsider,United States
+1500,1500,2.1,Retail,,02/26/17,Financial Access,Malicious Outsider,United States
+1501,1501,2.1,Entertainment,,06-07-2017,Financial Access,Malicious Outsider,United States
+1502,1502,2.1,Healthcare,,07/26/17,Financial Access,Malicious Outsider,United States
+1503,1503,2.1,Retail,,09/22/17,Financial Access,Malicious Outsider,United Kingdom
+1504,1504,2.1,Financial,,07/21/17,Financial Access,Malicious Outsider,United Kingdom
+1505,1505,2.1,Retail,,07/24/17,Financial Access,Malicious Outsider,United States
+1506,1506,2.1,Financial,,07-09-2017,Financial Access,Malicious Outsider,United States
+1507,1507,2.1,Retail,,07/24/17,Financial Access,Malicious Outsider,United States
+1508,1508,2.1,Retail,,11/22/17,Financial Access,Malicious Outsider,United States
+1509,1509,2.1,Retail,,02/23/17,Financial Access,Malicious Outsider,United States
+1510,1510,2.1,Retail,,06/29/17,Financial Access,Malicious Outsider,United States
+1511,1511,2.1,Non-profit,,02-04-2017,Financial Access,Malicious Outsider,United States
+1512,1512,2.1,Retail,,04-01-2017,Financial Access,Malicious Outsider,United States
+1513,1513,2.1,Retail,,01-05-2017,Financial Access,Malicious Outsider,United States
+1514,1514,2.1,Financial,,06-08-2017,Financial Access,Malicious Outsider,United States
+1515,1515,2.1,Financial,,04/26/17,Identity Theft,Malicious Insider,United States
+1516,1516,2.1,Technology,,07/28/17,Financial Access,Malicious Outsider,United States
+1517,1517,2.1,Retail,,07-06-2017,Financial Access,Malicious Outsider,United States
+1518,1518,2.1,Financial,,05-01-2017,Financial Access,Malicious Outsider,New Zealand
+1519,1519,2.1,Retail,,12/22/17,Financial Access,Malicious Outsider,United States
+1520,1520,2.1,Retail,,02/20/17,Financial Access,Malicious Outsider,United Kingdom
+1521,1521,2.1,Financial,,01-09-2017,Financial Access,Malicious Outsider,United States
+1522,1522,2.1,Technology,,11/21/17,Financial Access,Malicious Outsider,United States
+1523,1523,2.1,Healthcare,,03-10-2017,Financial Access,Malicious Outsider,United States
+1524,1524,2.1,Retail,,01/25/17,Financial Access,Malicious Outsider,United States
+1525,1525,2.1,Retail,,04-11-2017,Financial Access,Malicious Outsider,United States
+1526,1526,2.1,Retail,,04/14/17,Financial Access,Malicious Outsider,United States
+1527,1527,2.1,Other,,11/21/17,Financial Access,Malicious Outsider,United States
+1528,1528,2.1,Retail,,02-10-2017,Financial Access,Malicious Outsider,United States
+1529,1529,2.1,Retail,,05/27/17,Financial Access,Malicious Outsider,United States
+1530,1530,2.1,Retail,,05/30/17,Financial Access,Malicious Outsider,United States
+1531,1531,2.1,Retail,,08/24/17,Financial Access,Malicious Outsider,United States
+1532,1532,2.1,Entertainment,,02/24/17,Financial Access,Malicious Outsider,United States
+1533,1533,2.1,Financial,,05-03-2017,Financial Access,Malicious Outsider,United States
+1534,1534,2.1,Retail,,02-08-2017,Financial Access,Malicious Outsider,United States
+1535,1535,2.1,Financial,,01-04-2017,Financial Access,Malicious Outsider,United States
+1536,1536,2.1,Retail,,01/22/17,Financial Access,Malicious Outsider,United States
+1537,1537,2.1,Financial,,05/20/17,Financial Access,Malicious Outsider,United States
+1538,1538,2.1,Retail,,05/17/17,Financial Access,Malicious Outsider,United States
+1539,1539,2.1,Retail,,02-07-2017,Financial Access,Malicious Outsider,United States
+1540,1540,2.1,Retail,,02-01-2017,Financial Access,Malicious Outsider,United States
+1541,1541,2.1,Retail,,02-10-2017,Financial Access,Malicious Outsider,United States
+1542,1542,2.1,Healthcare,,04/21/17,Identity Theft,Malicious Insider,United States
+1543,1543,2.1,Retail,,06-01-2017,Financial Access,Malicious Outsider,United States
+1544,1544,2.1,Financial,,03-03-2017,Financial Access,Malicious Outsider,United States
+1545,1545,2.1,Retail,,02/21/17,Financial Access,Malicious Outsider,United States
+1546,1546,2.1,Financial,,02/27/17,Financial Access,Malicious Outsider,United Kingdom
+1547,1547,2.1,Technology,,03/16/17,Financial Access,Malicious Outsider,United States
+1548,1548,2.1,Non-profit,,02/17/17,Financial Access,Malicious Outsider,United States
+1549,1549,2.1,Healthcare,,01/20/17,Identity Theft,Malicious Insider,Canada
+1550,1550,2.1,Retail,,03-01-2017,Financial Access,Malicious Outsider,United States
+1551,1551,2.1,Education,,03/13/17,Financial Access,Malicious Outsider,Australia
+1552,1552,2.1,Retail,,02-01-2017,Financial Access,Malicious Outsider,United States
+1553,1553,2.1,Healthcare,,06/26/17,Identity Theft,Malicious Insider,United States
+1554,1554,2.1,Professional Services,,08-04-2017,Financial Access,Malicious Outsider,United States
+1555,1555,2.1,Non-profit,,04/16/17,Financial Access,Malicious Outsider,United States
+1556,1556,2.1,Retail,,02/15/17,Financial Access,Malicious Outsider,United States
+1557,1557,2.1,Retail,,04/29/17,Financial Access,Malicious Outsider,Canada
+1558,1558,2.1,Retail,,06-09-2017,Financial Access,Malicious Outsider,United States
+1559,1559,2.1,Financial,,08-01-2017,Financial Access,Malicious Outsider,United States
+1560,1560,2.1,Retail,,02-06-2017,Financial Access,Malicious Outsider,United States
+1561,1561,2.1,Retail,,02/21/17,Financial Access,Malicious Outsider,United States
+1562,1562,2.1,Technology,,02/28/17,Financial Access,Malicious Outsider,United States
+1563,1563,2.1,Technology,,09/26/17,Financial Access,Malicious Outsider,United States
+1564,1564,2.1,Retail,,09/15/17,Financial Access,Malicious Outsider,United States
+1565,1565,2.1,Retail,,08-09-2017,Financial Access,Malicious Outsider,United States
+1566,1566,2.1,Hospitality,,02/14/17,Financial Access,Malicious Outsider,United States
+1567,1567,2.1,Financial,,07/26/17,Financial Access,Malicious Outsider,United States
+1568,1568,2.1,Financial,,07/16/17,Financial Access,Malicious Outsider,United States
+1569,1569,2.1,Retail,,02-06-2017,Financial Access,Malicious Outsider,United States
+1570,1570,2.1,Retail,,07/28/17,Financial Access,Malicious Outsider,United States
+1571,1571,2.1,Retail,,07/18/17,Financial Access,Malicious Outsider,United States
+1572,1572,2.1,Retail,,02/27/17,Financial Access,Malicious Outsider,United States
+1573,1573,2.1,Government,,07/21/17,Financial Access,Malicious Outsider,United States
+1574,1574,2.1,Professional Services,,08-01-2017,Identity Theft,Malicious Insider,United Kingdom
+1575,1575,2.1,Financial,,04-09-2017,Financial Access,Malicious Outsider,United States
+1576,1576,2.1,Financial,,01-01-2017,Financial Access,Malicious Outsider,United States
+1577,1577,2.1,Education,,12-07-2017,Identity Theft,Malicious Insider,United States
+1578,1578,2.1,Healthcare,,05-03-2017,Identity Theft,Malicious Insider,United States
+1579,1579,2.1,Education,,08/23/17,Financial Access,Malicious Outsider,United States
+1580,1580,2.1,Retail,,03-01-2017,Financial Access,Malicious Outsider,United States
+1581,1581,2.1,Industrial,,11/17/17,Financial Access,Malicious Outsider,United States
+1582,1582,2.1,Technology,,08-02-2017,Financial Access,Malicious Outsider,United States
+1583,1583,2.1,Retail,,08-08-2017,Financial Access,Malicious Outsider,United States
+1584,1584,2.1,Retail,,04/13/17,Financial Access,Malicious Outsider,United States
+1585,1585,2.1,Retail,,08-12-2017,Financial Access,Malicious Outsider,United States
+1586,1586,2.1,Hospitality,,04-04-2017,Financial Access,Malicious Outsider,United States
+1587,1587,2.1,Hospitality,,07-02-2017,Financial Access,Malicious Outsider,United States
+1588,1588,2.1,Financial,,03-03-2017,Identity Theft,Malicious Insider,United States
+1589,1589,2.1,Education,,04-05-2017,Financial Access,Malicious Outsider,United States
+1590,1590,2.1,Education,,07-05-2017,Financial Access,Malicious Outsider,United States
+1591,1591,2.1,Retail,,02/23/17,Financial Access,Malicious Outsider,United States
+1592,1592,2.1,Hospitality,,04/28/17,Financial Access,Malicious Outsider,United States
+1593,1593,2.1,Retail,,05/31/17,Financial Access,Malicious Outsider,United States
+1594,1594,2.1,Healthcare,,09/28/17,Financial Access,Malicious Outsider,United States
+1595,1595,2.1,Retail,,11/17/17,Financial Access,Malicious Outsider,United States
+1596,1596,2.1,Retail,,02-10-2017,Financial Access,Malicious Outsider,United States
+1597,1597,2.1,Retail,,08/18/17,Financial Access,Malicious Outsider,United States
+1598,1598,2.1,Other,,02/21/17,Identity Theft,Malicious Insider,United States
+1599,1599,2.1,Government,,04-12-2017,Identity Theft,Malicious Insider,Ireland
+1600,1600,2.1,Retail,,01/21/17,Financial Access,Malicious Outsider,United States
+1601,1601,2.1,Financial,,02/21/17,Financial Access,Malicious Outsider,United States
+1602,1602,2.1,Hospitality,,03-09-2017,Financial Access,Malicious Outsider,United States
+1603,1603,2.1,Professional Services,1,04-09-2017,Identity Theft,Malicious Insider,South Africa
+1604,1604,2.1,Retail,,03/24/17,Financial Access,Malicious Outsider,United States
+1605,1605,2.1,Hospitality,,05/19/17,Identity Theft,Malicious Insider,United States
+1606,1606,2.1,Healthcare,1,03/24/17,Identity Theft,Malicious Insider,United States
+1607,1607,2.1,Education,,04/20/17,Financial Access,Malicious Outsider,United States
+1608,1608,2.1,Financial,,08/17/17,Financial Access,Malicious Outsider,United States
+1609,1609,2.1,Financial,,08/17/17,Identity Theft,Malicious Insider,United States
+1610,1610,2.1,Financial,,03/13/17,Financial Access,Malicious Outsider,United States
+1611,1611,2.1,Financial,,08-07-2017,Financial Access,Malicious Outsider,United States
+1612,1612,2.1,Retail,,08/18/17,Financial Access,Malicious Outsider,United States
+1613,1613,2.1,Technology,,08/21/17,Financial Access,Malicious Outsider,United States
+1614,1614,2.1,Healthcare,,10-12-2017,Financial Access,Malicious Outsider,United States
+1615,1615,2.1,Financial,,01/31/17,Financial Access,Malicious Outsider,United States
+1616,1616,2.1,Retail,,11-03-2017,Financial Access,Malicious Outsider,United States
+1617,1617,2.1,Retail,,02-02-2017,Financial Access,Malicious Outsider,United States
+1618,1618,2.1,Technology,,08-01-2017,Financial Access,Malicious Outsider,United States
+1619,1619,2.1,Financial,,01-04-2017,Identity Theft,Malicious Insider,United States
+1620,1620,2.1,Healthcare,,01-09-2017,Identity Theft,Malicious Insider,United States
+1621,1621,2.1,Professional Services,,11/17/17,Financial Access,Malicious Outsider,United States
+1622,1622,2.1,Retail,,10/19/17,Financial Access,Malicious Outsider,United States
+1623,1623,2.1,Financial,,06/21/17,Financial Access,Malicious Outsider,United States
+1624,1624,2.1,Other,,05/16/17,Financial Access,Malicious Outsider,United States
+1625,1625,2.1,Financial,,06/20/17,Financial Access,Malicious Outsider,United States
+1626,1626,2.1,Retail,,03/13/17,Financial Access,Malicious Outsider,United States
+1627,1627,2.1,Healthcare,,06/29/17,Identity Theft,Malicious Insider,United States
+1628,1628,2.1,Healthcare,,02/21/17,Identity Theft,Malicious Insider,United States
+1629,1629,2.1,Retail,,03-08-2017,Financial Access,Malicious Outsider,United States
+1630,1630,2.1,Entertainment,,01-06-2017,Financial Access,Malicious Outsider,United States
+1631,1631,2.1,Healthcare,,09-04-2017,Identity Theft,Malicious Insider,United Kingdom
+1632,1632,2.1,Retail,,02/27/17,Financial Access,Malicious Outsider,United States
+1633,1633,2.1,Financial,,03/25/17,Financial Access,Malicious Outsider,United States
+1634,1634,2.1,Retail,,11-01-2017,Financial Access,Malicious Outsider,United States
+1635,1635,2.1,Retail,,03/29/17,Financial Access,Malicious Outsider,United States
+1636,1636,2.1,Financial,,02-02-2017,Financial Access,Malicious Outsider,United States
+1637,1637,2.1,Retail,,04-05-2017,Financial Access,Malicious Outsider,United States
+1638,1638,2.1,Professional Services,,10-11-2017,Financial Access,Malicious Outsider,United States
+1639,1639,2.1,Financial,,02/14/17,Financial Access,Malicious Outsider,United States
+1640,1640,2.1,Retail,,04-08-2017,Financial Access,Malicious Outsider,United States
+1641,1641,2.1,Financial,,01/24/17,Identity Theft,Malicious Insider,United States
+1642,1642,2.1,Financial,,04-11-2017,Financial Access,Malicious Outsider,United States
+1643,1643,2.1,Financial,,04-09-2017,Financial Access,Malicious Outsider,United States
+1644,1644,2.1,Retail,,03-02-2017,Financial Access,Malicious Outsider,United States
+1645,1645,2.1,Retail,,07-10-2017,Financial Access,Malicious Outsider,United States
+1646,1646,2.1,Industrial,,07/24/17,Financial Access,Malicious Outsider,United States
+1647,1647,2.1,Retail,,04/20/17,Financial Access,Malicious Outsider,United States
+1648,1648,2.1,Professional Services,,09-08-2017,Financial Access,Malicious Outsider,United States
+1649,1649,2.1,Retail,,04/27/17,Financial Access,Malicious Outsider,United States
+1650,1650,2.1,Entertainment,,04-07-2017,Financial Access,Malicious Outsider,United States
+1651,1651,2.1,Financial,,10/16/17,Financial Access,Malicious Outsider,United States
+1652,1652,2.1,Financial,,02-11-2017,Financial Access,Malicious Outsider,United States
+1653,1653,2.1,Non-profit,,09-08-2017,Identity Theft,Malicious Insider,Australia
+1654,1654,2.1,Government,,10/27/17,Financial Access,Malicious Outsider,United States
+1655,1655,2.1,Retail,,04-09-2017,Financial Access,Malicious Outsider,United States
+1656,1656,2.1,Retail,,04/18/17,Financial Access,Malicious Outsider,United States
+1657,1657,2.1,Financial,,10/22/17,Financial Access,Malicious Outsider,Asia
+1658,1658,2.1,Retail,,02-11-2017,Financial Access,Malicious Outsider,United States
+1659,1659,2.1,Healthcare,,08/30/17,Identity Theft,Malicious Insider,United States
+1660,1660,2.1,Retail,,02-06-2017,Financial Access,Malicious Outsider,United States
+1661,1661,2.1,Retail,,07/18/17,Financial Access,Malicious Outsider,United States
+1662,1662,2.1,Professional Services,,07-11-2017,Financial Access,Malicious Outsider,United States
+1663,1663,2.1,Government,,02-02-2017,Identity Theft,Malicious Insider,United States
+1664,1664,2.1,Financial,,01/15/17,Identity Theft,Malicious Insider,United States
+1665,1665,2.1,Government,,10/25/17,Identity Theft,Malicious Insider,United States
+1666,1666,2.1,Retail,,01/15/17,Financial Access,Malicious Outsider,United States
+1667,1667,2.1,Financial,,04-10-2017,Financial Access,Malicious Outsider,United States
+1668,1668,2.1,Financial,,09-12-2017,Financial Access,Malicious Outsider,Netherlands
+1669,1669,2.1,Retail,,02-07-2017,Financial Access,Malicious Outsider,United States
+1670,1670,2.1,Retail,,04-06-2017,Financial Access,Malicious Outsider,United States
+1671,1671,2,Retail,,08/30/17,Financial Access,Malicious Insider,United States
+1672,1672,2,Professional Services,,09-09-2017,Financial Access,Malicious Insider,United States
+1673,1673,2,Hospitality,1,02/28/17,Financial Access,Malicious Insider,United States
+1674,1674,2,Retail,,01/14/17,Financial Access,Malicious Insider,United States
+1675,1675,2,Retail,,01-09-2017,Financial Access,Malicious Insider,United States
+1676,1676,2,Government,,01-12-2017,Financial Access,Malicious Insider,United States
+1677,1677,2,Financial,,07/14/17,Financial Access,Malicious Insider,United States
+1678,1678,2,Government,,02-09-2017,Financial Access,Malicious Insider,United States
+1679,1679,2,Government,,01-09-2017,Existential Data,Malicious Outsider,United States
+1680,1680,2,Hospitality,1,10-06-2017,Financial Access,Malicious Insider,Qatar
+1681,1681,2,Healthcare,12,11-01-2017,Account Access,Malicious Outsider,United States
+1682,1682,2,Hospitality,,08/16/17,Financial Access,Malicious Insider,United States
+1683,1683,2,Retail,,08/21/17,Financial Access,Malicious Insider,United States
+1684,1684,2,Healthcare,1,07/21/17,Financial Access,Malicious Insider,United States
+1685,1685,2,Other,,02-02-2017,Financial Access,Malicious Insider,United States
+1686,1686,2,Professional Services,,08-09-2017,Financial Access,Malicious Insider,United States
+1687,1687,2,Government,,02/14/17,Financial Access,Malicious Insider,United States
+1688,1688,1.9,Social Media,,12-08-2017,Account Access,Malicious Outsider,United States
+1689,1689,1.9,Retail,,05/15/17,Account Access,Malicious Outsider,United States
+1690,1690,1.9,Education,4,09/20/17,Identity Theft,Accidental Loss,United States
+1691,1691,1.9,Professional Services,,06-12-2017,Account Access,Malicious Outsider,United States
+1692,1692,1.9,Retail,,05/30/17,Account Access,Malicious Outsider,Australia
+1693,1693,1.9,Non-profit,,01/14/17,Identity Theft,Malicious Outsider,United States
+1694,1694,1.9,Government,,01/27/17,Account Access,Malicious Outsider,Australia
+1695,1695,1.9,Professional Services,,07/25/17,Account Access,Malicious Outsider,United States
+1696,1696,1.9,Entertainment,,02-06-2017,Identity Theft,Malicious Outsider,United Kingdom
+1697,1697,1.9,Financial,,09-01-2017,Account Access,Malicious Outsider,United Kingdom
+1698,1698,1.9,Technology,,10/15/17,Account Access,Malicious Outsider,Canada
+1699,1699,1.9,Technology,,05/17/17,Account Access,Malicious Outsider,United States
+1700,1700,1.9,Entertainment,,05/31/17,Account Access,Malicious Outsider,Australia
+1701,1701,1.9,Retail,,01-11-2017,Account Access,Malicious Outsider,United States
+1702,1702,1.9,Technology,,02-06-2017,Account Access,Malicious Outsider,United Kingdom
+1703,1703,1.9,Entertainment,,05/30/17,Account Access,Malicious Outsider,United States
+1704,1704,1.9,Entertainment,,06/27/17,Account Access,Malicious Outsider,United States
+1705,1705,1.9,Government,,12/30/17,Identity Theft,Malicious Outsider,Italy
+1706,1706,1.9,Retail,,02-09-2017,Account Access,Malicious Outsider,Canada
+1707,1707,1.9,Technology,,02-09-2017,Account Access,Malicious Outsider,United Kingdom
+1708,1708,1.9,Healthcare,4,06/17/17,Identity Theft,Accidental Loss,United States
+1709,1709,1.9,Government,,08/13/17,Identity Theft,Malicious Outsider,United States
+1710,1710,1.9,Healthcare,,10/18/17,Identity Theft,Malicious Outsider,United States
+1711,1711,1.9,Professional Services,,05-04-2017,Account Access,Malicious Outsider,United States
+1712,1712,1.9,Education,,06/30/17,Account Access,Malicious Outsider,Canada
+1713,1713,1.9,Education,,03-01-2017,Account Access,Malicious Outsider,United States
+1714,1714,1.9,Retail,,02-07-2017,Account Access,Malicious Outsider,Canada
+1715,1715,1.9,Entertainment,,05/25/17,Account Access,Malicious Outsider,United States
+1716,1716,1.9,Technology,,08/29/17,Account Access,Malicious Outsider,Sweden
+1717,1717,1.9,Education,,05-02-2017,Account Access,Malicious Outsider,New Zealand
+1718,1718,1.9,Retail,,07-08-2017,Account Access,Malicious Outsider,United States
+1719,1719,1.9,Education,,04/24/17,Account Access,Malicious Outsider,United States
+1720,1720,1.9,Financial,,10/17/17,Account Access,Malicious Outsider,United States
+1721,1721,1.9,Financial,,10/23/17,Account Access,Malicious Outsider,United States
+1722,1722,1.9,Education,,05-01-2017,Account Access,Malicious Outsider,Nigeria
+1723,1723,1.9,Retail,,02-10-2017,Account Access,Malicious Outsider,Canada
+1724,1724,1.9,Retail,,07-09-2017,Account Access,Malicious Outsider,Canada
+1725,1725,1.9,Education,,03/28/17,Account Access,Malicious Outsider,Canada
+1726,1726,1.9,Technology,,05-12-2017,Account Access,Malicious Outsider,United States
+1727,1727,1.9,Retail,,10/27/17,Account Access,Malicious Outsider,United States
+1728,1728,1.9,Professional Services,,08/28/17,Account Access,Malicious Outsider,Canada
+1729,1729,1.9,Education,,12/14/17,Account Access,Malicious Outsider,United States
+1730,1730,1.9,Education,,06/20/17,Account Access,Malicious Outsider,United States
+1731,1731,1.9,Education,,08/29/17,Account Access,Malicious Outsider,Singapore
+1732,1732,1.9,Technology,,01-09-2017,Account Access,Malicious Outsider,United States
+1733,1733,1.9,Retail,,10/16/17,Account Access,Malicious Outsider,New Zealand
+1734,1734,1.9,Technology,,07/31/17,Identity Theft,Malicious Outsider,United States
+1735,1735,1.9,Retail,,09-07-2017,Account Access,Malicious Outsider,United States
+1736,1736,1.9,Healthcare,,06-12-2017,Identity Theft,Malicious Outsider,United States
+1737,1737,1.8,Technology,,01/24/17,Account Access,Malicious Insider,United States
+1738,1738,1.8,Healthcare,,02/14/17,Identity Theft,Malicious Insider,United States
+1739,1739,1.8,Social Media,,02-03-2017,Identity Theft,Malicious Insider,United States
+1740,1740,1.8,Healthcare,,03/22/17,Identity Theft,Malicious Insider,United States
+1741,1741,1.8,Technology,,05-04-2017,Account Access,Malicious Insider,China
+1742,1742,1.8,Healthcare,,02/14/17,Identity Theft,Malicious Insider,United States
+1743,1743,1.8,Government,,07-03-2017,Identity Theft,Malicious Insider,Netherlands
+1744,1744,1.8,Financial,,02-08-2017,Identity Theft,Malicious Insider,Netherlands
+1745,1745,1.8,Retail,1,12-11-2017,Identity Theft,Malicious Insider,United States
+1746,1746,1.8,Government,1,04-01-2017,Identity Theft,Malicious Insider,United States
+1747,1747,1.8,Technology,,11-01-2017,Financial Access,Malicious Outsider,South Africa
+1748,1748,1.8,Retail,,01-04-2017,Identity Theft,Malicious Insider,United States
+1749,1749,1.7,Government,,08-01-2017,Existential Data,Accidental Loss,United States
+1750,1750,1.7,Government,,12/18/17,Existential Data,Hacktivist,United States
+1751,1751,1.6,Technology,1,01/24/17,Nuisance,Malicious Outsider,Canada
+1752,1752,1.6,Other,,10-06-2017,Nuisance,Malicious Outsider,United States
+1753,1753,1.6,Retail,,02-02-2017,Nuisance,Malicious Outsider,Australia
+1754,1754,1.6,Technology,,01/13/17,Identity Theft,Unknown,United States
+1755,1755,1.6,Government,,11/17/17,Identity Theft,Accidental Loss,Italy
+1756,1756,1.6,Healthcare,3,07-01-2017,Identity Theft,Malicious Insider,Canada
+1757,1757,1.6,Retail,,05-11-2017,Identity Theft,Accidental Loss,United States
+1758,1758,1.6,Healthcare,,11/28/17,Identity Theft,Hacktivist,United States
+1759,1759,1.6,Education,,09/29/17,Nuisance,Malicious Outsider,United States
+1760,1760,1.6,Education,,06/19/17,Nuisance,Malicious Outsider,United States
+1761,1761,1.6,Education,,05/27/17,Nuisance,Malicious Outsider,United States
+1762,1762,1.6,Technology,,08-08-2017,Identity Theft,Accidental Loss,United States
+1763,1763,1.6,Financial,,02-07-2017,Identity Theft,Accidental Loss,United States
+1764,1764,1.6,Financial,,05/30/17,Nuisance,Malicious Outsider,South Africa
+1765,1765,1.6,Government,,12-06-2017,Nuisance,Malicious Outsider,United States
+1766,1766,1.6,Non-profit,,12/15/17,Nuisance,Malicious Outsider,United States
+1767,1767,1.6,Financial,,04-08-2017,Nuisance,Malicious Outsider,United States
+1768,1768,1.6,Education,,10-09-2017,Nuisance,Malicious Outsider,United States
+1769,1769,1.5,Non-profit,4,11-12-2017,Account Access,Malicious Outsider,United Kingdom
+1770,1770,1.5,Healthcare,,07/16/17,Nuisance,Malicious Insider,United States
+1771,1771,1.5,Financial,,08/25/17,Nuisance,Malicious Insider,United States
+1772,1772,1.4,Education,,11/13/17,Existential Data,Accidental Loss,United Kingdom
+1773,1773,1.4,Technology,,02-05-2017,Existential Data,Accidental Loss,Austria
+1774,1774,1.4,Government,,11/17/17,Existential Data,Accidental Loss,United States
+1775,1775,1.4,Professional Services,,05-11-2017,Existential Data,Accidental Loss,United States
+1776,1776,1.4,Technology,,03-03-2017,Existential Data,Accidental Loss,United States
+1777,1777,1.4,Hospitality,,01/24/17,Existential Data,Accidental Loss,United States
+1778,1778,1.4,Entertainment,,01-05-2017,Existential Data,Accidental Loss,United States
+1779,1779,1.4,Technology,,08/21/17,Existential Data,Accidental Loss,United States
+1780,1780,1.4,Government,,06/17/17,Existential Data,Accidental Loss,United States
+1781,1781,1.4,Technology,,09-03-2017,Existential Data,Accidental Loss,United States
+1782,1782,1.4,Entertainment,,11-08-2017,Existential Data,Accidental Loss,Australia
+1783,1783,1.3,Other,,04/20/17,Identity Theft,Accidental Loss,United States
+1784,1784,1.3,Other,,03/13/17,Identity Theft,Accidental Loss,United States
+1785,1785,1.3,Retail,,09-01-2017,Identity Theft,Accidental Loss,United States
+1786,1786,1.3,Financial,,11/13/17,Identity Theft,Accidental Loss,Malaysia
+1787,1787,1.3,Government,,09/20/17,Identity Theft,Accidental Loss,Canada
+1788,1788,1.3,Retail,,02-01-2017,Identity Theft,Accidental Loss,United States
+1789,1789,1.3,Healthcare,,06/16/17,Identity Theft,Accidental Loss,Canada
+1790,1790,1.3,Healthcare,,11-10-2017,Identity Theft,Accidental Loss,United States
+1791,1791,1.3,Financial,,02-09-2017,Existential Data,Malicious Outsider,United States
+1792,1792,1.3,Government,,01-03-2017,Identity Theft,Accidental Loss,United States
+1793,1793,1.3,Government,,11/23/17,Identity Theft,Accidental Loss,Switzerland
+1794,1794,1.3,Hospitality,,10/30/17,Identity Theft,Accidental Loss,United States
+1795,1795,1.3,Education,,10/17/17,Identity Theft,Accidental Loss,United States
+1796,1796,1.3,Government,1,04/28/17,Identity Theft,Accidental Loss,Australia
+1797,1797,1.3,Healthcare,,06/19/17,Identity Theft,Accidental Loss,United States
+1798,1798,1.3,Government,,01/27/17,Identity Theft,Accidental Loss,United States
+1799,1799,1.3,Education,,09/28/17,Identity Theft,Accidental Loss,Singapore
+1800,1800,1.3,Non-profit,5,10-01-2017,Identity Theft,Accidental Loss,Canada
+1801,1801,1.3,Government,1,03/30/17,Identity Theft,Accidental Loss,United States
+1802,1802,1.3,Other,,06/22/17,Identity Theft,Accidental Loss,United Kingdom
+1803,1803,1.3,Government,1,01-09-2017,Existential Data,Malicious Outsider,United States
+1804,1804,1.3,Retail,,01-03-2017,Identity Theft,Accidental Loss,United States
+1805,1805,1.3,Healthcare,,04/16/17,Identity Theft,Accidental Loss,United States
+1806,1806,1.3,Other,,01/27/17,Identity Theft,Accidental Loss,United States
+1807,1807,1.3,Healthcare,,02/16/17,Existential Data,Malicious Outsider,United States
+1808,1808,1.3,Financial,,01-07-2017,Identity Theft,Accidental Loss,Other
+1809,1809,1.3,Other,,04-08-2017,Identity Theft,Accidental Loss,United States
+1810,1810,1.3,Professional Services,,08/21/17,Identity Theft,Accidental Loss,Australia
+1811,1811,1.3,Other,,04-07-2017,Identity Theft,Accidental Loss,United States
+1812,1812,1.3,Government,,03/17/17,Existential Data,Malicious Outsider,United States
+1813,1813,1.3,Government,,03/17/17,Identity Theft,Accidental Loss,Singapore
+1814,1814,1.3,Education,,11-08-2017,Identity Theft,Accidental Loss,United States
+1815,1815,1.3,Technology,,03-02-2017,Identity Theft,Accidental Loss,United States
+1816,1816,1.3,Education,,01/13/17,Existential Data,Malicious Outsider,United States
+1817,1817,1.3,Education,,05-09-2017,Identity Theft,Accidental Loss,United States
+1818,1818,1.3,Healthcare,,03-09-2017,Identity Theft,Accidental Loss,United States
+1819,1819,1.3,Healthcare,,05-09-2017,Identity Theft,Accidental Loss,United States
+1820,1820,1.3,Industrial,,07/31/17,Identity Theft,Accidental Loss,United States
+1821,1821,1.3,Healthcare,,02/13/17,Identity Theft,Accidental Loss,United States
+1822,1822,1.3,Healthcare,,04-01-2017,Identity Theft,Accidental Loss,United States
+1823,1823,1.3,Healthcare,,05-01-2017,Identity Theft,Accidental Loss,United States
+1824,1824,1.3,Government,,05-06-2017,Identity Theft,Accidental Loss,United States
+1825,1825,1.3,Financial,,10/16/17,Identity Theft,Accidental Loss,United States
+1826,1826,1.3,Government,,03/14/17,Identity Theft,Accidental Loss,United States
+1827,1827,1.3,Financial,,02-08-2017,Identity Theft,Accidental Loss,United States
+1828,1828,1.3,Entertainment,,08/28/17,Identity Theft,Accidental Loss,United States
+1829,1829,1.3,Technology,,12-07-2017,Identity Theft,Accidental Loss,Singapore
+1830,1830,1.3,Technology,,12-07-2017,Identity Theft,Accidental Loss,United States
+1831,1831,1.3,Government,,08-04-2017,Identity Theft,Accidental Loss,United States
+1832,1832,1.3,Other,,06/14/17,Identity Theft,Accidental Loss,United States
+1833,1833,1.3,Government,,05-09-2017,Identity Theft,Accidental Loss,United States
+1834,1834,1.3,Healthcare,,03/15/17,Identity Theft,Accidental Loss,New Zealand
+1835,1835,1.3,Healthcare,,12-04-2017,Identity Theft,Accidental Loss,United States
+1836,1836,1.3,Government,,04-03-2017,Identity Theft,Accidental Loss,United Kingdom
+1837,1837,1.3,Hospitality,,09/30/17,Identity Theft,Accidental Loss,United States
+1838,1838,1.3,Hospitality,,01/26/17,Identity Theft,Accidental Loss,Australia
+1839,1839,1.3,Government,,05/16/17,Identity Theft,Accidental Loss,New Zealand
+1840,1840,1.3,Education,,05/29/17,Identity Theft,Accidental Loss,United States
+1841,1841,1.3,Healthcare,,01/23/17,Identity Theft,Accidental Loss,United States
+1842,1842,1.3,Government,,07/17/17,Identity Theft,Accidental Loss,United Kingdom
+1843,1843,1.3,Retail,,07/20/17,Identity Theft,Accidental Loss,Australia
+1844,1844,1.3,Government,,02/21/17,Identity Theft,Accidental Loss,United Kingdom
+1845,1845,1.3,Government,,07-07-2017,Identity Theft,Accidental Loss,United Kingdom
+1846,1846,1.3,Education,,02/24/17,Identity Theft,Accidental Loss,United States
+1847,1847,1.3,Financial,,07/17/17,Identity Theft,Accidental Loss,United States
+1848,1848,1.3,Education,,10/27/17,Identity Theft,Accidental Loss,United States
+1849,1849,1.3,Healthcare,,10/19/17,Identity Theft,Accidental Loss,United States
+1850,1850,1.3,Retail,,03-09-2017,Identity Theft,Accidental Loss,United States
+1851,1851,1.3,Healthcare,,12/18/17,Identity Theft,Accidental Loss,United States
+1852,1852,1.3,Education,,02/13/17,Identity Theft,Accidental Loss,United States
+1853,1853,1.3,Healthcare,,02-10-2017,Identity Theft,Accidental Loss,United States
+1854,1854,1.3,Government,,05-08-2017,Identity Theft,Accidental Loss,United States
+1855,1855,1.3,Social Media,,07/25/17,Identity Theft,Accidental Loss,United States
+1856,1856,1.3,Healthcare,,07/13/17,Identity Theft,Accidental Loss,United States
+1857,1857,1.3,Education,,03-06-2017,Identity Theft,Accidental Loss,Canada
+1858,1858,1.3,Education,,09-08-2017,Identity Theft,Accidental Loss,United States
+1859,1859,1.3,Government,,11-03-2017,Identity Theft,Accidental Loss,United States
+1860,1860,1.3,Other,,02/17/17,Identity Theft,Accidental Loss,United States
+1861,1861,1.3,Government,,10-07-2017,Identity Theft,Accidental Loss,Canada
+1862,1862,1.3,Government,,03/13/17,Existential Data,Malicious Outsider,United States
+1863,1863,1.3,Healthcare,,04-12-2017,Identity Theft,Accidental Loss,United States
+1864,1864,1.3,Healthcare,,02/13/17,Identity Theft,Accidental Loss,United States
+1865,1865,1.3,Retail,,09-02-2017,Identity Theft,Accidental Loss,United Kingdom
+1866,1866,1.2,Financial,,03-06-2017,Identity Theft,Malicious Outsider,United States
+1867,1867,1.2,Entertainment,,03-04-2017,Financial Access,Accidental Loss,United States
+1868,1868,1.2,Financial,,05-04-2017,Financial Access,Accidental Loss,United States
+1869,1869,1.2,Government,,03/22/17,Identity Theft,Malicious Outsider,United States
+1870,1870,1.2,Healthcare,,04/24/17,Identity Theft,Malicious Outsider,United States
+1871,1871,1.2,Healthcare,,04-08-2017,Identity Theft,Malicious Outsider,United States
+1872,1872,1.2,Hospitality,,02/22/17,Identity Theft,Malicious Outsider,United States
+1873,1873,1.2,Financial,,01-07-2017,Identity Theft,Malicious Outsider,United Kingdom
+1874,1874,1.2,Other,,05/31/17,Identity Theft,Malicious Outsider,United Kingdom
+1875,1875,1.2,Healthcare,,06/14/17,Identity Theft,Malicious Outsider,United States
+1876,1876,1.2,Education,,10-05-2017,Identity Theft,Malicious Outsider,United States
+1877,1877,1.2,Retail,,11/23/17,Identity Theft,Malicious Outsider,United States
+1878,1878,1.2,Government,,02-09-2017,Identity Theft,Malicious Outsider,United Kingdom
+1879,1879,1.2,Industrial,,12/19/17,Identity Theft,Malicious Outsider,United States
+1880,1880,1.2,Hospitality,,12/29/17,Identity Theft,Malicious Outsider,United States
+1881,1881,1.2,Retail,,04-01-2017,Identity Theft,Malicious Outsider,United States
+1882,1882,1.2,Financial,,04/21/17,Identity Theft,Malicious Outsider,United States
+1883,1883,1.2,Financial,,05-01-2017,Identity Theft,Malicious Outsider,United States
+1884,1884,1.2,Professional Services,,06-06-2017,Identity Theft,Malicious Outsider,United States
+1885,1885,1.2,Financial,,12-02-2017,Financial Access,Accidental Loss,United States
+1886,1886,1.2,Insurance,,03-02-2017,Identity Theft,Malicious Outsider,United States
+1887,1887,1.2,Education,,09-01-2017,Identity Theft,Malicious Outsider,United States
+1888,1888,1.2,Other,,09-12-2017,Identity Theft,Malicious Outsider,United States
+1889,1889,1.2,Financial,,09/15/17,Identity Theft,Malicious Outsider,United States
+1890,1890,1.2,Retail,,09/22/17,Identity Theft,Malicious Outsider,United States
+1891,1891,1.2,Healthcare,,02/18/17,Identity Theft,Malicious Outsider,United States
+1892,1892,1.2,Financial,,05/19/17,Financial Access,Accidental Loss,United States
+1893,1893,1.2,Financial,,10-12-2017,Identity Theft,Malicious Outsider,United States
+1894,1894,1.2,Financial,,10/19/17,Identity Theft,Malicious Outsider,United States
+1895,1895,1.2,Professional Services,,10/31/17,Identity Theft,Malicious Outsider,United States
+1896,1896,1.2,Healthcare,,03-02-2017,Identity Theft,Malicious Outsider,United States
+1897,1897,1.2,Healthcare,,05-09-2017,Identity Theft,Malicious Outsider,United States
+1898,1898,1.2,Other,,11-06-2017,Identity Theft,Malicious Outsider,United States
+1899,1899,1.2,Government,,03/18/17,Identity Theft,Malicious Outsider,South Africa
+1900,1900,1.2,Retail,,11-09-2017,Identity Theft,Malicious Outsider,United States
+1901,1901,1.2,Other,,11/13/17,Identity Theft,Malicious Outsider,United States
+1902,1902,1.2,Professional Services,,11/17/17,Identity Theft,Malicious Outsider,United States
+1903,1903,1.2,Industrial,,11/20/17,Identity Theft,Malicious Outsider,United States
+1904,1904,1.2,Financial,,11/21/17,Identity Theft,Malicious Outsider,United States
+1905,1905,1.2,Other,,12-02-2017,Identity Theft,Malicious Outsider,United States
+1906,1906,1.2,Financial,,12-05-2017,Identity Theft,Malicious Outsider,United States
+1907,1907,1.2,Technology,,01/20/17,Financial Access,Accidental Loss,Canada
+1908,1908,1.2,Education,,12-11-2017,Identity Theft,Malicious Outsider,United States
+1909,1909,1.2,Education,,12-12-2017,Identity Theft,Malicious Outsider,United States
+1910,1910,1.2,Healthcare,,02/22/17,Identity Theft,Malicious Outsider,United States
+1911,1911,1.2,Financial,,01/28/17,Identity Theft,Malicious Outsider,United States
+1912,1912,1.2,Healthcare,,06-07-2017,Identity Theft,Malicious Outsider,United States
+1913,1913,1.1,Retail,,04-11-2017,Financial Access,Malicious Outsider,United States
+1914,1914,1.1,Technology,,02/21/17,Financial Access,Malicious Outsider,United States
+1915,1915,1.1,Government,,01/24/17,Identity Theft,Malicious Insider,New Zealand
+1916,1916,1.1,Retail,,02/22/17,Financial Access,Malicious Outsider,United States
+1917,1917,1.1,Professional Services,,03-09-2017,Financial Access,Malicious Outsider,United States
+1918,1918,1.1,Education,,04-01-2017,Identity Theft,Malicious Insider,United States
+1919,1919,1.1,Retail,,09-12-2017,Financial Access,Malicious Outsider,United States
+1920,1920,1.1,Retail,,09/29/17,Financial Access,Malicious Outsider,United States
+1921,1921,1.1,Retail,,10-01-2017,Financial Access,Malicious Outsider,United States
+1922,1922,1.1,Retail,,10/13/17,Financial Access,Malicious Outsider,United States
+1923,1923,1.1,Retail,,11-09-2017,Financial Access,Malicious Outsider,United States
+1924,1924,1.1,Hospitality,,05/19/17,Financial Access,Malicious Outsider,United States
+1925,1925,1.1,Government,,07-01-2017,Financial Access,Malicious Outsider,United States
+1926,1926,1.1,Insurance,,08/21/17,Financial Access,Malicious Outsider,United States
+1927,1927,1.1,Financial,,09-01-2017,Identity Theft,Malicious Insider,United States
+1928,1928,1.1,Other,,12-01-2017,Financial Access,Malicious Outsider,United States
+1929,1929,1.1,Hospitality,,12-06-2017,Financial Access,Malicious Outsider,United States
+1930,1930,1.1,Retail,,12/20/17,Financial Access,Malicious Outsider,United States
+1931,1931,1,Government,,02-02-2017,Account Access,State Sponsored,Norway
+1932,1932,1,Technology,,02-09-2017,Account Access,Accidental Loss,United States
+1933,1933,1,Professional Services,,11/17/17,Account Access,Accidental Loss,Australia
+1934,1934,1,Social Media,,05-10-2017,Account Access,Accidental Loss,United States
+1935,1935,1,Financial,,01-12-2017,Account Access,Accidental Loss,Other
+1936,1936,1,Government,,06/29/17,Account Access,Accidental Loss,United Kingdom
+1937,1937,1,Professional Services,,08-04-2017,Account Access,Accidental Loss,United States
+1938,1938,1,Professional Services,,10-09-2017,Account Access,Accidental Loss,United Kingdom
+1939,1939,1,Other,,02-02-2017,Account Access,Accidental Loss,United Kingdom
+1940,1940,1,Healthcare,,07-10-2017,Account Access,Accidental Loss,United States
+1941,1941,1,Government,,11-07-2017,Account Access,Accidental Loss,United States
+1942,1942,0.9,Social Media,,05/18/17,Account Access,Malicious Outsider,United States
+1943,1943,0.9,Technology,,03/23/17,Account Access,Malicious Outsider,United States
+1944,1944,0.9,Technology,,09-12-2017,Account Access,Malicious Outsider,United States
+1945,1945,0.7,Healthcare,,09-08-2017,Nuisance,Accidental Loss,Australia
+1946,1946,0.7,Professional Services,,10/17/17,Nuisance,Accidental Loss,United States
+1947,1947,0.7,Education,,01/13/17,Nuisance,Accidental Loss,United States
+1948,1948,0.7,Entertainment,,06/28/17,Nuisance,Accidental Loss,United Kingdom
+1949,1949,0.7,Government,,03/27/17,Nuisance,Accidental Loss,Australia
+1950,1950,0.7,Government,,04-08-2017,Nuisance,Accidental Loss,New Zealand
+1951,1951,0.7,Financial,,01/24/17,Nuisance,Accidental Loss,United States
+1952,1952,0.7,Healthcare,,10/31/17,Nuisance,Accidental Loss,United States
+1953,1953,0.6,Other,,02-09-2017,Identity Theft,Accidental Loss,United States
+1954,1954,0.6,Healthcare,,06-01-2017,Identity Theft,Accidental Loss,United States
+1955,1955,0.6,Healthcare,,06-10-2017,Identity Theft,Accidental Loss,United States
+1956,1956,0.6,Healthcare,,07-01-2017,Identity Theft,Accidental Loss,United States
+1957,1957,0.6,Healthcare,,11-01-2017,Identity Theft,Accidental Loss,United States
+1958,1958,0.6,Healthcare,,05/19/17,Identity Theft,Accidental Loss,United States
+1959,1959,0.6,Technology,,12-01-2017,Identity Theft,Accidental Loss,United States
+1960,1960,0.6,Education,,12-05-2017,Identity Theft,Accidental Loss,United States
+1961,1961,0.6,Other,,12/18/17,Identity Theft,Accidental Loss,United States
+1962,1962,0,Healthcare,,12/26/17,Nuisance,Accidental Loss,United States

@@ -1,0 +1,15 @@
+Statista:
+https://www.statista.com/statistics/798422/data-breach-per-capita-costs-in-health-care-and-other-sectors/
+
+Breach Level Index:
+https://breachlevelindex.com/data-breach-database.php?range=2017
+https://breachlevelindex.com/data-breach-database.php?range=2018
+
+DESI:
+https://data.world/makeovermonday/2019w5
+
+Jobs Data: 
+https://www.itjobswatch.co.uk/
+
+Student Data: HESA
+https://www.hesa.ac.uk/news/17-01-2019/sb252-higher-education-student-statistics/subjects
